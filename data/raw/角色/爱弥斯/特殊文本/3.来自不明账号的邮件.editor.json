@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "path": "角色/爱弥斯/特殊文本/3.来自不明账号的邮件.editor.json",
+  "title": "3.来自不明账号的邮件",
+  "blocks": [
+    {
+      "id": "25228ee1",
+      "type": "heading",
+      "text": "不明账号：",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "4c888598",
+      "type": "narration",
+      "text": "你好呀。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "796d37cb",
+      "type": "narration",
+      "text": "节日将近，我在附件里给你塞了礼物！希望你能开心开心～",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "10c3d46d",
+      "type": "narration",
+      "text": "本来想着再塞点小东西……但，时间不多了，只能准备这些啦。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "b6e28a6b",
+      "type": "narration",
+      "text": "明天就要去隧者那儿了，等我成为完整的共鸣者后，也就到了告别的时候。说实话，我怕那时候我笑不出来，没法好好和你说再见……还是现在就来写这条讯息好了。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "c7645305",
+      "type": "narration",
+      "text": "其实，我还有好多好多话想对你说。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "00bc356f",
+      "type": "narration",
+      "text": "你不在的日子里，我偶尔会想，如果能再见到你，我该说点什么呢？我应该气愤地闹一场，责问你为什么过了这么久才回来。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "e64da94a",
+      "type": "narration",
+      "text": "应该对你说辛苦了，告诉你当年的孩子已经长大了。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "cfb870c4",
+      "type": "narration",
+      "text": "还是说……也许我们不应该再见？",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "0a13386d",
+      "type": "narration",
+      "text": "……哎，本以为再见到你会让我变得矫情起来，现在心情反而坚定了些。毕竟你还是和从前一样见不得别人受苦，对吧，“虚诞虫骑士”？",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "7cb43995",
+      "type": "narration",
+      "text": "那么，作为被救世主言传身教的继承人，我只好自私一点。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "909045a2",
+      "type": "narration",
+      "text": "这一次，你就把使命交给我，好好看着我拯救世界的英姿吧？",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "2f2be401",
+      "type": "heading",
+      "text": "附件：来，笑一个吧",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "b357965a",
+      "type": "narration",
+      "text": "由爱弥斯亲手绘制的图画。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "56037a38",
+      "type": "narration",
+      "text": "“祝你……旅途愉快！”",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    }
+  ]
+}

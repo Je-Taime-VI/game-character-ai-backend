@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "path": "世界观/地区信息/罗伊冰原/隧者.editor.json",
+  "title": "隧者",
+  "blocks": [
+    {
+      "id": "dcc27ad6",
+      "type": "narration",
+      "text": "外来文明遗留的巨型机体，现存于罗伊冰原。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "046cc2db",
+      "type": "narration",
+      "text": "星炬学院即为培养能与其建立外源性共鸣的驾驶员「适格者」而设。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "513d21fa",
+      "type": "narration",
+      "text": "在罗伊人的《三纪神话》中，祂名为「巴德尔」，被视为太阳「朔尔」的人间化身。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "74640778",
+      "type": "narration",
+      "text": "据传其曾以巨剑支撑濒临坍塌的地壳，使罗伊人免于毁灭。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "766220b5",
+      "type": "narration",
+      "text": "在预言中，沉眠的祂终将苏醒,与灭世的邪祗「赫龙格」展开终焉之战。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    }
+  ]
+}

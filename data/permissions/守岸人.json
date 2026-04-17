@@ -1,0 +1,18 @@
+{
+  "role_name": "守岸人",
+  "extra_role_paths": [],
+  "extra_world_paths": [],
+  "region_overrides": [],
+  "allowed_story_paths": [
+    "主线/34-第三章-驶向尚未点亮之星-间章-日光落处/简介.txt"
+  ],
+  "notes": "样例：仅可访问第三章间章《日光落处》的简介。",
+  "role_info": null,
+  "allowed_role_paths": [
+    "角色/守岸人"
+  ],
+  "allowed_world_paths": [
+    "世界观/全局世界观"
+  ],
+  "allowed_region_layers": []
+}

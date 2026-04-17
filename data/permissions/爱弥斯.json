@@ -1,0 +1,57 @@
+{
+  "role_name": "爱弥斯",
+  "extra_role_paths": [
+    "角色/I.R.I.S/*",
+    "角色/I.R.I.S/特殊文本/**",
+    "角色/守岸人/*",
+    "角色/莫宁/特殊文本/**",
+    "角色/陆·赫斯/基本信息.txt"
+  ],
+  "extra_world_paths": [],
+  "region_overrides": [],
+  "allowed_story_paths": [],
+  "notes": "",
+  "role_info": {
+    "resonance_ability": "长航的星辉",
+    "gender": "女",
+    "birthplace": "拉海洛",
+    "weapon": "迅刀",
+    "attribute": "热熔",
+    "identity": "星炬学院拉贝尔学部的隧者适格者，电子幽灵。",
+    "affiliation": "星炬学院",
+    "role_name": "爱弥斯",
+    "role_dir": "data/raw/角色/爱弥斯",
+    "basic_info_path": "data/raw/角色/爱弥斯/基本信息.txt"
+  },
+  "forced_role_paths": [
+    "角色/爱弥斯"
+  ],
+  "forced_world_paths": [
+    "世界观/全局世界观"
+  ],
+  "forced_region_layers": [
+    {
+      "region_path": "罗伊冰原",
+      "world_prefix": "世界观/地区信息/罗伊冰原",
+      "match_mode": "layer"
+    }
+  ],
+  "allowed_role_paths": [
+    "角色/爱弥斯",
+    "角色/I.R.I.S/*",
+    "角色/I.R.I.S/特殊文本/**",
+    "角色/守岸人/*",
+    "角色/莫宁/特殊文本/**",
+    "角色/陆·赫斯/基本信息.txt"
+  ],
+  "allowed_world_paths": [
+    "世界观/全局世界观"
+  ],
+  "allowed_region_layers": [
+    {
+      "region_path": "罗伊冰原",
+      "world_prefix": "世界观/地区信息/罗伊冰原",
+      "match_mode": "layer"
+    }
+  ]
+}

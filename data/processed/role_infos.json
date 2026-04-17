@@ -1,0 +1,38 @@
+[
+  {
+    "resonance_ability": "长航的星辉",
+    "gender": "女",
+    "birthplace": "拉海洛",
+    "weapon": "迅刀",
+    "attribute": "热熔",
+    "identity": "星炬学院拉贝尔学部的隧者适格者，电子幽灵。",
+    "affiliation": "星炬学院",
+    "role_name": "爱弥斯",
+    "role_dir": "data/raw/角色/爱弥斯",
+    "basic_info_path": "data/raw/角色/爱弥斯/基本信息.txt"
+  },
+  {
+    "resonance_ability": "风声流息",
+    "gender": "女",
+    "birthplace": "瑝珑",
+    "weapon": "迅刀",
+    "attribute": "气动",
+    "identity": "踏白队员",
+    "affiliation": "今州",
+    "role_name": "秧秧",
+    "role_dir": "data/raw/角色/秧秧",
+    "basic_info_path": "data/raw/角色/秧秧/基本信息.txt"
+  },
+  {
+    "resonance_ability": "相态转化",
+    "gender": "男",
+    "birthplace": "新联邦",
+    "weapon": "臂铠",
+    "attribute": "衍射",
+    "identity": "星炬学院共鸣医疗科的主执校医",
+    "affiliation": "星炬学院",
+    "role_name": "陆·赫斯",
+    "role_dir": "data/raw/角色/陆·赫斯",
+    "basic_info_path": "data/raw/角色/陆·赫斯/基本信息.txt"
+  }
+]

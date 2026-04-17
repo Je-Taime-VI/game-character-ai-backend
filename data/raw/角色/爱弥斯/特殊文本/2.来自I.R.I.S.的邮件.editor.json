@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "path": "角色/爱弥斯/特殊文本/2.来自I.R.I.S.的邮件.editor.json",
+  "title": "2.来自I.R.I.S.的邮件",
+  "blocks": [
+    {
+      "id": "f9904021",
+      "type": "heading",
+      "text": "I.R.I.S.：",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "881e2080",
+      "type": "narration",
+      "text": "有一段陌生的讯息给你，对了，还有一段……类似音乐的哼唱频率。是在图书馆例行系统检查时发现的，上面标明了希望我在这一天发给你。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "87a685f4",
+      "type": "narration",
+      "text": "我查不到这段不明讯息发送者的地址，没想到学院里还有骇入技术这么好的人。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "0602fe29",
+      "type": "narration",
+      "text": "按照她的说法，过去你总会在这几天为她准备一些礼物，还会准备一小笔零花钱给她。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "2dfc17b7",
+      "type": "narration",
+      "text": "她决定这一次，由她来为你准备礼物。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "af225191",
+      "type": "narration",
+      "text": "总之，好好收下吧。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "6b77669c",
+      "type": "narration",
+      "text": "我查不到她的信息，但从她的语调中能听出，她似乎已下了很大的决心，在准备着要去做什么事。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "43402286",
+      "type": "heading",
+      "text": "附件：陈旧的唱片",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "0f179633",
+      "type": "narration",
+      "text": "原本是唱片制品的废弃物，即便已被重新擦拭，仍能看出时间留下的磨损。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "19b0c68b",
+      "type": "narration",
+      "text": "——尝试解析其中遗留的频率，只能听出是一小段哼唱，似乎在诉说着什么无法说出口的话语。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    }
+  ]
+}

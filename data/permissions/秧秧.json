@@ -1,0 +1,56 @@
+{
+  "role_name": "秧秧",
+  "extra_role_paths": [],
+  "extra_world_paths": [],
+  "region_overrides": [],
+  "allowed_story_paths": [],
+  "notes": "",
+  "role_info": {
+    "resonance_ability": "风声流息",
+    "gender": "女",
+    "birthplace": "瑝珑",
+    "weapon": "迅刀",
+    "attribute": "气动",
+    "identity": "踏白队员",
+    "affiliation": "今州",
+    "role_name": "秧秧",
+    "role_dir": "data/raw/角色/秧秧",
+    "basic_info_path": "data/raw/角色/秧秧/基本信息.txt"
+  },
+  "forced_role_paths": [
+    "角色/秧秧"
+  ],
+  "forced_world_paths": [
+    "世界观/全局世界观"
+  ],
+  "forced_region_layers": [
+    {
+      "region_path": "瑝珑",
+      "world_prefix": "世界观/地区信息/瑝珑",
+      "match_mode": "layer"
+    },
+    {
+      "region_path": "瑝珑/今州",
+      "world_prefix": "世界观/地区信息/瑝珑/今州",
+      "match_mode": "layer"
+    }
+  ],
+  "allowed_role_paths": [
+    "角色/秧秧"
+  ],
+  "allowed_world_paths": [
+    "世界观/全局世界观"
+  ],
+  "allowed_region_layers": [
+    {
+      "region_path": "瑝珑",
+      "world_prefix": "世界观/地区信息/瑝珑",
+      "match_mode": "layer"
+    },
+    {
+      "region_path": "瑝珑/今州",
+      "world_prefix": "世界观/地区信息/瑝珑/今州",
+      "match_mode": "layer"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "path": "角色/爱弥斯/特殊文本/1.来自准时宝的加急邮件.editor.json",
+  "title": "1.来自准时宝的加急邮件",
+  "blocks": [
+    {
+      "id": "5911b4db",
+      "type": "heading",
+      "text": "准时宝：",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "bfdccacb",
+      "type": "narration",
+      "text": "检测到已到任务规划时间，依照任务规划为您送上特制食品，请查收。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "d935bc9a",
+      "type": "narration",
+      "text": "食品安全检查已完成，确认构成物基本对人体无害，可放心食用，提醒：请注意购买随饮冲服。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "6fedebb4",
+      "type": "narration",
+      "text": "食品安全检查怎么也绕不开，可惜，没能把最最精髓的狐尾蒲藻溶液放进去。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "2addc09a",
+      "type": "narration",
+      "text": "不过这样应该也足够了，结合了我毕生创意制作的完美嘻嘻果冻，一定能让那个人露出“非常感动”的表情！",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "0847d53c",
+      "type": "narration",
+      "text": "拜托你咯准时宝，要把这份“惊喜”好好送到。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "40a10fe1",
+      "type": "narration",
+      "text": "呃……是不是也该准备一些润口的用来冲淡味道？",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "ea8c7d9d",
+      "type": "narration",
+      "text": "那这个也拜托你了，准时宝，让那个人吃完后把这杯“豹风雪”喝了吧……",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "7bcf6fed",
+      "type": "heading",
+      "text": "附件：特制的嘻嘻果冻",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "09078bb0",
+      "type": "narration",
+      "text": "依照食品安全检测结果，每样配料都是常见物，但却糅合出了复杂新奇的味道。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "c4b37394",
+      "type": "narration",
+      "text": "——明明是第一次尝到，却令你感到怀念。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    }
+  ]
+}

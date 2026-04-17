@@ -1,0 +1,31 @@
+{
+  "version": 3,
+  "path": "世界观/全局世界观/先天型共鸣者.editor.json",
+  "title": "先天型共鸣者",
+  "blocks": [
+    {
+      "id": "5464f565",
+      "type": "heading",
+      "text": "先天型共鸣者",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "9eec9780",
+      "type": "heading",
+      "text": "天生拥有异能，先天性共鸣者。",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    },
+    {
+      "id": "c4fb0cb9",
+      "type": "heading",
+      "text": "术语：????——????",
+      "annotation_refs": [],
+      "annotation_omissions": [],
+      "italic": false
+    }
+  ]
+}
