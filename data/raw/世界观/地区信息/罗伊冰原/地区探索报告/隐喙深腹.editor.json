@@ -1,0 +1,517 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/隐喙深腹.editor.json",
+  "title": "隐喙深腹",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/隐喙深腹.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_9b0b19d5",
+      "type": "text_title",
+      "text": "一份于“隐喙深腹”发现的遇难科考队成员的终端记录",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_48041194",
+      "type": "text_body",
+      "text": "“这里是……‘罗德尔’。”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f95a661b",
+      "type": "text_body",
+      "text": "“我们在冰原之上遭遇了未曾预测到的异象：雪崩与地陷频发，冰原的裂隙处闪烁着诡异而强烈的地光……在那光芒之上，我们目击到一片幻谲的虚障……此后不久，我们便正面遭受了‘无形风暴’的袭击。”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3c2706c7",
+      "type": "text_body",
+      "text": "“巨大的呼啸与轰鸣自地光所在的方位席卷而来，无形的风暴将我们包裹……我们虽然尽可能快速地转移到了这处安全的洞窟……但……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_68c88edb",
+      "type": "text_body",
+      "text": "“目前，除我以外的科考队成员……已全部遇难……更准确地来说……是‘全部消失’了……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_914ecac5",
+      "type": "text_body",
+      "text": "“在这个相对安全的地方，我遵科考队成员们最后的遗愿，将他们的终端全部保存于此，其中记录了有关这场灾难的重要数据，务必回收。“",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_4d0482e1",
+      "type": "text_body",
+      "text": "“而我本人也因那‘灾难’的影响，逐渐丧失了行动能力，余下的体力，也无法支撑我回归研究院。所以……我决定，在最后的这段时间里，利用研究院的终端，记录下我的身体与频率所产生的一切变化。希望这段记录，能够为后来者，提供些许破解灾难的启示……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_61d34048",
+      "type": "text_body",
+      "text": "“拜托了，希望这个终端……能比我坚持得更久……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_56a74ff5",
+      "type": "text_body",
+      "text": "“身体机能一切正常，但……我感受到……自己的身体正在变得越来越轻盈……“",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_4502c6de",
+      "type": "text_body",
+      "text": "“终端似乎也%……&*受到了影响……有了杂音%……&”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2c1f6101",
+      "type": "text_body",
+      "text": "“……身体……似乎%……&正在变得透明……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_adb17e7d",
+      "type": "text_body",
+      "text": "“￥%……&无……&*法触（*……%&碰任……&何#￥%……物……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_6a22ba9a",
+      "type": "text_body",
+      "text": "“……&*完全……看不到%……&了……#￥%*……“",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e87b353d",
+      "type": "text_body",
+      "text": "“#%%……&但……我%……&*能&*#￥%……思考…￥%………我还%……存在……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_fa757b41",
+      "type": "text_body",
+      "text": "“￥%……*思&维#￥也#……&%在远去……”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3ae16c8d",
+      "type": "text_body",
+      "text": "“共赴……&*深@#^$#*空@#的$!$#……*盗%……火者%……￥&须以￥%……自身为￥%……&炬……愿￥%…人%类…&永%^&存……*”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a36bb756",
+      "type": "text_title",
+      "text": "查特先生发布的的悼念演讲",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本标题",
+        "source_row": 19,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e49fb101",
+      "type": "text_body",
+      "text": "各位同胞，今天，我们齐聚在“炉芯”之下，既是为了共同纪念“拉海洛科考史”上的一个重要里程碑，亦是为了悼念……于冰原上遇难的“罗德尔科学考察队”全体成员。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_3ffa4e79",
+      "type": "text_body",
+      "text": "在此，我谨代表深空联合全体成员，向“罗德尔科学考察队”全体成员，献上深切的缅怀与敬意。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_120dcc3b",
+      "type": "text_body",
+      "text": "源于科考队队长“罗德尔”及其队员遗留终端中的详细数据与记录，我们终于得以破解冰原上的‘无形风暴’本质，并基于其性质与影响，将其正式命名为——「虚质磁暴」。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e5546b52",
+      "type": "text_body",
+      "text": "虚质磁暴，由鸣式“阿列夫一”所引发的次生灾害，其出现往往伴随着强烈的地光，也是因此，异常气象“拂光”的初显，也成为了相应的预兆。凡拂光笼罩处，不久便会诞生「虚质磁暴」。被卷入其中的生物都将陷入异常，失去生机——这种“生机的丧失”非同于“生物学上的死亡”，而是频率的缓慢破碎、逸散：被虚质磁暴吞噬的事物，将渐渐失去实体、变得透明，直至静默，归于虚无。幸存的事物，其频率也会因其影响，变得如同烛光一般闪烁摇曳，最终不日便会从这个世界消解……而那些被虚质磁暴吞噬的「隧群」，其零件将在鸣式力量的影响下，重构为「虚诞虫」的可怖模样。对拉海洛地区的人类而言，它同样是一种无法预测的天灾，所到之处，万物沉寂，唯余「虚无」。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_931fc865",
+      "type": "text_body",
+      "text": "“虚质磁暴”性质的阐明，对我们而言，无疑是是一项重大的突破，亦带来了新的艰难挑战。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_95d4002a",
+      "type": "text_body",
+      "text": "人类在探索未知的过程中充满荣耀，却也会伴随着巨大的风险与牺牲。然而，那些“挑战者”们的勇气与理想，依然会铭刻在人类探索精神的丰碑之上，提醒着我们在灾难前的渺小，也向我们诠释着何谓真正的勇气：即使知晓风险，却仍选择继续前行。人类，从不会因恐惧而停下脚步。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_779e5f17",
+      "type": "text_body",
+      "text": "罗德尔、昂辉、明夏、贝芙丽、巴伊切蒂奇——它们的名字，将永远镌刻在冰原之上，一如极夜中的群星般璀璨闪耀。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c1d096b8",
+      "type": "text_body",
+      "text": "共赴深空的盗火者，须以自身为炬……愿我们，终将破解一切灾难之谜，并从鸣式手中，夺回属于人类的净土。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

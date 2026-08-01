@@ -1,0 +1,97 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/芬莱克一世.editor.json",
+  "title": "芬莱克一世",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/芬莱克一世.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_8d4fae80",
+      "type": "text_title",
+      "text": "芬莱克一世",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9f35d2e0",
+      "type": "text_body",
+      "text": "如同那不盖勒二世所享有的美誉,蓝衣「芬莱克」理应拥有的称呼。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_66192ad3",
+      "type": "text_body",
+      "text": "但不知为何,芬莱克生前始终禁止教士们如此称呼他,直至他葬身海底。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_11ba298f",
+      "type": "text_body",
+      "text": "而在隐海修会的历史上,芬莱克仅此一位。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/罗蕾莱.editor.json",
+  "title": "罗蕾莱",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/罗蕾莱.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_38103eb9",
+      "type": "text_title",
+      "text": "罗蕾莱",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1370f902",
+      "type": "text_body",
+      "text": "居住在氤柔水境的回音生物。传说中，正是罗蕾莱的力量约束了狂暴的云海，使得拉古那城免遭被淹没的厄运。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e731728d",
+      "type": "text_body",
+      "text": "罗蕾莱具有净化云海中负面情绪的能力，但她本身也会受到这些恶念的影响。当这些恶念累积到临界点时，罗蕾莱便会成为「夜之女皇」，将怒火倾泻到任何附近的一切生物身上。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

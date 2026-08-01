@@ -1,0 +1,658 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/蚀刻平原.editor.json",
+  "title": "蚀刻平原",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/蚀刻平原.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_1e51bc3c",
+      "type": "text_title",
+      "text": "P.C.-LH-R/0987 拉海洛阶段性研究简报",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_bc830a18",
+      "type": "text_body",
+      "text": "经多轮协商后，罗伊人与「极地联合」完成磋商，决定围绕冰原上的隧者巨剑、地下坠剑湖与蚀刻平原三地，联合建设科研设施。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_4970d8b9",
+      "type": "text_body",
+      "text": "其中，「引日殿」提供了关键性的炉芯运转周期，与磁暴区数据，使得基建规划得以实现；罗伊人中的「牧者」则指挥隧群参与施工与物资运输，确保工程顺利进行。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1a289219",
+      "type": "text_body",
+      "text": "在双方协作下，「极地联合」的一期工程——冰原极地科考站，以及依附于隧者巨剑而建的巨型垂直运载电梯「联运椎骨」相继落成。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a6c5952e",
+      "type": "text_body",
+      "text": "与此同时，新联邦亦提供了其最尖端的空间工程技术，于弱重力带建造了环形研究设施——「深空研究院」。「深空研究院」将环绕既定的轨道运行，对隧者留下的巨剑进行进一步的探知与扫描。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ffe77efe",
+      "type": "text_body",
+      "text": "在对隧者及隧群展开非破坏性研究，并与罗伊人提供的数据进行综合比对后，「极地联合」得出下属结论：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f30f0206",
+      "type": "text_body",
+      "text": "其一：关于隧者与岁主的关系：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_fb0d1a1d",
+      "type": "text_body",
+      "text": "隧者与岁主具备高度同源性，但功能存在显著差异，并不具备岁主那种可“晓示预言”、引导文明的知能。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_eb0b8792",
+      "type": "text_body",
+      "text": "其优势在于极高的战斗能力、机动性与生物化特性。由此，研究院提出假说：隧者是▇▇▇体系中承担运输与战斗职能的▇▇▇▇▇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b17a4ec4",
+      "type": "text_body",
+      "text": "为区分之，研究院将隧者定义为「拟岁主」。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b92ed1de",
+      "type": "text_body",
+      "text": "其二：关于隧者的机体特性：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_95b91b9c",
+      "type": "text_body",
+      "text": "在炉芯辐照与催化作用下，脱离隧者躯体的零件会分化为动物类与植物类隧群。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1133a184",
+      "type": "text_body",
+      "text": "这些隧群将替代灭绝的动植物，以稳固、维持拉海洛脆弱的生态圈。通过进食与充能，隧群将在能量密度达到最高时回归隧者，并与之融合，修复其受损部分。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9d8704b2",
+      "type": "text_body",
+      "text": "然而，罗伊人提供的隧群分化与世代更迭数据表明：这一生物化修复过程并非无限。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a702ee7a",
+      "type": "text_body",
+      "text": "隧群的分化次数存在上限，与人类细胞相似——随着时间推移，其再生间隔不断延长，新生隧群的分化速度逐渐减缓，直至停滞。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a36252c1",
+      "type": "text_body",
+      "text": "进一步的计算显示：已回归隧者的隧群总量，加上未来可能分化出的隧群数量，仍不足以完成隧者的整体修复。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f63a1bb0",
+      "type": "text_body",
+      "text": "这意味着隧群在漫长的世代更迭中损耗严重。部分隧群已确认被虚诞虫吞噬，且有相当数量的零件下落不明。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_88ac444c",
+      "type": "text_title",
+      "text": "P.C.-LH-R/0988 拉海洛阶段性研究简报",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本标题",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_44b8483d",
+      "type": "text_body",
+      "text": "续页：《隧者机能与炉芯特性补充报告》",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_172037ab",
+      "type": "text_body",
+      "text": "通过对拉海洛地下绿洲的进一步勘察与能级监测，课题组确认：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_dd6c5116",
+      "type": "text_body",
+      "text": "隧者即便处于休眠状态，仍在以某种自律机制履行着守护拉海洛与罗伊人的本能。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f276b12e",
+      "type": "text_body",
+      "text": "调查显示，部分隧者的零件并未再分化为具备智能的隧群个体，而是转化为支撑地壳的仿生结构，该结构在地质层中延展交错，形似骨骼脊梁，下文以「壳中之脊」进行代称。其均匀分布于地层的不稳定带，推测在维持拉海洛地壳稳定、传递炉芯产生的能源方面发挥着关键作用。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_5207c157",
+      "type": "text_body",
+      "text": "关于炉芯与隧者机体的关系：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_85d55b83",
+      "type": "text_body",
+      "text": "研究进一步表明，隧者的能源驱动核心——「炉芯」，与其躯干可视为两种不同层级的造物。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e7afa10a",
+      "type": "text_body",
+      "text": "炉芯具备独立于机体的运转能力，其能源特征显示出近乎▇▇的供能潜力，显然属于▇▇▇体系中的高位造物。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_8fdd59ec",
+      "type": "text_body",
+      "text": "在炉芯日光的照射与催化下，脱离隧者躯体的零件得以启动分化、增殖与修复的过程，最终回归本体。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_86f8edc6",
+      "type": "text_body",
+      "text": "然而，炉芯与隧者呈现为某种紧密的连结——一旦隧者个体彻底「死亡」，其对应的炉芯亦将随之寂灭。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_0f069ace",
+      "type": "text_body",
+      "text": "换言之，炉芯并非完全独立的能源结构，而是通过隧者的某种「生命」信号维持活性。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_15d1e001",
+      "type": "text_body",
+      "text": "结论与推演",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_7a986ab1",
+      "type": "text_body",
+      "text": "我们有理由怀疑，即便未来拉海洛现存与潜在的隧群完成回归，隧者的复原程度也难以达到全盛状态。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_8bf2c142",
+      "type": "text_body",
+      "text": "而▇▇▇的造物一旦与共鸣者绑定，便能超越其原始形态的上限。对人类而言，若欲与此类古代造物连结、沟通，乃至操控其力量——找到其共鸣者亦成为唯一且必要的解法。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a16f93bf",
+      "type": "note",
+      "text": "炉芯在技术层面上远高于隧者本体，但如果隧者“死亡”，对应的炉芯会失去活性（可理解为自毁，大概是为了防止炉芯被可能存在的敌人获取）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "注释",
+        "source_row": 33,
+        "xlsx_section_index": 1,
+        "source_id": "row33#note"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "version": 5,
+  "path": "角色/爱弥斯/珍贵之物.editor.json",
+  "title": "珍贵之物",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "角色/爱弥斯/珍贵之物.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_17c23d3d",
+      "type": "text_title",
+      "text": "一盘游戏卡带",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_5fa5f754",
+      "type": "text_body",
+      "text": "《太空战士卡佳VI》，在索拉里斯的游戏爱好者中为人津津乐道的经典系列最新作。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_ff3ba1d0",
+      "type": "text_body",
+      "text": "沉浸式的角色扮演剧情，丰富有趣的战斗系统，体验成为英雄的孤独之旅，结识十数位可招募的个性伙伴，与宇宙中的邪恶势力进行激烈对抗……除了这些部分，作为彩蛋的那个小游戏也是让爱弥斯极为喜欢的部分，她在通关后经常和家人一起在小屋中联机游玩。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_552afa1b",
+      "type": "text_body",
+      "text": "“哼哼，拼方块的积分排行榜，最后果然还是我排第一！”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_6d2d19a0",
+      "type": "text_title",
+      "text": "隧者手办",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本标题",
+        "source_row": 7,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_84fdc67f",
+      "type": "text_body",
+      "text": "正文：捂在爱弥斯眼上的那双手移开后，面前摆着的就是这样的一个小盒子。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_de4d0284",
+      "type": "text_body",
+      "text": "身边的四位好友笑眯眯地怂恿爱弥斯赶紧拆开，盒中的小型隧者手办就这么露了出来。适格者们像是叽叽喳喳的小动物那样祝贺她生日快乐，希望她能顺利成为那个成功驾驶隧者的人，希望她们能一起去真正的星空……爱弥斯的嘴唇动了动，最终也并未把自己藏在心底深处的那个愿望说出来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_0cb4f794",
+      "type": "text_body",
+      "text": "她珍惜地摩挲了一下这份礼物，站起身来，笑着扑进朋友们的怀里。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_5262fe8f",
+      "type": "text_title",
+      "text": "纸飞机",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本标题",
+        "source_row": 12,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_1308e2bf",
+      "type": "text_body",
+      "text": "正文：爱弥斯坐在学院楼栋顶层，悠然地享受微风吹拂。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_323f00ae",
+      "type": "text_body",
+      "text": "她折过无数纸飞机，但一直记得最初在小屋的那只。午后的光透过窗户照射进来，寒冷的雪和风都被挡在了窗外，只有火炉被烧得劈啪作响的声音。为晚饭炖着的汤散发着甜美醇厚的香气，身边的家人正手指灵巧地为她折出能飞得更远的纸飞机。爱弥斯抬起脸，看到{TA}正微笑着将手中的纸飞机递来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_6bb0f824",
+      "type": "text_body",
+      "text": "那景象在恍惚的回忆中消逝，眼前仍旧是学院的风景。爱弥斯微微一笑，把手中新折的纸飞机投入风中。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    }
+  ]
+}

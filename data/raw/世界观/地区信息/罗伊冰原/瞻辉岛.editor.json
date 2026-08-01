@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/瞻辉岛.editor.json",
+  "title": "瞻辉岛",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/瞻辉岛.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_2bc8f373",
+      "type": "text_title",
+      "text": "瞻辉岛",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_390e822e",
+      "type": "text_body",
+      "text": "历经漫长岁月后重新苏醒的植物，以不属于这个时代的姿态再次生长；流转着的极光之色似梦似幻，将辽远的古老秘密，静静笼罩其中。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

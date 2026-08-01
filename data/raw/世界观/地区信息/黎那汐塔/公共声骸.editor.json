@@ -1,0 +1,77 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/公共声骸.editor.json",
+  "title": "公共声骸",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/公共声骸.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_19ffe6ed",
+      "type": "text_title",
+      "text": "公共声骸",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a19c9bcc",
+      "type": "text_body",
+      "text": "在黎那汐塔，大多数声骸都能够不依靠私人终端，在「起源信标」的影响范围内长期存在。这些声骸被称为「公共声骸」。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_844b5e2b",
+      "type": "text_body",
+      "text": "在拉古那，公共声骸由隐海修会进行管理和分配。拉古那人将公共声骸视为岁主的赐福，甚至岁主的使者，他们以对待朋友和伙伴的方式与这些声骸相处，同时，他们也广泛将公共声骸用于生活中的方方面面。可以说，黎那汐塔之所以被称为「声骸之国」，正是因为这些形形色色的公共声骸。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1678 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/复生丘原.editor.json",
+  "title": "复生丘原",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/复生丘原.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_25f26fe1",
+      "type": "text_title",
+      "text": "研究录音·坠剑湖底-阿列夫一（损毁部分）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_0299c98c",
+      "type": "text_body",
+      "text": "【00:02:11】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_df7fce0b",
+      "type": "text_body",
+      "text": "在罗伊族的古老传说中，██源自比拉海洛更幽深的所在。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9cbafccb",
+      "type": "text_body",
+      "text": "传说称，那是灾厄的根源，就在现今坠剑湖的下方。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_73257e6d",
+      "type": "text_body",
+      "text": "【00:03:49】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c1709493",
+      "type": "text_body",
+      "text": "黑海岸监测确认，██的频率分布异常，出现“双源”结构：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_72bc8242",
+      "type": "text_body",
+      "text": "A 点——拉海洛，周期性出现的████区；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_bc19d658",
+      "type": "text_body",
+      "text": "B 点——坠剑湖底，信号极弱，似受干扰。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_376c95fe",
+      "type": "text_body",
+      "text": "【00:05:02】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c673bf1d",
+      "type": "text_body",
+      "text": "科考队沿信号潜入湖底，发现███结构，形态类似████，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ec2d30af",
+      "type": "text_body",
+      "text": "该██倒悬的███相连，主体深植地底，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b2de185d",
+      "type": "text_body",
+      "text": "██延伸至更上层地质带，推测指向浮光林。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_98a3286b",
+      "type": "text_body",
+      "text": "【00:05:44】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7f976380",
+      "type": "text_body",
+      "text": "▇▇材质与隧者一致，表层纹理具明显的▇▇特征，仿佛意在▇▇某种存在。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_5c67609c",
+      "type": "text_body",
+      "text": "而来自炉芯的能量流经███，不断注入并滋养着██内部，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b62b6764",
+      "type": "text_body",
+      "text": "疑似维持着某种封闭系统。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8ca9ea66",
+      "type": "text_body",
+      "text": "【00:06:22】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a7684945",
+      "type": "text_body",
+      "text": "泰缇斯确认：微弱██频率来自██之后。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_40f7751b",
+      "type": "text_body",
+      "text": "研究院进而提出多种假设，主流倾向认为：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_650a8ab9",
+      "type": "text_body",
+      "text": "▇▇下方，或存在连结▇▇▇▇的▇▇。▇▇的存在，正是为了断绝▇▇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3b8bb237",
+      "type": "text_body",
+      "text": "▇▇仅封闭了部分▇▇；另一部分▇▇至拉海洛，以虚质磁暴与▇▇▇的形式继续存在。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_fcc941d5",
+      "type": "text_body",
+      "text": "【00:07:01】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_166c1e6a",
+      "type": "text_body",
+      "text": "若▇▇遭到破坏，离散为双源性的▇▇将重新聚合，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8261094d",
+      "type": "text_body",
+      "text": "获得完整形态——那将是……索拉里斯的▇▇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_5110359b",
+      "type": "text_body",
+      "text": "【00:08:33】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_22bc43ba",
+      "type": "text_body",
+      "text": "而根据罗伊族的进一步记载，▇▇之后，正是隧者的来路。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_58efde4d",
+      "type": "text_body",
+      "text": "这条“来路”或许是一道真正意义上的▇▇，连接着▇▇▇▇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_341109e1",
+      "type": "text_body",
+      "text": "【00:09:10】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e1a9ff90",
+      "type": "text_body",
+      "text": "门后的世界究竟为何？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_682fc5f9",
+      "type": "text_body",
+      "text": "▇▇▇？宇宙？天空海阻断了我们向上的路；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e16211ec",
+      "type": "text_body",
+      "text": "这条「向下」之路，也许是唯一的▇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3f3f53aa",
+      "type": "text_body",
+      "text": "【00:09:45】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9f63f25d",
+      "type": "text_body",
+      "text": "如其在上，如其在下……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_af6c7d92",
+      "type": "text_body",
+      "text": "如▇在上，如▇在下……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 34,
+        "source_type": "文本正文",
+        "source_row": 35,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a06f41ba",
+      "type": "text_body",
+      "text": "如▇▇上，如▇▇下……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 35,
+        "source_type": "文本正文",
+        "source_row": 36,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_12836d37",
+      "type": "text_body",
+      "text": "▇▇▇上，▇▇▇下……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 36,
+        "source_type": "文本正文",
+        "source_row": 37,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_58a55c99",
+      "type": "text_body",
+      "text": "【00:10:00】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2f17f9a1",
+      "type": "text_body",
+      "text": "请注意，项目编号“坠剑湖底-阿列夫一”已列入禁入探测区域。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 38,
+        "source_type": "文本正文",
+        "source_row": 39,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_5fc33a34",
+      "type": "text_body",
+      "text": "任何试图接近▇▇的行为，将被视为“主动干涉▇▇”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_393f9d91",
+      "type": "text_body",
+      "text": "请注意，录音将在「▇▇▇」声后中断。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 40,
+        "source_type": "文本正文",
+        "source_row": 41,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c4f008fa",
+      "type": "text_body",
+      "text": "【00:10:78】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2eb83655",
+      "type": "text_body",
+      "text": "……如▇……▇▇……如▇……在……▇……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 42,
+        "source_type": "文本正文",
+        "source_row": 43,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ada93ed3",
+      "type": "text_body",
+      "text": "【00:10:66】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 43,
+        "source_type": "文本正文",
+        "source_row": 44,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7f4032c4",
+      "type": "text_body",
+      "text": "……▇……▇……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 44,
+        "source_type": "文本正文",
+        "source_row": 45,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3e518c8f",
+      "type": "text_body",
+      "text": "【00:10:78】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 45,
+        "source_type": "文本正文",
+        "source_row": 46,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_6303f951",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 46,
+        "source_type": "文本正文",
+        "source_row": 47,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3fc02dea",
+      "type": "text_body",
+      "text": "录音异常终止。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 47,
+        "source_type": "文本正文",
+        "source_row": 48,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9c87fa22",
+      "type": "text_title",
+      "text": "音频转录·极地联合改组审议会（未公开部分）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 49,
+        "source_type": "文本标题",
+        "source_row": 50,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_96294b02",
+      "type": "text_body",
+      "text": "发言人：史考特·拉贝尔博士",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 50,
+        "source_type": "文本正文",
+        "source_row": 51,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_34018a46",
+      "type": "text_body",
+      "text": "时长：00:42:11",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 51,
+        "source_type": "文本正文",
+        "source_row": 52,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ec9f0f53",
+      "type": "text_body",
+      "text": "节选段落：00:37:12—00:41:56",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 52,
+        "source_type": "文本正文",
+        "source_row": 53,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_05da367a",
+      "type": "text_body",
+      "text": "———",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 53,
+        "source_type": "文本正文",
+        "source_row": 54,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_014fbec6",
+      "type": "text_body",
+      "text": "███的样本分析已经确认，██的材质与██一致。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 54,
+        "source_type": "文本正文",
+        "source_row": 55,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_3617098d",
+      "type": "text_body",
+      "text": "浮光林██的能流指向表明，██正借由根系在正在持续被“供给”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 55,
+        "source_type": "文本正文",
+        "source_row": 56,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2b2b21f9",
+      "type": "text_body",
+      "text": "（短暂停顿，轻微的呼吸声）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 56,
+        "source_type": "文本正文",
+        "source_row": 57,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_80376b56",
+      "type": "text_body",
+      "text": "换言之，██无时不刻不在██着██后的██。这是一种修复与损耗之间的动态平衡。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 57,
+        "source_type": "文本正文",
+        "source_row": 58,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f8acd8c8",
+      "type": "text_body",
+      "text": "一旦这种“供给”出现问题，这种动态平衡将失衡，██后的██将冲出██，并涌入拉海洛。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 58,
+        "source_type": "文本正文",
+        "source_row": 59,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_13e529d8",
+      "type": "text_body",
+      "text": "《P.C.-LH-R/0987拉海洛阶段性研究简报》表明，「拟岁主」的状况不容乐观。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 59,
+        "source_type": "文本正文",
+        "source_row": 60,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_45baa8c9",
+      "type": "text_body",
+      "text": "做，或有一线生机，不做，我们必败无疑，██的开启是必然的结果。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 60,
+        "source_type": "文本正文",
+        "source_row": 61,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_25f96e84",
+      "type": "text_body",
+      "text": "不论何时开启、由谁来开启，我们必须做好应对措施。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 61,
+        "source_type": "文本正文",
+        "source_row": 62,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_0cfdfc8e",
+      "type": "text_body",
+      "text": "（台下传来不安的絮语）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 62,
+        "source_type": "文本正文",
+        "source_row": 63,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_8952d2e4",
+      "type": "text_body",
+      "text": "岁主借由“共鸣”解限绝非孤例。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 63,
+        "source_type": "文本正文",
+        "source_row": 64,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_1dc1330f",
+      "type": "text_body",
+      "text": "既然我们已经成功证明了「拟岁主」与岁主的高度一致性，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 64,
+        "source_type": "文本正文",
+        "source_row": 65,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ddf3fb6f",
+      "type": "text_body",
+      "text": "那么人为地创造「外源性共鸣」，必将是突破「拟岁主」能力上限的最优解。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 65,
+        "source_type": "文本正文",
+        "source_row": 66,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_08da421f",
+      "type": "text_body",
+      "text": "要么以我们的双手控制「拟岁主」打开██，主动迎击██后的██，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 66,
+        "source_type": "文本正文",
+        "source_row": 67,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_0a9d3047",
+      "type": "text_body",
+      "text": "或者是我们眼睁睁地看着██突破██，却毫无还手之力。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 67,
+        "source_type": "文本正文",
+        "source_row": 68,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_5fe2049e",
+      "type": "text_body",
+      "text": "显然我们没有选择。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 68,
+        "source_type": "文本正文",
+        "source_row": 69,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_77c8d0b8",
+      "type": "text_body",
+      "text": "（与会者们的议论声）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 69,
+        "source_type": "文本正文",
+        "source_row": 70,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_27787e8c",
+      "type": "text_body",
+      "text": "我知道，这听起来太像一场豪赌。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 70,
+        "source_type": "文本正文",
+        "source_row": 71,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e79a84a1",
+      "type": "text_body",
+      "text": "我眼前的，是索拉里斯最出色的头脑，各个学科最出众的领军人物。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 71,
+        "source_type": "文本正文",
+        "source_row": 72,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_d1d9d0c6",
+      "type": "text_body",
+      "text": "我想……科学的精神，从来都不在确定之中，而在那一步迈向未知的勇气。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 72,
+        "source_type": "文本正文",
+        "source_row": 73,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4eb921b4",
+      "type": "text_body",
+      "text": "因此，我们确立了计划：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 73,
+        "source_type": "文本正文",
+        "source_row": 74,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_62b51c4f",
+      "type": "text_body",
+      "text": "以研究隧者为核心，延伸至航天、生物共鸣与能源体系的联合项目。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 74,
+        "source_type": "文本正文",
+        "source_row": 75,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c77a6e95",
+      "type": "text_body",
+      "text": "这不仅仅是一次学术尝试，更是一场文明自救的努力。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 75,
+        "source_type": "文本正文",
+        "source_row": 76,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_29ef4eca",
+      "type": "text_body",
+      "text": "我在此正式宣布：「极地联合」更名为——「深空联合」。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 76,
+        "source_type": "文本正文",
+        "source_row": 77,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_15b2fb70",
+      "type": "text_body",
+      "text": "与此同时，新的学研机构“星炬学院”也将于拉海洛建成。它将成为███科研的前哨——",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 77,
+        "source_type": "文本正文",
+        "source_row": 78,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2a43ff39",
+      "type": "text_body",
+      "text": "在那里，罗伊人与来自世界各地的学者将一同研究隧者的生物机械特性，培育能与「拟岁主」产生「外源性共鸣」的「███」，",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 78,
+        "source_type": "文本正文",
+        "source_row": 79,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_6b28a9ca",
+      "type": "text_body",
+      "text": "学院的建立将帮助我们，借由「拟岁主」研究、掌握后悲鸣时代的法则，突破天空海的封锁，到达更遥远的深空与未来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 79,
+        "source_type": "文本正文",
+        "source_row": 80,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f86b4d98",
+      "type": "text_body",
+      "text": "相信有朝一日，关于「拟岁主」的研究成果能够坦然公诸于世，惠及整个索拉里斯的人类。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 80,
+        "source_type": "文本正文",
+        "source_row": 81,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_57187543",
+      "type": "note",
+      "text": "“拟岁主”是当初对“隧者”的临时称呼（因为隧者与岁主具有高度同源性）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 80,
+        "source_type": "注释",
+        "source_row": 81,
+        "xlsx_section_index": 1,
+        "source_id": "row81#note"
+      }
+    },
+    {
+      "id": "blk_816b1350",
+      "type": "text_body",
+      "text": "课题组中的学生曾问过我，我们的终点是什么？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 81,
+        "source_type": "文本正文",
+        "source_row": 82,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_194a3a3a",
+      "type": "text_body",
+      "text": "我想，答案很简单——不是重返深空，而是重返敢于仰望未知的勇气。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 82,
+        "source_type": "文本正文",
+        "source_row": 83,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c3afd1ea",
+      "type": "text_body",
+      "text": "（掌声，轻微电流杂音）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 83,
+        "source_type": "文本正文",
+        "source_row": 84,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

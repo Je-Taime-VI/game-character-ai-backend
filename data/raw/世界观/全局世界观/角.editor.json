@@ -1,0 +1,117 @@
+{
+  "version": 5,
+  "path": "世界观/全局世界观/角.editor.json",
+  "title": "角",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/全局世界观/角.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_b7648f81",
+      "type": "text_title",
+      "text": "角",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_05278cd4",
+      "type": "text_body",
+      "text": "瑝珑岁主之其一，今州文明的引导者。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_07fdb6d2",
+      "type": "text_body",
+      "text": "威严而不容质疑的“神祇”，通晓着今州的过去、现在与将来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e5da7411",
+      "type": "text_body",
+      "text": "「角」手握时序之能，时流常伴其身，岁月瀚海于祂而言不过是泥沼浅滩，一朝乘云而去，只消一瞬，天地间便已日月更替，星移斗转。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_0f5ceb0f",
+      "type": "text_body",
+      "text": "「四时有序，万物有常，是为天之道。」",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

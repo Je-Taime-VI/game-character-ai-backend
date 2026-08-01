@@ -1,0 +1,97 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/瑝珑/镇抚司.editor.json",
+  "title": "镇抚司",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/瑝珑/镇抚司.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_bedd4ccc",
+      "type": "text_title",
+      "text": "镇抚司",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_af4df1bf",
+      "type": "text_body",
+      "text": "独立于瑝珑诸行政司法军事部门之外的机构，最高长官称之为“指挥使”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9c3bee5e",
+      "type": "text_body",
+      "text": "镇抚司直接听命于瑝珑龙主，有权不经瑝珑诸司衙门同意,介入并针对任何案件、官员和罪犯进行调查，有理论上的“先斩后奏”权力。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7e65d3c5",
+      "type": "text_body",
+      "text": "镇抚司常年经手侦办复杂案件，镇抚司因此拥有瑝珑之中特殊的专门针对共鸣者的手段。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

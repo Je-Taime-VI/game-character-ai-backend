@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -17,3 +17,11 @@ tmp*/
 
 # Generated vector database
 data/vector_db/
+
+review_tmp/
+*.lnk
+.pytest_tmp/
+
+# Personal/academic deliverables and generated artifacts
+outputs/*
+!outputs/论文核心代码-独立注释版.md

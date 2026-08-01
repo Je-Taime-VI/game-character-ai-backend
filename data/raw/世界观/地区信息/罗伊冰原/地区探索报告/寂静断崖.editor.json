@@ -1,0 +1,1010 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/寂静断崖.editor.json",
+  "title": "寂静断崖",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/寂静断崖.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_1a37554c",
+      "type": "text_title",
+      "text": "关于黯原地区异常堆积物的溯源分析报告",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7d06a2c6",
+      "type": "text_body",
+      "text": "在针对黯原地区的后续勘察中，调查组于「寂静断崖」下方发现了一处大规模的物质堆积区。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9d5c79ae",
+      "type": "text_body",
+      "text": "经初步辨识，该区域的堆积物主要呈现为以下两类：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_86f21f70",
+      "type": "text_body",
+      "text": "其一，具备深空联合早期建筑特征的结构残骸，包括但不限于预制合金舱壁、能源输送管路及部分功能模块框架；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8fb1d46f",
+      "type": "text_body",
+      "text": "其二，形态各异的隧群零件残片，其生物化特征已完全停滞，确认进入失活状态。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_93e9a332",
+      "type": "text_body",
+      "text": "上述发现引出一个亟待解答的问题：这批物资为何会出现在远离基建规划区的黯原荒原？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8ce987e5",
+      "type": "text_body",
+      "text": "在追溯了相关废弃资产的零件型号记录时，调查组注意到一条曾被忽视的历史条目——在星炬学院建立初期，曾有一批自新联邦的物资运抵拉海洛。当时的运输播报显示，运输队在坠剑湖附近遭遇了一场突发的虚质磁暴。根据事后清点，此次磁暴造成了大量资产与建筑材料的损失，该批物资遂被登记为“完全损失”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c894eba1",
+      "type": "text_body",
+      "text": "然而，随着调查的深入，当年磁暴事件的记载暴露出若干疑点：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a5e6053a",
+      "type": "text_body",
+      "text": "其一，不同部门留存的事故记录中，损失物资的种类、数量及具体型号存在多处出入，部分数据相互矛盾，难以形成统一的核销依据；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d2591ac5",
+      "type": "text_body",
+      "text": "其二，同期虚质监测站的数据显示，当日磁暴的强度与持续时间均未达到足以完全消解工业级材料的阈值。此外，根据当日运输物资清单的备注，该批物资的部分资产已做过抗虚质涂料处理；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_df517dd2",
+      "type": "text_body",
+      "text": "其三，若该堆积区物质曾于虚质中消融并被弃置至黯原地区，则其中残余虚质频率应呈均匀弥散状态，而非集中在表面防护层。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c208fbe1",
+      "type": "text_body",
+      "text": "上述矛盾指向一种可能性：当年那场被定义为“意外”的物资损失，或许并非虚质磁暴的作用结果。更有可能是，这批物资在抵达拉海洛后，经由某种途径被转移——而虚质磁暴，恰好为这次转移提供了天然的掩护。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_45be6e2e",
+      "type": "text_body",
+      "text": "目前，调查组已对该区域进行坐标标记与样本采集。鉴于堆积物中封存的早期隧群零件残片对于研究隧者的分化极限与损耗机制仍具备一定参考价值，建议将其纳入后续回收清单。至于这批物资如何抵达黯原，以及当年磁暴记录中那些对不上的数字究竟意味着什么——这些问题，或许只能留待日后查证。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_65726e68",
+      "type": "text_body",
+      "text": "课题组备注：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1e64a9af",
+      "type": "text_body",
+      "text": "关于该堆积区的形成时间、堆积层序及其与同期虚质磁暴活动的关联性，仍有待进一步跨部门数据比对。建议协调调取当年参与运输及清点工作的全部原始记录，以尽可能还原事件全貌。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b279aa17",
+      "type": "text_title",
+      "text": "未知录音·虚妄摇篮",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本标题",
+        "source_row": 18,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_a59876f8",
+      "type": "text_body",
+      "text": "于黯原的残星会废弃设施中找到的录音文件，其中部分内容已损坏",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_c56c6e5f",
+      "type": "text_body",
+      "text": "【00:03:31】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_c6837faa",
+      "type": "text_body",
+      "text": "你确定她会老实行事？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_e8a23747",
+      "type": "text_body",
+      "text": "【00:03:37】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_d7fc3b79",
+      "type": "text_body",
+      "text": "当然。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_56432add",
+      "type": "text_body",
+      "text": "【00:03:39】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_353ee2c1",
+      "type": "text_body",
+      "text": "行，那我们从明天开始撤离拉海洛……但你最好想清楚，一旦她失控或者倒向深空联合的一侧，都将导致我们的计划彻底失败。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_f58f8745",
+      "type": "text_body",
+      "text": "【00:04:20】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_036990c2",
+      "type": "text_body",
+      "text": "她不会那么做的。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_7a115dc8",
+      "type": "text_body",
+      "text": "【00:04:25】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_1bf7aae9",
+      "type": "text_body",
+      "text": "为什么？你觉得他们真就没办法处理你那点“发明”了？还是说……你已经狂妄到，连阿列夫一都不放在眼里？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_c61c3855",
+      "type": "text_body",
+      "text": "【00:04:27】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_22920e3e",
+      "type": "text_body",
+      "text": "怎么会呢，海德拉，你应该对我多些信任才对。我这么做是因为……达妮娅是个好孩子啊。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_a5b6184a",
+      "type": "text_body",
+      "text": "【00:04:46】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_5f792f50",
+      "type": "text_body",
+      "text": "……你什么意思？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_54648e0b",
+      "type": "text_body",
+      "text": "【00:04:50】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_6e98c623",
+      "type": "text_body",
+      "text": "字面意思。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 34,
+        "source_type": "文本正文",
+        "source_row": 35,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_e7b1b83b",
+      "type": "text_body",
+      "text": "【00:04:52】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 35,
+        "source_type": "文本正文",
+        "source_row": 36,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_b120b1a0",
+      "type": "text_body",
+      "text": "诶……你知道，什么样的人，才最难控制吗？海德拉？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 36,
+        "source_type": "文本正文",
+        "source_row": 37,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_477de53b",
+      "type": "text_body",
+      "text": "【00:04:58】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_a9246dc3",
+      "type": "text_body",
+      "text": "别卖关子。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 38,
+        "source_type": "文本正文",
+        "source_row": 39,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_5c02fd1c",
+      "type": "text_body",
+      "text": "【00:05:02】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_75f50288",
+      "type": "text_body",
+      "text": "呵。答案是，失去一切的人……这样的人没了拘束和牵挂，也就没了软肋和弱点。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 40,
+        "source_type": "文本正文",
+        "source_row": 41,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_6b1182ba",
+      "type": "text_body",
+      "text": "【00:05:13】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_3329b6b8",
+      "type": "text_body",
+      "text": "而达妮娅已经长大了。曾经一无所有的她，如今终于握住了一点什么，所以哪怕那是别人施舍给她的，是别人当做是垃圾的东西，她也会拼上性命去守护的……因为那就是她能拥有的一切。一旦失去了，她就又要变回一无所有了~她才不想这样。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 42,
+        "source_type": "文本正文",
+        "source_row": 43,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_bf72d54a",
+      "type": "text_body",
+      "text": "【00:05:49】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 43,
+        "source_type": "文本正文",
+        "source_row": 44,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_b5a018f4",
+      "type": "text_body",
+      "text": "你真恶心。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 44,
+        "source_type": "文本正文",
+        "source_row": 45,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "达妮娅",
+          "实验"
+        ]
+      }
+    },
+    {
+      "id": "blk_d29b94e2",
+      "type": "note",
+      "text": "“她”指的是达妮娅",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 44,
+        "source_type": "注释",
+        "source_row": 45,
+        "xlsx_section_index": 1,
+        "source_id": "row45#note"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/瑝珑/军策府.editor.json",
+  "title": "军策府",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/瑝珑/军策府.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_598f9920",
+      "type": "text_title",
+      "text": "军策府",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_81353673",
+      "type": "note",
+      "text": "忌炎便是由当地岁主任命的将军",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "注释",
+        "source_row": 2,
+        "xlsx_section_index": 0,
+        "source_id": "row2#note"
+      }
+    },
+    {
+      "id": "blk_4292b27f",
+      "type": "text_body",
+      "text": "瑝珑最高军事行政机构,在明庭和六州均有设立,明庭军策府长官称之为“军策尚书”,统领六州军务。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ea700b70",
+      "type": "text_body",
+      "text": "各州军策府长官称之为“镇将”,分辖州内军务。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_19425565",
+      "type": "text_body",
+      "text": "一般六州军策府镇将都由明庭任命,部分特殊的州郡则可能由岁主选出。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

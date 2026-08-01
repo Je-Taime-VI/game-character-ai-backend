@@ -1,0 +1,1297 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/封存地.editor.json",
+  "title": "封存地",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/封存地.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_13477428",
+      "type": "text_title",
+      "text": "关于黯原封存地的近况汇报",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2dfd4726",
+      "type": "text_body",
+      "text": "提交人：洛瑟菈",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e24b37ed",
+      "type": "text_body",
+      "text": "呈报对象：深空联合战略风险评估委员会",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8b120467",
+      "type": "text_body",
+      "text": "一、调查背景与目的",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d85744aa",
+      "type": "text_body",
+      "text": "自本年度第三周以来，拉海洛全境观测到以下异常现象：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_333333ea",
+      "type": "text_body",
+      "text": "1，虚质磁暴活跃周期骤缩至72标准时，频次提升约40%；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_245bbd44",
+      "type": "text_body",
+      "text": "2，区域虚质浓度较去年同期环比增长31.7%，且增长曲线尚未出现平缓趋势；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a823677b",
+      "type": "text_body",
+      "text": "3，低频段鸣式频率干扰现象频发，部分监测站记录到来源不明的谐振波动。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_37ffc65c",
+      "type": "text_body",
+      "text": "依据《拉海洛虚质防护安全条例》,并鉴于上述异常指标与鸣式外溢事件的前兆特征高度吻合，故委托特聘顾问对黯原地区封存地进行紧急复查。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_760b6130",
+      "type": "text_body",
+      "text": "执行人员：绯雪（鸣式对策组专员）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d1d50ed3",
+      "type": "text_body",
+      "text": "调查地点：黯原封存地·止庭",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_71a19497",
+      "type": "text_body",
+      "text": "二、执行人员调查记录",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_823e86d6",
+      "type": "text_body",
+      "text": "以下内容根据绯雪口述及行动终端记录整理：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_33a6c6d1",
+      "type": "text_body",
+      "text": "止庭的刀还在，但是刃口接触的地面有虚质熔蚀的痕迹。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8ce12316",
+      "type": "text_body",
+      "text": "是。隧门另一边的东西正在加剧积蓄力量，但我无法判断它具体什么时候行动。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_80d4d8e3",
+      "type": "text_body",
+      "text": "……我为这把刀重新注入了频率，至少短期内，阿列夫一的力量无法逾越这里。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1292782c",
+      "type": "text_body",
+      "text": "记录完毕。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_222dd9a7",
+      "type": "text_body",
+      "text": "三、调查结论",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_11c9d947",
+      "type": "text_body",
+      "text": "综合绯雪的实地勘验及后续频谱数据分析，现就黯原封存地状况形成以下结论：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_dcb02f99",
+      "type": "text_body",
+      "text": "封印主体结构仍保持完整，未出现实质破裂或外溢迹象；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ac5edfa2",
+      "type": "text_body",
+      "text": "但裂隙下方的虚质活性反应呈持续上升趋势，与近期磁暴频次、浓度增长形成正相关佐证；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9b5f1ab6",
+      "type": "text_body",
+      "text": "基于上述，判断鸣式“阿列夫一”封印失效的时间窗口正在缩短。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_46be446c",
+      "type": "text_body",
+      "text": "四、建议与提请事项",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ae31bfec",
+      "type": "text_body",
+      "text": "鉴于当前形势，本人提请深空联合虚质科学部审议以下事项：",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_cd381255",
+      "type": "text_body",
+      "text": "立即解封“夜幕”计划预备阶段，提升拉海洛全境虚质灾害预警等级至二级响应；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c6210f57",
+      "type": "text_body",
+      "text": "加速实战用机兵及虚质对策机兵的机体调试进程，优先完成对隧者基础框架的修复与动态负载测试；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f4b05ed0",
+      "type": "text_body",
+      "text": "授权组建虚质快速反应小组，由绯雪担任战术指导，负责黯原周边区域的动态监测及应急处置；",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b3d3b067",
+      "type": "text_body",
+      "text": "以上调查结论及建议，请联合审议。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1a2b7806",
+      "type": "text_body",
+      "text": "提交人签名：洛瑟菈",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e397182b",
+      "type": "text_body",
+      "text": "【附录】相关数据附表",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7d78a9f3",
+      "type": "text_body",
+      "text": "表1：近三十观测日虚质浓度变化曲线",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a1736258",
+      "type": "text_body",
+      "text": "表2：低频鸣式频率干扰记录摘要",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_92c124d1",
+      "type": "text_body",
+      "text": "表3：绯雪行动终端影像记录（加密）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7f6ce293",
+      "type": "text_body",
+      "text": "（以上附表随文呈报，共计17页）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 34,
+        "source_type": "文本正文",
+        "source_row": 35,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ac19f6f5",
+      "type": "text_title",
+      "text": "列车长咖啡厅官方交流群聊天记录（节选）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 36,
+        "source_type": "文本标题",
+        "source_row": 37,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_db99d288",
+      "type": "text_body",
+      "text": "穗波虹音塔中找到的一段频率，似乎记载了悲鸣发生前的某段数据记录。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2b555f07",
+      "type": "text_body",
+      "text": "【点此查看历史消息】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 38,
+        "source_type": "文本正文",
+        "source_row": 39,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_dde83f5d",
+      "type": "text_body",
+      "text": "【11：39】穗波疾风：【震惊】我听说，今天有人在穗波中央车站见到灼樱巫女了。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c3de8225",
+      "type": "text_body",
+      "text": "【11：39】王牌硬汉：？？？车站？坐轨道列车？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 40,
+        "source_type": "文本正文",
+        "source_row": 41,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_87a4843e",
+      "type": "text_body",
+      "text": "【11：39】波仔不会飞：【疑惑】有图吗？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4f339462",
+      "type": "text_body",
+      "text": "【11：40】列车长咖啡厅欢迎您：【图片】【图片】【图片】消息好像是真的。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 42,
+        "source_type": "文本正文",
+        "source_row": 43,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2897e548",
+      "type": "text_body",
+      "text": "【11：41】AAA传统拉古那披萨：【爱心】爱心】【爱心】巫女姐姐好有气质！是新出道的明星吗？有她的联系方式吗？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 43,
+        "source_type": "文本正文",
+        "source_row": 44,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_9d3beb02",
+      "type": "text_body",
+      "text": "【11：41】王牌硬汉：？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 44,
+        "source_type": "文本正文",
+        "source_row": 45,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_aa64b14f",
+      "type": "text_body",
+      "text": "【11：41】王牌硬汉：你给我放尊重点【发火】。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 45,
+        "source_type": "文本正文",
+        "source_row": 46,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_42a6784b",
+      "type": "text_body",
+      "text": "【11：41】AAA传统拉古那披萨：诶？我说错话了？我只是想找她代言披萨罢了……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 46,
+        "source_type": "文本正文",
+        "source_row": 47,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_484a3b18",
+      "type": "text_body",
+      "text": "【11：41】列车长咖啡厅欢迎您：【无语】翔太，布兰多先生是黎那汐塔人，可能没听过苇原的巫女。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 47,
+        "source_type": "文本正文",
+        "source_row": 48,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c03f9420",
+      "type": "text_body",
+      "text": "【11：41】我好想下班：可这代灼樱巫女大人的画像都印进历史教科书多少年了……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 48,
+        "source_type": "文本正文",
+        "source_row": 49,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_b9b67c84",
+      "type": "text_body",
+      "text": "【11：42】穗波疾风：布兰多先生，这里有关于灼樱巫女的记载，您可以了解一下。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 49,
+        "source_type": "文本正文",
+        "source_row": 50,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_b408841a",
+      "type": "text_body",
+      "text": "【11：42】穗波疾风：页面链接",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 50,
+        "source_type": "文本正文",
+        "source_row": 51,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_588c2b96",
+      "type": "text_body",
+      "text": "【11：42】王牌硬汉：【无语】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 51,
+        "source_type": "文本正文",
+        "source_row": 52,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f99a8b55",
+      "type": "text_body",
+      "text": "【11：52】AAA传统拉古那披萨：我明白了，看来这位巫女在苇原人心中，就像是英白拉多现世一般……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 52,
+        "source_type": "文本正文",
+        "source_row": 53,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c02ec5fe",
+      "type": "text_body",
+      "text": "【11：53】穗波疾风：是的，虽然可能有点区别，但您这样理解也没错。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 53,
+        "source_type": "文本正文",
+        "source_row": 54,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_71d0ef4b",
+      "type": "text_body",
+      "text": "【11：53】AAA传统拉古那披萨：可她看起来和普通的共鸣者也没什么不同啊？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 54,
+        "source_type": "文本正文",
+        "source_row": 55,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_36aaf5ed",
+      "type": "text_body",
+      "text": "【11：53】AAA传统拉古那披萨：抱歉，我不太理解苇原的文化，我只是觉得……英白拉多身为为岁主，自然能承担凡人无法承受的重担。但就算是英白拉多大人，也需要寻找传说中的英雄王来和祂并肩战斗。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 55,
+        "source_type": "文本正文",
+        "source_row": 56,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4d4e1369",
+      "type": "text_body",
+      "text": "【11：53】AAA传统拉古那披萨：回复：列车长咖啡厅欢迎您：……\n而这位永世灼樱巫女大人，无论怎么看，都只是个和我们一样的“人”吧，她会坐列车，会偷偷关注街边的演出……这资料里说她活了数不清的岁月，一直孤身一人，守护苇原到今天。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 56,
+        "source_type": "文本正文",
+        "source_row": 57,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_d2b84f54",
+      "type": "text_body",
+      "text": "【11：53】AAA传统拉古那披萨：可光是出没在车站，都会引起骚动的话……那，原本该属于这位“灼樱巫女“的生活，又去哪了呢？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 57,
+        "source_type": "文本正文",
+        "source_row": 58,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_de482ba0",
+      "type": "text_body",
+      "text": "【11：55】王牌硬汉：……她身为苇原守护者做出的牺牲。你们这些外地人不会懂的。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 58,
+        "source_type": "文本正文",
+        "source_row": 59,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_136ce061",
+      "type": "text_body",
+      "text": "【11：56】AAA传统拉古那披萨：我明白翔太先生的心情，正如我们每个七丘人都深爱着奥古斯塔总督那样。穗波人，也一定都爱着这位巫女。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 59,
+        "source_type": "文本正文",
+        "source_row": 60,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_11bf46cb",
+      "type": "text_body",
+      "text": "【11：58】AAA传统拉古那披萨：但是，在我们七丘也有种说法叫，爱是一种向量。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 60,
+        "source_type": "文本正文",
+        "source_row": 61,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_63bf6441",
+      "type": "text_body",
+      "text": "【11：58】AAA传统拉古那披萨：她走过的时间太长了。成百上千年的时间里，这位永世灼樱巫女被不同时代的苇原人以不同方式地爱着。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 61,
+        "source_type": "文本正文",
+        "source_row": 62,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_fd1657c9",
+      "type": "text_body",
+      "text": "【11：59】AAA传统拉古那披萨：可是，那么多向量汇聚在一起，它所形成的合力，却只能残忍地让人原地打转。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 62,
+        "source_type": "文本正文",
+        "source_row": 63,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_bd12ed9a",
+      "type": "text_body",
+      "text": "【11：59】AAA传统拉古那披萨：在苇原的资料里，人们称她是“永世的灼樱巫女”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 63,
+        "source_type": "文本正文",
+        "source_row": 64,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_9e3d5bc9",
+      "type": "text_body",
+      "text": "【11：59】AAA传统拉古那披萨：但我觉得，她其实，只是被永远地留在过去了。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 64,
+        "source_type": "文本正文",
+        "source_row": 65,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_85488a71",
+      "type": "text_body",
+      "text": "【00：00】列车长咖啡厅欢迎您：【流泪】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 65,
+        "source_type": "文本正文",
+        "source_row": 66,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

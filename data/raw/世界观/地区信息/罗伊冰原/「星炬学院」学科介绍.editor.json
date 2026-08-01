@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/「星炬学院」学科介绍.editor.json",
+  "title": "「星炬学院」学科介绍",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/「星炬学院」学科介绍.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_5bd1316f",
+      "type": "text_title",
+      "text": "「星炬学院」学科介绍",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_25fc0e4c",
+      "type": "text_body",
+      "text": "星炬学院以选拔培养能与隧者外源性共鸣的「适格者」为核心宗旨，建立了拉贝尔学部。同时，围绕与之关联的隧者研究、虚质磁暴与炉芯光能三大领域，分设隧者工学部、虚质科学部与光矩能源学部。其中，光矩能源学部下属的生态维持学科群，因其研究内容与地外之壤的密切关联，亦有“农学部”的别名。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

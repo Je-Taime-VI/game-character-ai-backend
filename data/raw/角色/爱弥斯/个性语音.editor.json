@@ -1,0 +1,841 @@
+{
+  "version": 5,
+  "path": "角色/爱弥斯/个性语音.editor.json",
+  "title": "个性语音",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "角色/爱弥斯/个性语音.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_81ed903c",
+      "type": "text_body",
+      "text": "飞行雪绒这个名字，一听就知道是因为雪绒海豹起的吧？没什么喻义啦，注册网站域名时随手写的，但那个像素小海豹可是我的得意绘画之作——现在歌友会出的“雪绒豹豹”手办，二手价格还炒得很高呢！明明我人都不在，衍生物料却一直卖得挺好诶……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本正文",
+        "source_row": 2,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "心声",
+          "飞行雪绒",
+          "网名",
+          "头像",
+          "像素小海豹"
+        ]
+      }
+    },
+    {
+      "id": "blk_1b3e8d69",
+      "type": "text_body",
+      "text": "在虚质磁暴深处，我时而会和那只“眼睛”对上视线。虚无，对死亡的渴望，无意义，寂静的宇宙……星炬学院的学生想要前往的，就是这样一个危险的世界；天才们所寻求的，就是在这威胁下汲取真理。……我算是其中一员吗？哈哈，不知道呢！人家还是个处在青春期多愁善感的学生啊~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "心声"
+        ]
+      }
+    },
+    {
+      "id": "blk_43765cd7",
+      "type": "text_body",
+      "text": "儿时我害怕父母消失的雷雨天，你就总是在这样的夜晚讲故事哄我睡觉。你的手很温暖，牵着它时，我就不再害怕雷声。那些故事大多都有趣曲折，也有一些危险刺激，可毕竟都只是故事。直到后来我意识到，你就是那个主角。我就想，我再也不要那些故事了！……我只想要你平安快乐地活着。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "心声",
+          "雷雨天",
+          "讲故事",
+          "童年",
+          "对我的期望"
+        ]
+      }
+    },
+    {
+      "id": "blk_9de13d10",
+      "type": "text_body",
+      "text": "知道那些真相的时候，我感受到的第一种情绪，是愤怒。和你一起生活的记忆越是温暖，我就越是憎恨那些让你痛苦的存在，我恨不得用你教我的剑法把那些事物都斩碎！我只是作为幽灵飘荡了十几年，就已经时常觉得寂寞呢，而你，那些流淌过你的漫长时间……一个人从孤独中来，难道也要在孤独中走吗？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 3,
+        "keywords": [
+          "心声",
+          "真相",
+          "情绪"
+        ]
+      }
+    },
+    {
+      "id": "blk_eb6f5d81",
+      "type": "text_body",
+      "text": "我知道~救世主并不是一个值得追逐的头衔，大部分时候它太重，另一些时候它太傲慢。但我还是想成为能够守护这个世界的人。因为……这么沉的责任，如果有一个人能与你共同承担，应该会轻松些吧？所以，我不会抛弃我的傲慢，我会一直在你所走的路上，和你共同前行——直到你渴望的那个明天到来",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 4,
+        "keywords": [
+          "心声",
+          "理想",
+          "为什么",
+          "救世"
+        ]
+      }
+    },
+    {
+      "id": "blk_5b9151ae",
+      "type": "note",
+      "text": "“眼睛”指鸣式阿列夫一",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "注释",
+        "source_row": 10,
+        "xlsx_section_index": 4,
+        "source_id": "row10#note"
+      }
+    },
+    {
+      "id": "blk_dd70f557",
+      "type": "text_body",
+      "text": "我的兴趣大部分都来得快去得也快，因为和学院里的大家关系都还不错，我经常会去给他们的社团帮忙，也算是时常都在体验不同方向的爱好了。非要说的话……我喜欢和大家一起热闹开心地做事，因为“要轻松快乐地活着”嘛~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 5,
+        "keywords": [
+          "爱好"
+        ]
+      }
+    },
+    {
+      "id": "blk_e3534756",
+      "type": "text_body",
+      "text": "瑝珑的同学曾和我说过他们那里的一句俗语，“人生除死无大事”。那些不值一提的烦恼，在死亡到来后也不再让我挂心了。现在除了为怎么保护世界苦恼外，就是……担心你吧。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 6,
+        "keywords": [
+          "烦恼"
+        ]
+      }
+    },
+    {
+      "id": "blk_b762ddaa",
+      "type": "text_body",
+      "text": "星炬学院的学生们都来自世界各地，有不少人入学时也会带自己老家的特产和菜谱来，校内论坛上经常会有帖子点评新美食。嗯~这方面我是跟风尝鲜派！只要是流行的、没吃过的新美味我都爱吃。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 7,
+        "keywords": [
+          "喜欢的食物"
+        ]
+      }
+    },
+    {
+      "id": "blk_1eb79f95",
+      "type": "text_body",
+      "text": "没有特别讨厌吃的，百无禁忌！不过，我现在已经不需要吃东西了，哈哈。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 8,
+        "keywords": [
+          "讨厌的食物"
+        ]
+      }
+    },
+    {
+      "id": "blk_c1eab88c",
+      "type": "text_body",
+      "text": "我想和你一样，成为救世主。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 9,
+        "keywords": [
+          "理想",
+          "抱负"
+        ]
+      }
+    },
+    {
+      "id": "blk_05c581ed",
+      "type": "text_body",
+      "text": "变身后的机甲，是我自己根据隧者的运行原理设计的~因为我是电子幽灵嘛，能作为操控系统融进机甲内部，所以变身后的状态算是——自驾驶机甲？我还在里面留了一部分自己的算力，让它能在我需要共同行动时配合我……我都不做人了，当然可以双线程运转啦~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 10,
+        "keywords": [
+          "凝音",
+          "机甲型态",
+          "机兵"
+        ]
+      }
+    },
+    {
+      "id": "blk_2bdc3ae1",
+      "type": "text_body",
+      "text": "为了阻止鸣式破坏封印，在驾驶舱中与隧者共鸣时，虽然身躯因为被撕裂而剧痛，但我的精神却沉浸在高度兴奋中。一直以来，我都听从你的叮嘱努力做一个快乐生活的学生，可在那一刻，它对我的约束失效了。我终于能做一直想做的事，去拯救世界。哈哈……多么荒谬、傲慢、贪婪的梦想啊！但你瞧，我已经将它实现了。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 11,
+        "keywords": [
+          "凝音",
+          "共鸣痛苦"
+        ]
+      }
+    },
+    {
+      "id": "blk_87af2f67",
+      "type": "text_body",
+      "text": "在你把我带去学院，准备离开拉海洛的那段时间，我才第一次见到莫宁教授——你的学妹。那时候她坐在轮椅上，总是看着你，好像想说点儿什么，又总是迅速垂下头看向手里的文献。哎~所以说嘛，一视同仁的温柔杀伤力真是可怕呀——",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 12,
+        "keywords": [
+          "关于莫宁"
+        ]
+      }
+    },
+    {
+      "id": "blk_1f92ce52",
+      "type": "note",
+      "text": "“真相”指漂泊者被自身所属文明拒绝，无法实现最后看一眼故乡的心愿",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "注释",
+        "source_row": 26,
+        "xlsx_section_index": 12,
+        "source_id": "row26#note"
+      }
+    },
+    {
+      "id": "blk_c70e0031",
+      "type": "text_body",
+      "text": "陆医生是个有能力的好人，学生们大多都很喜欢他。但他最初远没有现在那么松弛和温柔，总是紧绷着，像是随时准备着开始一场厮杀。也许正是因为你让他来了拉海洛，他才在任职期间学会了信赖他人，并最终能够再次享受日光的温暖吧。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 13,
+        "keywords": [
+          "关于陆·赫斯"
+        ]
+      }
+    },
+    {
+      "id": "blk_8c4fe558",
+      "type": "text_body",
+      "text": "在那些听到你叹息的夜晚，我悄悄走到桌子旁时，偶尔会听到你在和她低声通讯。守岸人……我记得你念起的这个名字。每当你和她说话的时候，那些叹息声都会少一些。我想，她应该就是那个一直守望着你的平静与安宁的人吧。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 14,
+        "keywords": [
+          "关于守岸人"
+        ]
+      }
+    },
+    {
+      "id": "blk_590ddf7b",
+      "type": "text_body",
+      "text": "椿姐姐和我一起在冰原上追着隧群跑过！她打游戏技术特别厉害，我很想和她再玩一局呢~不过……她似乎是瞒着黑海岸的人，悄悄在养病期间跑来冰原探望你的，确认你一切都好后就独自离开了。椿姐姐身体一直不太好，你要注意关心她的健康情况噢。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 15,
+        "keywords": [
+          "关于椿"
+        ]
+      }
+    },
+    {
+      "id": "blk_ab5d2264",
+      "type": "text_body",
+      "text": "在变成电子幽灵后的十多年里，我经常前往冰原看它。它总是静默无言地停驻在雪中，于是我也静静站在雪中望着它。是什么让它在拉海洛文明尚未萌发的时刻，决定取出炉芯，将光带给地下呢？隧者，明明你也来自那里，你为何……能够这样选择。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 16,
+        "keywords": [
+          "关于隧者"
+        ]
+      }
+    },
+    {
+      "id": "blk_06d43342",
+      "type": "text_body",
+      "text": "看~雪绒豹豹限量款蛋糕！可爱吧？总算又能在这间小屋里和你一起庆祝了。生日啊……你诞生的那个地方，会为之祝福吗？我希望是会的。蜡烛点好啦，来，闭眼许愿~我希望你的心愿全都能实现，希望未来你的每个生日，我都能为你唱生日歌！也希望你知道……无论你在这世上走多远，都会有家人关心你、爱着你，永远。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 35,
+        "source_type": "文本正文",
+        "source_row": 36,
+        "xlsx_section_index": 17,
+        "keywords": [
+          "生日祝福"
+        ]
+      }
+    },
+    {
+      "id": "blk_6b00070b",
+      "type": "text_body",
+      "text": "试试看？像这样——喏。 飞得很远哦，厉害！",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 18,
+        "keywords": [
+          "闲趣"
+        ]
+      }
+    },
+    {
+      "id": "blk_2457905b",
+      "type": "text_body",
+      "text": "看这里~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 19,
+        "keywords": [
+          "闲趣"
+        ]
+      }
+    },
+    {
+      "id": "blk_50bbcd66",
+      "type": "text_body",
+      "text": "隧者兵装：自检开始。 \n爱弥斯：状态良好~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 20,
+        "keywords": [
+          "闲趣"
+        ]
+      }
+    },
+    {
+      "id": "blk_5b0157db",
+      "type": "note",
+      "text": "“轻松快乐地活着”是漂泊者在爱弥斯小时候对她未来的期望，漂泊者觉得这已足够，她不需要去做什么而让自己骄傲",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "注释",
+        "source_row": 42,
+        "xlsx_section_index": 20,
+        "source_id": "row42#note"
+      }
+    },
+    {
+      "id": "blk_48be89c8",
+      "type": "text_body",
+      "text": "爱弥斯，拉贝尔学部的隧者适格者！不过，那都是生前的事了。现在的我，是电子幽灵哦~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 43,
+        "source_type": "文本正文",
+        "source_row": 44,
+        "xlsx_section_index": 21,
+        "keywords": [
+          "自我介绍",
+          "身份"
+        ]
+      }
+    },
+    {
+      "id": "blk_dd2c2a7c",
+      "type": "text_body",
+      "text": "你，看见我了？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 45,
+        "source_type": "文本正文",
+        "source_row": 46,
+        "xlsx_section_index": 22,
+        "keywords": [
+          "初奏"
+        ]
+      }
+    },
+    {
+      "id": "blk_b28b3256",
+      "type": "text_body",
+      "text": "我会消灭，意图毁灭的恶。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 47,
+        "source_type": "文本正文",
+        "source_row": 48,
+        "xlsx_section_index": 23,
+        "keywords": [
+          "入队",
+          "并肩作战"
+        ]
+      }
+    },
+    {
+      "id": "blk_085dd958",
+      "type": "text_body",
+      "text": "幽灵来到你，身，边~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 49,
+        "source_type": "文本正文",
+        "source_row": 50,
+        "xlsx_section_index": 24,
+        "keywords": [
+          "入队",
+          "并肩作战"
+        ]
+      }
+    },
+    {
+      "id": "blk_5e95e8bb",
+      "type": "text_body",
+      "text": "一起去拯救世界吧！",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 51,
+        "source_type": "文本正文",
+        "source_row": 52,
+        "xlsx_section_index": 25,
+        "keywords": [
+          "突破",
+          "变强"
+        ]
+      }
+    },
+    {
+      "id": "blk_81c8b9a5",
+      "type": "text_body",
+      "text": "机体性能提升了~",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 53,
+        "source_type": "文本正文",
+        "source_row": 54,
+        "xlsx_section_index": 26,
+        "keywords": [
+          "突破",
+          "变强"
+        ]
+      }
+    },
+    {
+      "id": "blk_372f3f33",
+      "type": "text_body",
+      "text": "希望这份力量，也能让隧者更长久地保护拉海洛。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 55,
+        "source_type": "文本正文",
+        "source_row": 56,
+        "xlsx_section_index": 27,
+        "keywords": [
+          "突破",
+          "变强"
+        ]
+      }
+    },
+    {
+      "id": "blk_e8648e99",
+      "type": "text_body",
+      "text": "和坏人讲不通道理的时候，就得火力压制嘛！所以，最近我在研究新的光炮射击阵列。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 57,
+        "source_type": "文本正文",
+        "source_row": 58,
+        "xlsx_section_index": 28,
+        "keywords": [
+          "突破",
+          "变强",
+          "对敌人的态度"
+        ]
+      }
+    },
+    {
+      "id": "blk_d94058e0",
+      "type": "text_body",
+      "text": "来感受一下我的剑法吧？虽然脱胎于你的教导，但我后来又进行了不少个性化改良，现在正是验证方向的好时候。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 59,
+        "source_type": "文本正文",
+        "source_row": 60,
+        "xlsx_section_index": 29,
+        "keywords": [
+          "突破",
+          "变强"
+        ]
+      }
+    },
+    {
+      "id": "blk_abcab085",
+      "type": "text_body",
+      "text": "希望现在的我，已经成长到能和你并肩而行了。虽然有个可靠的背影能跟随和依赖是很安心，但我的野心可不止于此~就像你曾经保护我那样，我也会保护你。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 61,
+        "source_type": "文本正文",
+        "source_row": 62,
+        "xlsx_section_index": 30,
+        "keywords": [
+          "突破",
+          "变强"
+        ]
+      }
+    },
+    {
+      "id": "blk_beef9721",
+      "type": "note",
+      "text": "爱弥斯肉体已经死亡，成为了电子幽灵，不需要进食，她这么说其实也算是种地狱笑话",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 61,
+        "source_type": "注释",
+        "source_row": 62,
+        "xlsx_section_index": 30,
+        "source_id": "row62#note"
+      }
+    }
+  ]
+}

@@ -107,6 +107,8 @@ def default_role_permission_template(role_name: str) -> dict:
         "extra_world_paths": [],
         "region_overrides": [],
         "allowed_story_paths": [],
+        "allowed_story_premises": [],
+        "allowed_story_segments": [],
         "notes": "",
     }
 
@@ -171,6 +173,8 @@ def generate_permission_for_role(
         "extra_world_paths": manual.get("extra_world_paths", []),
         "region_overrides": manual.get("region_overrides", []),
         "allowed_story_paths": manual.get("allowed_story_paths", []),
+        "allowed_story_premises": manual.get("allowed_story_premises", []),
+        "allowed_story_segments": manual.get("allowed_story_segments", []),
         "notes": manual.get("notes", ""),
         "role_info": role_info,
         "forced_role_paths": forced_role_paths,

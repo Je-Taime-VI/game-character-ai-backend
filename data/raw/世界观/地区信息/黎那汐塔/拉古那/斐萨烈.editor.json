@@ -1,0 +1,77 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/斐萨烈.editor.json",
+  "title": "斐萨烈",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/斐萨烈.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_360b3869",
+      "type": "text_title",
+      "text": "斐萨烈",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_5bc82cf8",
+      "type": "text_body",
+      "text": "拉古那的主要家族之一。最为古老，也最为保守的家族。翡萨烈家族以对药物和毒药的了解而著称，在大多数人眼中，他们对岁主无比虔诚。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_bcdadcb9",
+      "type": "text_body",
+      "text": "一部分翡萨烈家族成员认为，莫塔里家族所倡导的开放和声骸私有化违背了英白拉多的教诲，将会使拉古那坠入无信的深渊。他们自作主张地通过各种手段和莫塔里家族针锋相对，这无疑破坏了翡萨烈家族一贯维持的保守形象，然而，居住在波蒂维诺堡的翡萨烈家主却似乎对他们的激进行动毫不关心。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/瑝珑/今州/狮子舞.editor.json",
+  "title": "狮子舞",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/瑝珑/今州/狮子舞.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_5bc2a9a0",
+      "type": "text_title",
+      "text": "狮子舞",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f0db9099",
+      "type": "text_body",
+      "text": "狮子舞寓武于舞，其步法与架势多以瑝珑传统的拳风与武术为基础，是今州极具代表性的民俗艺术。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1117 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/冰原运输港.editor.json",
+  "title": "冰原运输港",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/冰原运输港.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_e4d3dd0e",
+      "type": "text_title",
+      "text": "《沿着地极的方向》节选一",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9c90d71b",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_0f81d2da",
+      "type": "text_body",
+      "text": "直到午夜时，远航船才穿过磁暴检测区，到达了罗伊冰原附近。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c8f39647",
+      "type": "text_body",
+      "text": "从舷窗向外望，隔着海雾，我看到了山脉般高耸的冰崖，它们如无际的白色城墙般向两侧绵延。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e95f8887",
+      "type": "text_body",
+      "text": "我睁大双眼，看着那冰崖逐渐向我压近，感到呼吸越来越急促，昔日只存在于秘密报道中的罗伊冰原，诸国联合共建的「极地联合」——我终于要亲眼目睹这一切了。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_dd2cf3b3",
+      "type": "text_body",
+      "text": "船只系泊的广播响起，伴随着缆绞机拉紧缆绳的低沉声响，我们抵达了罗伊不冻港。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f736ca73",
+      "type": "text_body",
+      "text": "经过十数项严格的审查后，我和前来接应我的科考队会合，一起离开港口，坐上了前往冰原腹地的运载电梯。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_be0930ef",
+      "type": "text_body",
+      "text": "这座电梯的规模十分巨大，单次运送的物资便能支持一座小型营地半年的科考工作。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_dcdccb76",
+      "type": "text_body",
+      "text": "但是当其启动后过了不过两分钟，我的感受便完全变了——这座巨大的电梯在冰崖上爬升时，就像蚂蚁在攀登一座山峰。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a383260a",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1d5f99ca",
+      "type": "text_body",
+      "text": "在科考队的带领下，我顺利到达了极地科考站。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9f83d398",
+      "type": "text_body",
+      "text": "在登记后，队长把我叫到了物资仓，带我领取了在冰原上活下去所需的一切东西。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_79a05f7f",
+      "type": "text_body",
+      "text": "随后，我被分配了一个房间，在访问期内，这个小屋将成为我每天入眠和醒来的地方。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_22a59642",
+      "type": "text_body",
+      "text": "我把随身的行李留在了房间里，然后便开始观察科考站内的各个设施。也许是先约那边提前通知过研究员们，除少部分禁止通行的区域外，我可以毫无阻碍地前往大部分地方。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3548a869",
+      "type": "text_body",
+      "text": "根据我的观察，「极地联合」的一期工程，即我所在的冰原运输港此时已完全建成。据研究人员的说法，当地的罗伊族以及其引导的隧群也在建设工作中提供了极大的帮助。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_365a5a69",
+      "type": "text_body",
+      "text": "但当我询问二期工程的规划时，营地内的人员并未给我答复。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_82c1c05d",
+      "type": "text_body",
+      "text": "大部分人忙于自己手头的研究和建设任务——虽然他们并未直接这么说，但当我问东问西时，他们的眼神告诉我：我没空管来自先约的“游客”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_206103d2",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_47f2aff4",
+      "type": "text_body",
+      "text": "经过我的计算，前三天一共有九十二辆重载型运输车抵达科考站，而它们所携带的物资中，只有极少数被运往了冰原其他区域，其余全部经轻轨输往了地下。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d24d5765",
+      "type": "text_body",
+      "text": "我推测，「极地联合」二期工程的重心并非位于罗伊冰原，而是在地下，在经由「联运椎骨」才能抵达的拉海洛地区。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1fca472f",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b0435ea1",
+      "type": "text_body",
+      "text": "第六天，我如往常一般从极地科考站中醒来，到用餐区吃过早饭后，再次找到了科考队的队长，第三次向他递交了拉海洛的访问申请。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b60a312a",
+      "type": "text_body",
+      "text": "不出意料，她再次拒绝了我的请求。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_55ba2c2a",
+      "type": "text_body",
+      "text": "虽然感到十分遗憾，但我能够理解。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ddc0685f",
+      "type": "text_body",
+      "text": "这里的一切发现都太过轰动，太过颠覆常理，即使有先行公约为我背书，他们依然要谨慎行事。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1c813db7",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_e1f3ac00",
+      "type": "text_title",
+      "text": "《沿着地极的方向》节选二",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本标题",
+        "source_row": 29,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_fdd16c9a",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4cf9676e",
+      "type": "text_body",
+      "text": "在返航的前一天下午，队长找到了我，说想带我去一个地方。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_9fbbc611",
+      "type": "text_body",
+      "text": "这天是我第一次，也是最后一次穿上防护服，我和其他科考人员一起乘上了破冰者号科考艇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_21a27b49",
+      "type": "text_body",
+      "text": "经过了数十分钟的颠簸后，我忍着呕吐感，颤颤巍巍地走下了载具。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_fd65434f",
+      "type": "text_body",
+      "text": "那是我毕生难忘的一天——在一座白色、蓝色与紫色交织的建筑里，坐着几位身着异域服饰的人，在他们的身旁，一头机械的白色巨熊正在打瞌睡。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_7f5ce083",
+      "type": "text_body",
+      "text": "我一脸震惊地望向队长，她告诉我说：“「极地联合」在进行保密性建设，我没法让你到拉海洛去，但我可以带你认识一下这里的原住民‘罗伊族’。他们主要生活在地下，但在冰原上也有少量营地。”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 34,
+        "source_type": "文本正文",
+        "source_row": 35,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_84c01998",
+      "type": "text_body",
+      "text": "我记得那天的每一个细节，我们待了一整个下午，却感觉十分短暂。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 35,
+        "source_type": "文本正文",
+        "source_row": 36,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c6b74cf2",
+      "type": "text_body",
+      "text": "我听不懂他们说话，必须经过熟知他们语言的队长转述才能与他们交流，即便如此，我也能感受到他们十分友善。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 36,
+        "source_type": "文本正文",
+        "source_row": 37,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ebe55a9f",
+      "type": "text_body",
+      "text": "他们介绍自己是负责引导隧群的牧者，每隔一段时间都会引导地下的隧群来到冰原，与格洛犸图还有格洛马提等冰原上的大型隧群会合，并一起向着隧者跋涉。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_df8ffa12",
+      "type": "text_body",
+      "text": "最终，这些隧群会回归隧者——祂是沉眠在冰原尽头的巨大机械，据说一切隧群都来自于祂。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 38,
+        "source_type": "文本正文",
+        "source_row": 39,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_424eec85",
+      "type": "text_body",
+      "text": "在屋中，他们与我分享了一种团状的烤蔬菜，以及一种香味独特的腌制鱼肉料理。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f3c46153",
+      "type": "text_body",
+      "text": "在离开前我们合了影，我当场影印出来赠送给了他们，而他们则赠与了我一个奇异的海螺——那上面有多得数不清的空格，以一种螺旋状的纹路规则排列。根据队长的说法，这是他们用于计算的工具。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 40,
+        "source_type": "文本正文",
+        "source_row": 41,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4d13be36",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e56b570b",
+      "type": "text_body",
+      "text": "当冰崖逐渐消失在地平线上时，我关上了舷窗。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 42,
+        "source_type": "文本正文",
+        "source_row": 43,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_673d6beb",
+      "type": "text_body",
+      "text": "海浪敲打着船底，传来有节奏的“铛——铛”声，我静静听着，感到睡意渐浓。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 43,
+        "source_type": "文本正文",
+        "source_row": 44,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_dfd63e47",
+      "type": "text_body",
+      "text": "在梦中，我又见到了那几位罗伊族，他们伴着窗外冰原的风雪，为我奏响了告别的歌谣——",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 44,
+        "source_type": "文本正文",
+        "source_row": 45,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_1bca4fa8",
+      "type": "text_body",
+      "text": "“踏上前路，踏上前路",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 45,
+        "source_type": "文本正文",
+        "source_row": 46,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_04560826",
+      "type": "text_body",
+      "text": "如此宁静，在安详的夜里",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 46,
+        "source_type": "文本正文",
+        "source_row": 47,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_25660fd5",
+      "type": "text_body",
+      "text": "我正踏上前路",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 47,
+        "source_type": "文本正文",
+        "source_row": 48,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2feaa9a3",
+      "type": "text_body",
+      "text": "并不遥远，就在脚下",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 48,
+        "source_type": "文本正文",
+        "source_row": 49,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a7099231",
+      "type": "text_body",
+      "text": "迎着敞开的门",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 49,
+        "source_type": "文本正文",
+        "source_row": 50,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f296414d",
+      "type": "text_body",
+      "text": "向黄昏，向远方",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 50,
+        "source_type": "文本正文",
+        "source_row": 51,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a42dc087",
+      "type": "text_body",
+      "text": "将尘事完结，将忧虑尽卸",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 51,
+        "source_type": "文本正文",
+        "source_row": 52,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e68edc8d",
+      "type": "text_body",
+      "text": "无需再恐惧彷徨",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 52,
+        "source_type": "文本正文",
+        "source_row": 53,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_431f3fa3",
+      "type": "text_body",
+      "text": "父母正翘首以盼",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 53,
+        "source_type": "文本正文",
+        "source_row": 54,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_79d5b1b6",
+      "type": "text_body",
+      "text": "旧友亦齐聚一堂",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 54,
+        "source_type": "文本正文",
+        "source_row": 55,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_14ad0e34",
+      "type": "text_body",
+      "text": "那些熟悉的面庞",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 55,
+        "source_type": "文本正文",
+        "source_row": 56,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_447cc174",
+      "type": "text_body",
+      "text": "那些熟悉的面庞”",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 56,
+        "source_type": "文本正文",
+        "source_row": 57,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

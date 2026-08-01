@@ -1,0 +1,7055 @@
+{
+  "version": 4,
+  "path": "主线/34-第三章-驶向尚未点亮之星-间章-日光落处.editor.json",
+  "title": "34-第三章-驶向尚未点亮之星-间章-日光落处",
+  "doc_type": "story",
+  "meta": {
+    "source": "editor_v2",
+    "export_txt": true
+  },
+  "blocks": [
+    {
+      "id": "4b27a9c8",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 10,
+            "end": 11
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：返回星炬学院 角色：漂泊者"
+    },
+    {
+      "id": "d9123fe8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "（陆之前在讯息里约了我在医务室和他谈隧者计划，现在就去找他吧。）"
+    },
+    {
+      "id": "5114821a",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 9,
+            "end": 10
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：到达校医室 角色：漂泊者，娜波摩"
+    },
+    {
+      "id": "07321a6e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "（是娜波摩……她一直在这里养伤？）"
+    },
+    {
+      "id": "blk_wq83lbwk",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "问候娜波摩"
+    },
+    {
+      "id": "69859a53",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "娜波摩，之前的伤好些了吗？"
+    },
+    {
+      "id": "7c4dd64b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "是、是漂泊者同学啊……嗯，我已经好多了。"
+    },
+    {
+      "id": "0672b7c3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "赫斯医生很关心我，这几天我都遵循他的医嘱在这里休养，现在不太痛了。"
+    },
+    {
+      "id": "4d48af65",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "你是来找他的吗？"
+    },
+    {
+      "id": "020eaad7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "找他商量些事。他在吗？"
+    },
+    {
+      "id": "14e2b03d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "就在旁边的心理咨询室里。唔……我朋友西格莉卡正在里面，你可能要等一小会儿。"
+    },
+    {
+      "id": "921990e6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "好，你也注意休息。"
+    },
+    {
+      "id": "cdc86e58",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 8,
+            "end": 9
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：办公室内 角色：陆·赫斯，西格莉卡"
+    },
+    {
+      "id": "6b6a7405",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "怎么说呢——我觉得，西格莉卡同学可以对自己更有信心些。"
+    },
+    {
+      "id": "c15c351b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "西格莉卡",
+      "text": "信心……"
+    },
+    {
+      "id": "7db7dfc6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "有时候，人比你想得更敏锐，这其中也包括你在乎的那些人。不用太追根究底，过度剖析自己。"
+    },
+    {
+      "id": "bc02c058",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "好与坏，真与假，不是那么容易伪装的。你那个叫达妮娅的朋友说得对，适当逃避有助于健康噢。"
+    },
+    {
+      "id": "6965039a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "西格莉卡",
+      "text": "嗯……我会试试的！谢谢你，陆医生。"
+    },
+    {
+      "id": "cfcb46d3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不客气~凡事都别努力过头，适当才好。"
+    },
+    {
+      "id": "90513311",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "西格莉卡同学感觉是那种光是想到考试，就会半夜焦虑地从床上“噌”地坐起来，持续一周两眼发直的类型呢……"
+    },
+    {
+      "id": "2f11e371",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "西格莉卡",
+      "text": "咦？！这么明显的吗？！"
+    },
+    {
+      "id": "81d26f61",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "哈哈哈~只是猜测而已。"
+    },
+    {
+      "id": "a03766c5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（拿出糖果）",
+      "text": "要吃颗糖吗？甜味有助于保持好心情。"
+    },
+    {
+      "id": "e7c0c76a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "西格莉卡（接过糖果）",
+      "text": "嗯，我想要！陆医生，之后……我还能再来吗？"
+    },
+    {
+      "id": "c4601c17",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "在西格莉卡同学需要的时候，当然可以。"
+    },
+    {
+      "id": "blk_i36jx59d",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "西格莉卡离开，漂泊者进入办公室"
+    },
+    {
+      "id": "blk_h63bb0b7",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "此处西格莉卡蹦蹦跳跳地走路，错身后西格莉卡回头看了漂泊者一眼，随后继续蹦蹦跳跳地离开了"
+    },
+    {
+      "id": "d6cb3474",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "有关你说的那个隧者计划，说说看吧。"
+    },
+    {
+      "id": "fc06f573",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "先不急，先聊点别的。"
+    },
+    {
+      "id": "8b66cc30",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "别的？"
+    },
+    {
+      "id": "f23ea918",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "什么都行，但得先缓一缓调子。"
+    },
+    {
+      "id": "2c17e9c6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你太急切了，漂泊者，情绪正在影响你平日冷静的判断，你自己应该也发现了。"
+    },
+    {
+      "id": "ec00353a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（拿出糖果）",
+      "text": "来，吃颗糖？有助于舒缓心情，变得开心噢。"
+    },
+    {
+      "id": "4867b958",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……不了。"
+    },
+    {
+      "id": "688fcb9e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我能理解你因为爱弥斯的事焦虑，你以前就很看重那孩子，但你现在的精神状态比你自己预想的更差。"
+    },
+    {
+      "id": "d6ad4cf3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "事情要一步步做，隧者现在尚未苏醒，我们得保持健康的步调。你说呢？"
+    },
+    {
+      "id": "81a3c087",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你说得对，那就先不聊隧者。先说说你，陆。"
+    },
+    {
+      "id": "0498b941",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我信任爱弥斯，是因为和她一路的经历佐证了她的话，也因为我能感觉到自己对她天然的亲近感。"
+    },
+    {
+      "id": "95173c02",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "但如你所说，或许你我只是“君子之交”，而我们之前的接触也总是点到即止。"
+    },
+    {
+      "id": "9a817c3c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "如果要做打开隧门这样一件会影响整个拉海洛的事，我希望自己能更了解合作伙伴。"
+    },
+    {
+      "id": "cb014c33",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "呵呵，明白，缺了的自我介绍总得补上。"
+    },
+    {
+      "id": "dd036de4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "只要是你想问的，我知无不言。"
+    },
+    {
+      "id": "4877b288",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你是黑海岸的客卿？"
+    },
+    {
+      "id": "3124d712",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不是。我不太适合在这种有档案的背景下做事，但认识不少执花。"
+    },
+    {
+      "id": "620499be",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "爱弥斯曾说和你不是很熟，却又说你可以信任，你也知道我和她的关系。为什么？"
+    },
+    {
+      "id": "eac7cd8e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "因为她是个心思敏锐的孩子。哪怕你避开了介绍我们认识的可能性，她也会从你的行动中猜出一些东西。"
+    },
+    {
+      "id": "9ea68ea1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "爱弥斯和你很像，聪明，富有行动力，善于忍耐痛苦，但她的性情比你还固执。"
+    },
+    {
+      "id": "3075a657",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你从拉海洛离开后，她也来过我这里几次。说是心理咨询，其实也是和我打听你的事。"
+    },
+    {
+      "id": "77525239",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你没和她说。"
+    },
+    {
+      "id": "56d58b97",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "对。我在拉海洛有你安排给我的其他事要做，你不介绍我们认识，是不想我这边的事牵连到她。"
+    },
+    {
+      "id": "f5f0037f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "爱弥斯自己意识到这点之后，就再也没来过了。"
+    },
+    {
+      "id": "6c1d2d39",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不过……我倒希望她能多说说自己的烦恼。喜欢把事装在心里这点也和你一样，但这不算好习惯。"
+    },
+    {
+      "id": "6f002b0b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……那么，还有一个问题。"
+    },
+    {
+      "id": "b5ecc3b0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你说的“被我安排的事”，是什么？"
+    },
+    {
+      "id": "a8a98181",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这个是重点，但不适合在这里说。"
+    },
+    {
+      "id": "0503672d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "深空联合的背后有不同国家的势力在支持，他们内斗与否，我们管不着，但校工们中眼线不少。"
+    },
+    {
+      "id": "fec27da2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "医务室毕竟是公共区域，我们换个地方聊吧？"
+    },
+    {
+      "id": "a2de9e84",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "去哪里？"
+    },
+    {
+      "id": "f905a892",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "跟我来就好。走吧，大忙人~"
+    },
+    {
+      "id": "f061cc3e",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 9,
+            "end": 10
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：校医室门口 角色：N.A.N.A.，陆·赫斯，漂泊者"
+    },
+    {
+      "id": "8d19515b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.",
+      "text": "赫斯医生，又有事要独自外出吗？"
+    },
+    {
+      "id": "0bac18e1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "嘘，N.A.N.A.，我偷会儿懒。这里就拜托你了，接替我值班的同事一会儿就到。"
+    },
+    {
+      "id": "b0724a0b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.",
+      "text": "请注意安全，赫斯医生。不要再带着伤回来。"
+    },
+    {
+      "id": "ad36b3b9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "放心，这次有漂泊者在呢，不会的。"
+    },
+    {
+      "id": "blk_ash04x13",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "西格莉卡在陆·赫斯的心理辅导下稍稍轻松，推开门与你擦肩而过，去找她的朋友娜波摩。你为救援爱弥斯来到医务室与陆谈及隧者计划，因焦躁而拒绝了他递来的糖果，说出了关于彼此间信任的疑虑。陆·赫斯不以为意，反倒笑着邀请你去另一处详谈。"
+    },
+    {
+      "id": "21b779c3",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 6,
+            "end": 7
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：途中 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "fe5e8bec",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "坠剑湖？"
+    },
+    {
+      "id": "3acf3f16",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "对，我在这里有一处自己的“小房间”。"
+    },
+    {
+      "id": "87f1d1bf",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 15,
+            "end": 16
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：到达陆·赫斯指引的地点 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "blk_1a7nk5hr",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "出现拦路残象"
+    },
+    {
+      "id": "f3b73691",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我来解决，别让它们浪费我们的时间。"
+    },
+    {
+      "id": "cd5407ed",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "隧者的剑蕴藏着独特的频率，我的“小房间”也由此免于一些远程手段的探查。"
+    },
+    {
+      "id": "df083376",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "选址不错。"
+    },
+    {
+      "id": "8e0b6541",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 8,
+            "end": 9
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：进入密室 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "97c0a56f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你藏了东西在深处。"
+    },
+    {
+      "id": "67558820",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "呵呵，密室不就是发挥这种作用的地方吗？"
+    },
+    {
+      "id": "6f002b39",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "现在，我们可以循序渐进地聊了。"
+    },
+    {
+      "id": "826d4199",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "先说结论，再介绍过程吧：你安排我来拉海洛，是为了关注残星会的动向。"
+    },
+    {
+      "id": "56e7fb6c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "魏尔伦只是你在拉海洛遇到的第一个残星会内线，但绝不是最后一个。"
+    },
+    {
+      "id": "e50559e2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "某种意义上，也是因为深空联合本身就由多股势力交织制衡，才让这里既封闭独立，又鱼龙混杂。"
+    },
+    {
+      "id": "3c93389f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "地处极点，周边没有其他势力制约，还有隧群生物和各种科技突破的可能……拉海洛是闪闪发亮的宝藏地。"
+    },
+    {
+      "id": "b270fd45",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "哪怕对残星会而言，也一样。"
+    },
+    {
+      "id": "d2e6d642",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "之前赫利俄斯的事故，也不是他们真正的目标？"
+    },
+    {
+      "id": "af6ccd99",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "只是其中一个。你既然已经途经瑝珑和黎那汐塔，想来也能意识到他们的目标。"
+    },
+    {
+      "id": "b2d3f542",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……鸣式阿列夫一。"
+    },
+    {
+      "id": "c8204cd7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "是的，它这么特殊，不可能不引起他们的注意。更何况，阿列夫一还关系着可能通往地外空间的隧门。"
+    },
+    {
+      "id": "d4dfe1d9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "探查残星会，是一项风险很高的任务。我为什么会在过去选择你？"
+    },
+    {
+      "id": "9a5c89f7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这个嘛，就得从更早之前说起了。"
+    },
+    {
+      "id": "db418cb8",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯告诉你，他之所以来到拉海洛，是过去的你安排的，而这一切则和残星会有关。"
+    },
+    {
+      "id": "5db2aebc",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你是个喜欢亲自验证真伪的人。请吧，去桌子那儿看看。"
+    },
+    {
+      "id": "blk_x3rwlauv",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "观察桌上的容器"
+    },
+    {
+      "id": "5a8bbcd4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "诺维尔再生医药研发的“黄金血”，但我更习惯喊它的另一个名字——日髓。"
+    },
+    {
+      "id": "e0350621",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我父亲最初将它作为罕见病药物开发，但后来，它承载了更高的期望——“进化药物”。"
+    },
+    {
+      "id": "fdb2d906",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "“进化”……听起来的确是残星会会感兴趣的方向。"
+    },
+    {
+      "id": "a27deba8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "从结果而言，我成为了它的共鸣者，不能说它没有用。"
+    },
+    {
+      "id": "bb94340e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但我是幸存的个例，只因此历经剧痛、患上色盲，大部分和我一样的受试者都死了。"
+    },
+    {
+      "id": "fceb2fc9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不过，直到和你碰面，我才知道其中还有些隐情。"
+    },
+    {
+      "id": "08a0e121",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "一瓶“黄金血”，陆·赫斯的养父拥有的诺维尔再生医药研发的“进化药物”，引来了残星会的注意。"
+    },
+    {
+      "id": "c2b2da4e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "剩下的东西在我的书房，走吧？"
+    },
+    {
+      "id": "b7b3dc8c",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 8,
+            "end": 9
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：前往书房 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "blk_1q9g8rwy",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "观察相框"
+    },
+    {
+      "id": "366034bc",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "是我弟弟莱伊画的。"
+    },
+    {
+      "id": "0c8b5655",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我们之间没有血缘关系，只不过都是我父亲收养的孩子。父亲真正的血亲早就因为罕见病死去了。"
+    },
+    {
+      "id": "1191cc89",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "莱伊怕疼，但又很容易被哄开心，所以每次在治疗室拿到大人们给的糖，我都会全塞给他。"
+    },
+    {
+      "id": "81a8a01a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "（所以他才习惯随身携带那些糖果……）"
+    },
+    {
+      "id": "187027e1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我也曾尝试讨好父亲，做个他期望的儿子，结果都以失败告终，最后也选择了放弃。"
+    },
+    {
+      "id": "49ad40fe",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但……父亲想对莱伊做的事太过了。在后来的一次事故中……"
+    },
+    {
+      "id": "92a10474",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这种故事本来也乏善可陈，只不过是一些渴望补偿自己对死者的愧疚，因而引发事端的陈词滥调。"
+    },
+    {
+      "id": "5a6384f7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "直到我在你的提示下，意识到这可能是一场恶劣的谢幕。所以我掘开了父亲的坟墓——里面空无一物。"
+    },
+    {
+      "id": "5862c6fa",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "一副相框里的涂鸦，来自陆·赫斯的弟弟莱伊绘制的全家福。"
+    },
+    {
+      "id": "blk_16vipdik",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "观察缺损报告"
+    },
+    {
+      "id": "9d637e65",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我拿到这东西的时候，整辆呜呜物流的车都已被炸毁。"
+    },
+    {
+      "id": "86e7488e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "在火舌舔完整张纸之前，我大致看了几眼……呵呵，这可是一份出自会监的报告哦。"
+    },
+    {
+      "id": "e52c459b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "残星会会监发到新联邦的报告……？"
+    },
+    {
+      "id": "040da431",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "是的，夹带在了呜呜物流的货里。"
+    },
+    {
+      "id": "c2f2bc7d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这份报告要送予的对象，是新联邦的「厄里斯」。"
+    },
+    {
+      "id": "5a7bcb9c",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "一份被火焰灼烧的残损报告，来自某个残星会会监，原本会发往给新联邦的「厄里斯」。"
+    },
+    {
+      "id": "29cb0944",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "刚才那三样东西……残星会因为日髓的“进化”可能性，介入了诺维尔再生医药？"
+    },
+    {
+      "id": "0e0d4988",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不止是介入，而是更进一步——替换。"
+    },
+    {
+      "id": "0a72748d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你见过残星会的会长了吗？"
+    },
+    {
+      "id": "769fdca1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "“千面百貌的历劫者”，我的确在黑潮深处的“冥河”附近见过。"
+    },
+    {
+      "id": "edb19937",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……！……你父亲也？"
+    },
+    {
+      "id": "97f8e350",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "对，我父亲也是被借去的身份之一。虽然我现在再回忆，已经想不起他是什么时候被替换掉了。"
+    },
+    {
+      "id": "1b8add61",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "对这位会长而言，大概旁人的生死也只是一场游戏。或许当他在暴雨中被下葬时，还带着笑呢！"
+    },
+    {
+      "id": "556cd52d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这就是我对你提出疑问的答案：为什么选择我？因为我本就有追迹残星会的动机——仇恨。"
+    },
+    {
+      "id": "72a29742",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "仇恨……直到现在？"
+    },
+    {
+      "id": "4e90a008",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "现在嘛，已经变成一种习惯了。"
+    },
+    {
+      "id": "9284c7b5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你继续走下去，迟早会深入地接触他们。在那之前，我需要分享给你一些东西。"
+    },
+    {
+      "id": "bdc4c726",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我听黑海岸的朋友说，你已经接触过一些会监了？"
+    },
+    {
+      "id": "5efeadc0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "三名，克里斯托弗、弗洛洛、伤痕。还有你说的会长。"
+    },
+    {
+      "id": "e5b76e9d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "噢，我对这几个名字有印象。弗洛洛的真实代号是赫卡忒，克里斯托弗则是阿拉克农……你瞧，很好玩儿吧，他们的代称还挺花哨呢。"
+    },
+    {
+      "id": "484ecca9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这点其实很重要，代称有时也指明了他们的行事风格、美学和追求。"
+    },
+    {
+      "id": "7a9dab63",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "一个实力强大的共鸣者毫无逻辑地进行破坏行动，会很难捉住痕迹。但只要有偏好，总能从各种零星的片段中勾勒出轮廓。"
+    },
+    {
+      "id": "ecb649a4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这些年我还收集了一些关于其他会监的情报，也都讲给你听吧。"
+    },
+    {
+      "id": "ef74ceef",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯告诉你，他的父亲也曾被残星会会长取用过身份，而仇恨正是他选择追踪残星会的最初原因——也是过去的你选择他的原因。"
+    },
+    {
+      "id": "ee29afb4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我已经重新激活了你的权限，开门的密锁在那边。"
+    },
+    {
+      "id": "3b6af605",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 16,
+            "end": 17
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：打开密锁，前往深处的房间 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "b9aa9c4d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会是个松散的组织，大部分成员也只是通过人工诱导的方式进行躯体改造，消灭起来也不难。"
+    },
+    {
+      "id": "bf516f80",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但如果你在普通的造匠中，碰到了一些格外……富有创造性的改造，那应该就是「海德拉」的手笔。"
+    },
+    {
+      "id": "e73e51d0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "「海德拉」主导着残星会内部对于进化和改造这个课题的研究，通常会和「塞壬」一起行动。"
+    },
+    {
+      "id": "96cdbbd5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "也就是说，如果你碰到其中一个，最好就得注意提防附近的另一个了。"
+    },
+    {
+      "id": "be0810c7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "「座敷童子」，这个会监不用太关注，其活动的地域主要在苇原，而苇原已经被悲鸣毁灭大半了。"
+    },
+    {
+      "id": "ee0f122e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "苇原……似乎在哪里听过。"
+    },
+    {
+      "id": "409a468f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "之前在医务室养过一段时间伤的孩子，我记得是叫千咲？她曾在的穗波市就属于苇原。"
+    },
+    {
+      "id": "cca14d39",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "接下来我要说的，就是比较重点的两个人物了。"
+    },
+    {
+      "id": "fd098816",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会是一个松散的组织，但再松散和个人化的组织想要做事，就不可能不需要钱，否则一切都是空谈。"
+    },
+    {
+      "id": "c9f6da97",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "还记得刚才那份报告吗？你迟早会去一趟新联邦，因为根据我收集的线索……"
+    },
+    {
+      "id": "ec4d7ea9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "「厄里斯」所在的新联邦，就是他们的重要据点。"
+    },
+    {
+      "id": "1e1f8a80",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "有多重要，会在台面上吗？"
+    },
+    {
+      "id": "36415cc9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不一定。但在那个纸醉金迷的地方，在政府和寡头之中，一定有高层是他们的人——而且是他们中的重要人物。"
+    },
+    {
+      "id": "c34e90ec",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "新联邦的布局为他们带来了巨大的便利，残星会也借由源源不断的财富在这颗星球肆意地游走。"
+    },
+    {
+      "id": "4eb42b54",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "顺带一提，星炬学院也有大量来自新联邦的投资——再直白一点，他们就是深空联合背后最大的金主。"
+    },
+    {
+      "id": "2c4f9130",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "「厄里斯」……我记住了。另一个重要人物，是会长？"
+    },
+    {
+      "id": "dafd6fee",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会会长，真名未知，出现时使用的身份全都是从别处借来的：现实中的人，传说中的概念，还有对死者的回忆。"
+    },
+    {
+      "id": "2508cbcf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我曾与其擦肩而过……可惜，那时候我并不知道这点，错过了机会。"
+    },
+    {
+      "id": "8ea6c05e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "只有这支笔，在大火中被我带了回来。"
+    },
+    {
+      "id": "06f14b47",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "上面的字符目前还无法读出，但它至少能佐证一件事：残星会会长的存在时间，已经非常漫长。"
+    },
+    {
+      "id": "e2a86e2e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "只可惜，你在那时候把我喊来了拉海洛，不然我就顺着这条线继续查下去了。但你做事总有你的道理，对吧。"
+    },
+    {
+      "id": "5cb04be7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "这些情报，都是你独自找到的？"
+    },
+    {
+      "id": "8cfe955c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "差不多，路上也得到过其他人的帮助。"
+    },
+    {
+      "id": "50e54347",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "能拿到残星会会长的物品，你做的，应该不只是追踪吧——你潜入了他们内部。"
+    },
+    {
+      "id": "f13439fe",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "和他们玩没那么难，掌握诀窍就行。我说过了，这是个松散的组织。"
+    },
+    {
+      "id": "61720721",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "以残星会的行事风格，哪怕再松散，在你窃取了这么多会监的情报后，每次潜伏都只会比上一次更危险。"
+    },
+    {
+      "id": "2a876126",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "陆，你身为医生却不惜命，怎么去救更多的人？"
+    },
+    {
+      "id": "fa9ad38b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这话，你已经是第二次和我说了。"
+    },
+    {
+      "id": "blk_kx9cnwnz",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯向漂泊者讲述起了过去的事"
+    },
+    {
+      "id": "blk_zxd8r0te",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "回忆开始，陆·赫斯处于一片火场 角色：旧日的陆·赫斯"
+    },
+    {
+      "id": "b363eac5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "又被他们逃了。"
+    },
+    {
+      "id": "58f720cd",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "（如果不顾忌那么多，这次能把剩下的那批人也“留下来”。）"
+    },
+    {
+      "id": "4f626912",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "（……先把这里找到的讯息传给漂泊者吧。已经两年了，该归个档了。）"
+    },
+    {
+      "id": "blk_ly0lnufx",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆赫斯拨通通讯"
+    },
+    {
+      "id": "a7ca989e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "你收到就行，免得我死了消息没传出去，白干一趟。"
+    },
+    {
+      "id": "e4f40f99",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "……去拉海洛？为什么？"
+    },
+    {
+      "id": "2016a2b7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者（通讯中）",
+      "text": "拉海洛也有他们的踪迹，你要帮我盯着点。而且，你也该休息一段时间了。"
+    },
+    {
+      "id": "25a47535",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "还没到时候呢。"
+    },
+    {
+      "id": "45bbbcc5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者（通讯中）",
+      "text": "你闹出来的动静已经太大。难道你要等死了，才知道什么是“到时候了”？"
+    },
+    {
+      "id": "fd8c76ae",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者（通讯中）",
+      "text": "不惜命的医生，怎么救人？再激进地深入下去，你和他们又有什么区别。"
+    },
+    {
+      "id": "1e4c7ee5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "……你这话还真不客气。"
+    },
+    {
+      "id": "1a146721",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者（通讯中）",
+      "text": "更不客气的我还没说呢。陆，拉海洛是个好地方，学生们热情可爱，雪景美丽，正适合放松步调。"
+    },
+    {
+      "id": "a0057f45",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者（通讯中）",
+      "text": "听我的，来这边。"
+    },
+    {
+      "id": "af5878e7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "……"
+    },
+    {
+      "id": "d9aa1b66",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "行，听你的。"
+    },
+    {
+      "id": "blk_p11qiz5u",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "回忆结束"
+    },
+    {
+      "id": "1e251ec0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "所以我现在到拉海洛闲适度日了，放心，我知道分寸。"
+    },
+    {
+      "id": "c0bc75a9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会的事就说到这里，接下来是隧者计划的事。在那之前，告诉我你在冰原和爱弥斯的经历吧。"
+    },
+    {
+      "id": "blk_y3bunyvr",
+      "type": "branch",
+      "speaker": "漂泊者",
+      "options": [
+        {
+          "id": "opt_k91a4m79",
+          "label": "向陆简要说明冰原之行的始末。",
+          "annotations": {
+            "manual_refs": [],
+            "omissions": []
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "0c651261",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "……原来是这样，那孩子……难怪你状态不好。"
+    },
+    {
+      "id": "c36654a4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我理解爱弥斯的心情和立场，她是以自己的方式为她的愿景、为拉海洛尽力，我也尊重她的决定。"
+    },
+    {
+      "id": "b7329241",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "但对她为自己选择的命运，我还没有尽我所能——所以我不接受，也不会就此放弃。"
+    },
+    {
+      "id": "93044fb4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我想也是，你一直都不是个轻易放手的人。"
+    },
+    {
+      "id": "9485d2d0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "隧者计划……就从深空联合在浮光林深处找到了“巨型日灵根系”，将其判断为隧者封印隧门的“盖子”说起吧。"
+    },
+    {
+      "id": "5896224f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "封印破损，就意味着被其隔绝在隧门内外的鸣式将再度聚合，拉海洛乃至整个世界将迎来末日。"
+    },
+    {
+      "id": "1a04450f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但人们仍旧渴望打开那扇门，探索未知……所以他们想出了适格者这种方法，以外源性共鸣去增强隧者的力量，让它去压制鸣式。"
+    },
+    {
+      "id": "a85b9069",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "最近这段时间，鸣式对封印的冲击越来越频繁，恐怕残星会也在为此准备着什么。"
+    },
+    {
+      "id": "2939d763",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "既然炉芯核心已经回归，接下来你只需要耐心等待隧者苏醒，再去考虑如何通过它找爱弥斯。"
+    },
+    {
+      "id": "c149f5ea",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你过去就曾以适格者的身份在学院活动，我会和洛瑟菈聊聊让你驾驶这件事。"
+    },
+    {
+      "id": "63e7593c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "那我等你消息，陆。"
+    },
+    {
+      "id": "69ae98e2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "没问题。在那之前，我们更需要警觉残星会接下来的动作——我有预感，他们会针对隧者计划进行破坏。"
+    },
+    {
+      "id": "blk_stoid0ec",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者离开"
+    },
+    {
+      "id": "blk_7x5uoeo6",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "现在，陆·赫斯在密室深处为你介绍了大量他潜伏进入残星会搜集到的会监情报。他似乎对自己的生死没那么看重，这让你发出了疑问。他答应你会去和洛瑟菈谈谈，以顺利推进隧者计划，让你能够驾驶隧者去门后找回爱弥斯。\n过去，陆·赫斯在燃烧的大火中握着残星会会长的钢笔，在黑暗的边缘摇摇欲坠。是过去的你将他唤来了拉海洛，让他没有进一步踏入黑暗，变成和自己追逐的敌人同样的人。"
+    },
+    {
+      "id": "fa055929",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（事情聊完，漂泊者说想去冰原再看看隧者的情况，也离开了……是因为做事能让他内心平静些吧。）"
+    },
+    {
+      "id": "f0d90e60",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（接下来——）"
+    },
+    {
+      "id": "blk_00jqdkpl",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯拨通通讯"
+    },
+    {
+      "id": "03c6788a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈（通讯中）",
+      "text": "陆医生，遇到麻烦了？"
+    },
+    {
+      "id": "2d63ea5a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "哎~你对我的为人有误会呀，洛瑟菈。就不能是闲聊？"
+    },
+    {
+      "id": "38aaf8eb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈（通讯中）",
+      "text": "呵，陆医生，你这话我可很难相信。到底是为了什么来找我？"
+    },
+    {
+      "id": "c992ef20",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "漂泊者。"
+    },
+    {
+      "id": "19d9a8bb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈（通讯中）",
+      "text": "看来是因为那个“爱弥斯”。他之前都不愿意谈起冰原发生了什么，居然愿意和你提及呢……"
+    },
+    {
+      "id": "d19adafa",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "停滞无法带来改变，他也不是那种无法沟通的人。现在嘛，朋友说自己遇到了问题，我自然要为他分忧。"
+    },
+    {
+      "id": "70ee0fa4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "更何况，今天要聊的事对星炬学院也会有帮助，至少能提前预防一些事。"
+    },
+    {
+      "id": "0924a912",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈（通讯中）",
+      "text": "好啊，那就让我听听看吧。研究院老地方见。"
+    },
+    {
+      "id": "d5d8faa3",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯联系了洛瑟菈，两人约在深空研究院详谈。"
+    },
+    {
+      "id": "5c460a23",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 17,
+            "end": 18
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：前往与洛瑟菈约定位置的途中 角色：陆·赫斯，有气无力的学生"
+    },
+    {
+      "id": "blk_cdfm9vz0",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯与学生对话"
+    },
+    {
+      "id": "ac8f6b81",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "有气无力的学生",
+      "text": "啊……陆医生……你好啊……"
+    },
+    {
+      "id": "c6fc21e2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "伊桑同学，才一段时间没见，你怎么变成这样了？"
+    },
+    {
+      "id": "042dd861",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "有气无力的学生",
+      "text": "论、论文还没完成……我的，名额……"
+    },
+    {
+      "id": "6b5bdac2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "喂喂，我记得你之前来医务室和我报喜的时候，是说研究院的那位教授已经因为你成绩优异选中你了吧？"
+    },
+    {
+      "id": "c7bf04a9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你这样子算是代价吗……小心在入职前因为健康原因被劝退哦。"
+    },
+    {
+      "id": "fb9aa455",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "有气无力的学生",
+      "text": "不行！我就是爬，也要爬到研究院正职的工位上！啊！在那之前死了，我也会复活的！"
+    },
+    {
+      "id": "58239510",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "唉，都胡言乱语起来了。我知道争取到这个机会不容易，你也不好光明正大地逃走……晚点到我这里来开个病假单吧？"
+    },
+    {
+      "id": "e1ad9fbd",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你也不能真把自己当隧群生物，太阳一照就能精神抖擞地开始干活，这不符合人类的生理构造嘛。"
+    },
+    {
+      "id": "d6608738",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "有气无力的学生",
+      "text": "医生，我的恩人！你一定会好人有好报的！好怀念啊，以前晕倒在医务室的时候，我睡得最香了……"
+    },
+    {
+      "id": "c722be15",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 8,
+            "end": 9
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：继续前进 角色：陆·赫斯，忙里偷闲的前辈"
+    },
+    {
+      "id": "blk_xnltiakc",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯与前辈对话"
+    },
+    {
+      "id": "89cde5e0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "小陆，今天怎么来研究院了？"
+    },
+    {
+      "id": "23ed58e1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "和人聊些事。您这几个月在研究院值班还好吗？"
+    },
+    {
+      "id": "b8bf5a2e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "还行，这群研究员的德性你也知道，要他们来检查身体那是没一个准时的，只能我去找他们。"
+    },
+    {
+      "id": "9a829bc1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "等我轮班完回去，我们再整点小菜小酒？研究院这边的配餐只专注营养和效率，没意思得很！"
+    },
+    {
+      "id": "b2a0e728",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "当然可以。正好之前的那个侦察机模型我拼完了，给您也看看？"
+    },
+    {
+      "id": "76c8fa41",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "这么快！你还真是喜欢这种手工活儿啊……"
+    },
+    {
+      "id": "fc9d12f1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "拆东西装东西这类事很解压嘛，工作结束后做一会儿，挺放松的。"
+    },
+    {
+      "id": "5b70da08",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "那……等下次找机会，你跟我一起去老洛根那里，把他那宝贝炮管拆了试试？"
+    },
+    {
+      "id": "c680a3a6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忙里偷闲的前辈",
+      "text": "拆完，等他急了，再装回去！"
+    },
+    {
+      "id": "2ac23c06",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "咳，您可不要找我做这种事，不道德。而且都多久了，您还对那条鱼被他偷偷炖了耿耿于怀啊……"
+    },
+    {
+      "id": "06f3e7d7",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 14,
+            "end": 15
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：继续前进，见到洛瑟菈 角色：陆·赫斯，洛瑟菈"
+    },
+    {
+      "id": "blk_7fh2nvw5",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "洛瑟菈正在喝咖啡，桌上摆着为陆·赫斯准备的另一杯咖啡"
+    },
+    {
+      "id": "484ba644",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "坐吧，陆医生。"
+    },
+    {
+      "id": "59772770",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "我还以为漂泊者会和你一起来，真可惜。"
+    },
+    {
+      "id": "32849c43",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "他又不是没来过。但现在和以前不同了，我不太希望他陷入和深空联合的这些琐事里。"
+    },
+    {
+      "id": "66bed5b3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "可以。我也不是你们以前打交道的那些老顽固，我不追求那些面子和进退，我只要星炬学院。"
+    },
+    {
+      "id": "67a13f8a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "说吧？拣重点讲，陆医生。"
+    },
+    {
+      "id": "blk_l64rtxqp",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯向洛瑟菈讲述了情况"
+    },
+    {
+      "id": "3762f0d6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "残星会……呵，我知道了，之后我会看紧点的。"
+    },
+    {
+      "id": "b51016d7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "至于驾驶隧者，如果漂泊者能驾驶，当然没什么不好，研究院这边也会着手准备。"
+    },
+    {
+      "id": "1068363e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "但打开隧门必然伴随着风险……某个人或许能在这件事中帮上忙，我要先和她聊聊。"
+    },
+    {
+      "id": "8c51d036",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "鸣式的问题是拉海洛所有人都需要面对的。我会如你所愿，去摆平董事会的人，你专注漂泊者和校内的事就好。"
+    },
+    {
+      "id": "blk_dz80uvul",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "此处鸣式特指阿列夫一"
+    },
+    {
+      "id": "9178e38b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "感谢你的通情达理，洛瑟菈——校长。"
+    },
+    {
+      "id": "7cb3db9f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "和你聊天比我想的要顺利，我还以为你会怀疑我的用意呢。"
+    },
+    {
+      "id": "50a8c4c2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（拿出糖果）",
+      "text": "为了表达我的感激，要来颗糖吗？"
+    },
+    {
+      "id": "e369bb33",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "不必了，你在学院里四处给人散糖，这些年里我收到过太多次，早就吃腻了。"
+    },
+    {
+      "id": "ee710a15",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "至于你说的话——在学院这么多年了，你的为人，我还是能看出来的。"
+    },
+    {
+      "id": "3ec29887",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "你替我们抓出来那些细作，的确保障了学院的安全，也替我们减少了很多麻烦。"
+    },
+    {
+      "id": "1e103608",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "倒是你最后选择在学院停留这么多年，持之以恒地保护拉海洛，出乎了我们的预料。"
+    },
+    {
+      "id": "6b5919ee",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "哎，洛瑟菈校长没嫌我多管闲事就好~"
+    },
+    {
+      "id": "570663ec",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "呵呵，你是管闲事的人里比较有分寸的，我当然欢迎。"
+    },
+    {
+      "id": "6bb87146",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "有朋友给这里打广告，说雪景美丽，学生热情可爱，我就被哄过来了。"
+    },
+    {
+      "id": "82106518",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "进来了才发现，哎，这里哪有他说得那么好？十个校工里八个是各势力塞进来的人！"
+    },
+    {
+      "id": "747bfe5c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "学生们全封闭管理，个个都做着飞向天穹的美梦。还有什么罗伊人倒卖隧群零件，和新联邦贩子勾搭之类的破事……"
+    },
+    {
+      "id": "394b4c41",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "……但我也知道，学生们并不愚蠢，更何况他们都是从各国选拔的天才。连我都知道的事，他们怎么会看不出？"
+    },
+    {
+      "id": "6ca7ffa7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "只不过这些孩子仍旧都相信理想，对未来抱有希望，能够忍耐现实的糟糕之处，保持自身的纯粹之心。"
+    },
+    {
+      "id": "4ca5c8cb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "一开始我来拉海洛，只是遵循朋友的建议，但现在——"
+    },
+    {
+      "id": "85ffbc61",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "现在你也挺喜欢这里了，对吗？"
+    },
+    {
+      "id": "70e094f0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "哈哈哈，对，和校长你是一样的！"
+    },
+    {
+      "id": "blk_fptmm99l",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯收到通讯请求"
+    },
+    {
+      "id": "f3524a8f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "……N.A.N.A.的紧急通讯？抱歉。"
+    },
+    {
+      "id": "c055320c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.（通讯中）",
+      "text": "赫斯医……滋滋……生，刚才医务室被人……闯入。"
+    },
+    {
+      "id": "d09d5942",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.（通讯中）",
+      "text": "娜波摩同学被劫走，劫持人是……之前被拘禁……滋滋……的魏尔伦。"
+    },
+    {
+      "id": "41d6c079",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你的情况如何，损伤严重吗？"
+    },
+    {
+      "id": "efcbfcbf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.（通讯中）",
+      "text": "不必……担心，需要时间……修理。"
+    },
+    {
+      "id": "5db2eced",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "好，通讯结束后优先处理损伤问题。另外，通知学院的安保部门。"
+    },
+    {
+      "id": "5a4be4ea",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "他们的动作会慢一点，我先追上去看看。魏尔伦带着她往哪个方向跑了？"
+    },
+    {
+      "id": "f001559a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "N.A.N.A.（通讯中）",
+      "text": "已收到……滋滋……学院方消息，他们正在往……罗伊冰原的「天槎空间站」前进。"
+    },
+    {
+      "id": "887417c5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（是之前和漂泊者一起找到的那处稷廷空间站……）"
+    },
+    {
+      "id": "9fff5313",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我马上出发。"
+    },
+    {
+      "id": "blk_ay7insrc",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "通讯结束"
+    },
+    {
+      "id": "15ec6d3d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "魏尔伦逃出来了，劫持了一个学生，正在向冰原一处坠落物走。"
+    },
+    {
+      "id": "967e9367",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "……你有什么打算？"
+    },
+    {
+      "id": "9ce0fe06",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我现在就赶过去，希望洛瑟菈校长能安排人跟来包围那里，防止他再度出逃或威胁到学院安全。"
+    },
+    {
+      "id": "9b23d047",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "你希望我帮你围安全圈，自己先独自进去处理魏尔伦？"
+    },
+    {
+      "id": "f1638e3e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "有些……猜测，我希望单独验证。"
+    },
+    {
+      "id": "7be51c2e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "洛瑟菈",
+      "text": "可以~你的信誉能支撑我们的信任。去吧，陆医生，等你好消息。"
+    },
+    {
+      "id": "blk_zpsqso89",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯说服了洛瑟菈，让这位校长同意尝试由你作为驾驶员在隧者苏醒后进行操作，而她会亲自去和董事会谈这件事。\n就在谈话进行到一半时，医务室的N.A.N.A.发来紧急通讯，称之前被拘禁的魏尔伦在医务室掳走了娜波摩，向着天槎空间站而去。陆·赫斯准备前往空间站，并向洛瑟菈申请了先单独进入内部探查。"
+    },
+    {
+      "id": "8b532221",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 11,
+            "end": 12
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：前往天槎空间站 角色：陆·赫斯"
+    },
+    {
+      "id": "blk_zppmfp70",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "进入天槎空间站"
+    },
+    {
+      "id": "e9240850",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（娜波摩……为什么选这个时间呢？）"
+    },
+    {
+      "id": "fbedfaf3",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 13,
+            "end": 14
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：继续前进，搜集信息 角色：陆·赫斯"
+    },
+    {
+      "id": "blk_i7ujxtfj",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "远处发现魏尔伦和娜波摩"
+    },
+    {
+      "id": "1cb9998f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦（持枪推搡娜波摩）",
+      "text": "呼……呼……你之前来过这里！带我去资料室……快点！"
+    },
+    {
+      "id": "7258b286",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "呜！好……我、我知道了……"
+    },
+    {
+      "id": "9aa900b5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（他们向深处去了，在未探索过的地方还藏着什么吗……）"
+    },
+    {
+      "id": "ec840f13",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 21,
+            "end": 22
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：击败拦路怪物，继续前进，追踪魏尔伦 角色：陆·赫斯"
+    },
+    {
+      "id": "blk_in191yuf",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "发现伤员，检查伤员情况"
+    },
+    {
+      "id": "11c1bfeb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（是学院之前派遣到空间站的研究员……两个受了枪伤，但不致命，另一个……已经失去生命体征了。）"
+    },
+    {
+      "id": "blk_56u6fljh",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "蹲下身，为他们做了简易伤势处理，将现况通知了星炬学院"
+    },
+    {
+      "id": "d699c54b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（血止住了。先继续追魏尔伦吧。）"
+    },
+    {
+      "id": "blk_jsopz3v9",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "出现拦路的残象，击败残象"
+    },
+    {
+      "id": "dd2e5435",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 10,
+            "end": 11
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：进入小资料室 角色：陆·赫斯"
+    },
+    {
+      "id": "e4337c12",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（空间出现了异常，是有人再次启动了天槎系统吗？）"
+    },
+    {
+      "id": "blk_iadjp1p9",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "调查监控系统"
+    },
+    {
+      "id": "1d4d8293",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦",
+      "text": "我一定要离开拉海洛这鬼地方！"
+    },
+    {
+      "id": "blk_ip3izmyc",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "关闭监控系统，观察通路"
+    },
+    {
+      "id": "d53aaf96",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（看来，魏尔伦挟持着娜波摩去了我们之前曾经过的资料室……）"
+    },
+    {
+      "id": "c596df21",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（通路被阻断了。是之前的错误模块……用架构器吧。）"
+    },
+    {
+      "id": "d8e940e7",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 10,
+            "end": 11
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：前往大资料室 角色：陆·赫斯"
+    },
+    {
+      "id": "b72a9aa8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（可以继续深入了。）"
+    },
+    {
+      "id": "blk_d1au5uw7",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "穿过混乱的区域，进入大资料室"
+    },
+    {
+      "id": "2ea8f41c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（呵，快到了，验证猜想的时刻。）"
+    },
+    {
+      "id": "blk_9jtna8ps",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "远处再次出现挟持着娜波摩的魏尔伦"
+    },
+    {
+      "id": "6cf3f960",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦",
+      "text": "哈……哈哈……"
+    },
+    {
+      "id": "e4b41fbf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦",
+      "text": "我已经，我已经带着人过来了……您呢！您在哪里？！"
+    },
+    {
+      "id": "72607ca7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦",
+      "text": "拉海洛……只是个小失误！我还有用，我还有新联邦的活儿，我还——"
+    },
+    {
+      "id": "7d925b5d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦（枪抵娜波摩后脑勺）",
+      "text": "别、别再沉默——！"
+    },
+    {
+      "id": "blk_1q3geig4",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯远程攻击打落了魏尔伦的手枪"
+    },
+    {
+      "id": "3a304d01",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦（捂住手腕）",
+      "text": "啊！！！是、是你……那个总是盯着我们的校医……"
+    },
+    {
+      "id": "75147985",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "魏尔伦，你还没发现自己已经走到死路了吗？"
+    },
+    {
+      "id": "b56fffbd",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦",
+      "text": "呵、呵呵呵……"
+    },
+    {
+      "id": "833c8891",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "魏尔伦（召唤残象）",
+      "text": "……你也去死。"
+    },
+    {
+      "id": "blk_w0p7gaix",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "与魏尔伦召唤的怪物作战"
+    },
+    {
+      "id": "55be0d8b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（天槎空间站的资料室，选择这里一定有其他理由。）"
+    },
+    {
+      "id": "41df967d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "（是一时兴起，还是……）"
+    },
+    {
+      "id": "blk_rur70mra",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "残象消灭干净，魏尔伦被打晕，陆·赫斯扶起娜波摩"
+    },
+    {
+      "id": "a9d66d9a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（睁眼）",
+      "text": "啊……是、是赫斯医生……魏尔伦他——"
+    },
+    {
+      "id": "3809aa4d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我让他失去意识了，没事的。娜波摩，你现在感觉还好吗？"
+    },
+    {
+      "id": "32a85706",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "呜……我……没事。就是，后颈被他打了，好疼……"
+    },
+    {
+      "id": "fb178d41",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（捂脸趁机偷看陆·赫斯腰间的笔）",
+      "text": "我也……很害怕。"
+    },
+    {
+      "id": "c37493e5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "没事，不用强行抑制自己的情绪。遭受强烈刺激后，能释放压力更有益于恢复，否则可能会出现精神问题。"
+    },
+    {
+      "id": "8b9c6664",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "缓一缓，再和我说说之前发生的事吧。"
+    },
+    {
+      "id": "b933d895",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "嗯……我试试……我得，慢慢来……"
+    },
+    {
+      "id": "e6979390",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "那你先在这里休息一下，我去检查魏尔伦的情况。"
+    },
+    {
+      "id": "blk_xkolcdxg",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯走开，背对娜波摩查看魏尔伦"
+    },
+    {
+      "id": "0943bd28",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "之前，我在病床上睡着了。睁开眼的时候……魏尔伦正拿着枪抵着我的头……"
+    },
+    {
+      "id": "57bd46f1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "他很急切、很惊慌地一直问我天槎空间站的事。知道我之前来过后，就命令我带他过来。"
+    },
+    {
+      "id": "blk_qcrmr1l9",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩走向魏尔伦落在一旁的枪"
+    },
+    {
+      "id": "96b0ed86",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "啊！舱门附近的那些研究员——"
+    },
+    {
+      "id": "c5d905bf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "有一位不幸遇难了，另外两个人还活着。"
+    },
+    {
+      "id": "99067b55",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "……嗯。其他的事，我也不太清楚……"
+    },
+    {
+      "id": "c942f1a9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "没事，对他的行为动机我已经有了大致的猜想。娜波摩同学好好休息吧，其他事交给大人就行。"
+    },
+    {
+      "id": "blk_h35cfyun",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩捡起枪走向陆·赫斯"
+    },
+    {
+      "id": "2c4a537f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "这样吗？那，赫斯医生，你……是怎么想的呢？"
+    },
+    {
+      "id": "blk_c2543v92",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩背后向陆·赫斯开枪，陆·赫斯躲开，昏迷的魏尔伦被枪杀\n一番争斗后，陆·赫斯抢到枪，命中娜波摩眉心，随即娜波摩以诡异姿势坐起，额头伤口迅速恢复"
+    },
+    {
+      "id": "blk_bso18og3",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "此处娜波摩是要灭口魏尔伦，只不过顺手尝试先击杀陆·赫斯，他不躲就会中枪，躲开魏尔伦就会暴露在弹道上"
+    },
+    {
+      "id": "bc0ce2d9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "医生……"
+    },
+    {
+      "id": "0df4797f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "好凶啊。怎么可以这样对学生呢？"
+    },
+    {
+      "id": "5d7652ee",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我可没有准备顶替我身份的学生。"
+    },
+    {
+      "id": "e75ac0e5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我说得对吗？"
+    },
+    {
+      "id": "blk_rogbb96b",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩依次变成“特莉丝”、忠实听众、卡戎（陆·赫斯知道会长变的是其他人样貌，但并不认识特莉丝、忠实听众）"
+    },
+    {
+      "id": "93ca14ae",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会的……会长。"
+    },
+    {
+      "id": "blk_mqj457k4",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "卡戎冲向陆·赫斯，再次变成娜波摩，近距离单手食指积蓄能量，指向陆·赫斯眉心"
+    },
+    {
+      "id": "60b71f73",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "作为大人，还是教你一件事吧。"
+    },
+    {
+      "id": "30e07b03",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "游戏得双方都想玩，才能进行哦。"
+    },
+    {
+      "id": "blk_bz9kzmg1",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者突然出现在娜波摩身后，一剑劈散娜波摩身形，随即娜波摩重新出现在远处"
+    },
+    {
+      "id": "blk_imdge4p0",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯已经提前联系过漂泊者，这其实是个引会长出现的局"
+    },
+    {
+      "id": "7dc02fb9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "真是的~结果被钓起来的是我呀？"
+    },
+    {
+      "id": "1fa4fbbb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "本来还想着杀掉你，就这样去找漂泊者和他玩儿的，可惜。"
+    },
+    {
+      "id": "1bab2a33",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "卡戎",
+      "text": "被你躲过去这件事，实在遗憾。"
+    },
+    {
+      "id": "3eb213e2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "“特莉丝”",
+      "text": "不过一一也无所谓~魏尔伦已死，死人最干净！"
+    },
+    {
+      "id": "5ea1c308",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "忠实听众",
+      "text": "他被学院擒获，还想就这样从拉海洛销声匿迹，未免把工作失误想得太简单了。"
+    },
+    {
+      "id": "d27ae4da",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "我也拿到了我想要的东西，已经心满意足啦。"
+    },
+    {
+      "id": "blk_fcl126rh",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "\"想要的东西\"是指陆赫斯腰间的钢笔"
+    },
+    {
+      "id": "ce8e033a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我在来空间站的路上就在想，你为什么会这么快开始动作，不符合你之前“扮演”到最后的作风。"
+    },
+    {
+      "id": "6d64fdb8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "果然……是为了这支笔。"
+    },
+    {
+      "id": "e84a67b0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "对哦，这可是我很珍惜的东西，一直都找不到~原来是被你取走了。"
+    },
+    {
+      "id": "da347fc0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（笑）",
+      "text": "这还是我第一次被人夺走什么呢！哦，差点忘记问了，你是什么时候觉察到的？"
+    },
+    {
+      "id": "e7406619",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "如果你想知道的话，之前到访空间站你佯装受伤时，我才加深了对你的怀疑。"
+    },
+    {
+      "id": "c1327d18",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你的“扮演”是完美无瑕的，会长，但即便是你，也不能描摹自己所不能理解的东西。"
+    },
+    {
+      "id": "6ce2c407",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "比如……真正的死。"
+    },
+    {
+      "id": "35010b6a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "因为拥有不死的特性，无论是怎样的死于你都是同一层皮。而我，恰好曾触碰过你的死。"
+    },
+    {
+      "id": "blk_43isf3tr",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "指会长曾替代了他父亲的身份并假死脱身"
+    },
+    {
+      "id": "713a6092",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "嗯~你是因为这个才一直盯着我吗……"
+    },
+    {
+      "id": "bf1739d8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（挑衅的笑）",
+      "text": "努力回忆了一下，果然，不记得了呢！抱歉抱歉，给你赔礼~"
+    },
+    {
+      "id": "blk_1efgzoop",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "会长其实很有可能知道陆·赫斯所说的是什么事，但他是故意装不知道试图激怒陆·赫斯"
+    },
+    {
+      "id": "47b27dd3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（看向漂泊者）",
+      "text": "虽然我是对更加古老、更加遥远的事物感兴趣。"
+    },
+    {
+      "id": "763faf90",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（看向陆·赫斯）",
+      "text": "但你的确很棒，很出乎我的预料，赫斯医生。在漫长的时间里，你是第一个真正追到我身前的人。"
+    },
+    {
+      "id": "78e2f875",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（双手合十，开心的笑）",
+      "text": "如果没有你，拉海洛的游戏就太无聊了。所以……我要给你奖励！"
+    },
+    {
+      "id": "2a526f0b",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "我保证，这一定是你们都感兴趣的事。"
+    },
+    {
+      "id": "6eb50d21",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "第一：换日庆典即将举行，在热闹的盛会上，在可爱的学生们中……还有一个残星会的成员。"
+    },
+    {
+      "id": "ffa9214f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "那孩子的表演，才是我最期待的节目！"
+    },
+    {
+      "id": "cb8fa7e4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你告诉我们这些，对那个间谍而言可不是好事。"
+    },
+    {
+      "id": "77fb0c32",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "但很好玩啊。猫捉老鼠，被捉的对象如果没有一点儿危机感，怎么会在转轮上拼命奔逃呢？"
+    },
+    {
+      "id": "2dd3a00c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（慢条斯理）",
+      "text": "想赢，就必须把自己当作捕猎的那方才行。"
+    },
+    {
+      "id": "6957b638",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "如果真的被你们找到，也只能说明那孩子太没用了嘛。"
+    },
+    {
+      "id": "blk_itydr0qx",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者握紧剑，陆·赫斯摇头阻止"
+    },
+    {
+      "id": "6419c6ed",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "第一个说完了，第二个呢？"
+    },
+    {
+      "id": "8829d393",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "第二个啊……就在这间资料室里。你这么聪明，心里肯定已经有了猜测吧，赫斯医生。"
+    },
+    {
+      "id": "924aa3c3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "天槎空间站一行，我很开心哦。看到天空海那一幕，你感觉如何呢？漂泊者。"
+    },
+    {
+      "id": "0b57ca7e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "啊～家！甜蜜的家，遥远的家，回不去的家！"
+    },
+    {
+      "id": "blk_aa8x70sz",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者怒视娜波摩"
+    },
+    {
+      "id": "blk_trtr7cid",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "会长在故意激怒戏耍漂泊者"
+    },
+    {
+      "id": "0b132c0f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "不枉我特意把你们带过去，你那副表情，品味起来还真是滋味甜美。"
+    },
+    {
+      "id": "83b7a3f2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩（背后出现传送门）",
+      "text": "希望我们能给彼此带来更多的乐趣，期待下次再会，二位！"
+    },
+    {
+      "id": "66c27aaf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "祝你们过去，此刻，未来开心！"
+    },
+    {
+      "id": "blk_z3e3eizb",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩离开"
+    },
+    {
+      "id": "blk_u7d7zq4n",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "娜波摩通过传送门离开"
+    },
+    {
+      "id": "80a06719",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你刚才拦住我，是觉得在这里留不下她？"
+    },
+    {
+      "id": "da1b0b6a",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "是的。我来这里本来也不是为了现在就抓住残星会会长，只是为了打探更多的情报。"
+    },
+    {
+      "id": "6df8973d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "早在和你一起掘开“父亲”的空坟时，我就已经意识到：一位没有痕迹的不死者，寻找和打捞都是很困难的。"
+    },
+    {
+      "id": "3180c7b6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这位会长似乎总是随心而为，但在我看来，这种肆意和轻桃也是一种伪装。她并不像自己表现得那样，做事只为乐趣。"
+    },
+    {
+      "id": "1dd60a13",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "刚才我接到N.A.N.A.的通讯，就觉得有问题。魏尔伦自己也是研究员，不可能非要挟持一个学生去探查坠落物。就算真的要这么做，也没必要强行抢人，且没有完全破坏N.A.N.A.，留给她通讯的时间——她第一个联络的，一定是我。"
+    },
+    {
+      "id": "1cd5d8fb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "所以，你才在那之后联络了我。"
+    },
+    {
+      "id": "756810eb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我之前听娜波摩说，你这段时间都让她在医务室养伤……是为了监视她？"
+    },
+    {
+      "id": "85690de5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "也是在等她动手的时机。在此之前所有猜测都是猜测，只有那一刻，才能确认“扮演”的结束。"
+    },
+    {
+      "id": "08998fbb",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不死，千面……我们已经得到了不少和残星会会长有关的信息。"
+    },
+    {
+      "id": "69b821d5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "如果我猜得没错……在这里，应该会有更重要的东西。"
+    },
+    {
+      "id": "f3101780",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "否则，她不会称之为奖励。"
+    },
+    {
+      "id": "b2266e57",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 9,
+            "end": 10
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：深入资料室 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "029ebfab",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这是……过去天槎空间站的人员资料。"
+    },
+    {
+      "id": "678be692",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "……！这字符——"
+    },
+    {
+      "id": "48f404ef",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "漂泊者，你还记不记得，我们第一次来这里的时候，这里的投影系统中那位天空海项目的主持人。"
+    },
+    {
+      "id": "f3a7c425",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "俊熹教授？"
+    },
+    {
+      "id": "f52bf333",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "对。他在给参观的学生们演讲时，还提到了一名新加入这个项目，名叫未楹的学者。但在介绍完前，话就被打断了。"
+    },
+    {
+      "id": "4631d4a1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我在系统里找到了这个人的资料，也找到了这个人的名字。"
+    },
+    {
+      "id": "1ec40274",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这个名字的字符，和那支钢笔上被磨损残余的字符，完全吻合。"
+    },
+    {
+      "id": "dfe7845d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……那名学者，就是残星会的会长？"
+    },
+    {
+      "id": "11bc0e26",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "从记录上看，这名学者加入后，原本因为资金问题一度停滞的天空海项目，再次被迅速推进。"
+    },
+    {
+      "id": "f7582ffc",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "她的介入，影响了稷廷对这个项目的决策。"
+    },
+    {
+      "id": "8716a479",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但关于这个人更多的信息，出生地，任职地，学府……都是空白。"
+    },
+    {
+      "id": "aaba9ba9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "看来，这也是被残星会会长取用的身份之一。"
+    },
+    {
+      "id": "bfd59a65",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "是的，这位不断更换身份的千面之人，在索拉里斯的存在时间又进一步地向前推了。"
+    },
+    {
+      "id": "27835a21",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "从空间站现有的资料来看，未楹在这段时间里对稷廷和天空海的研究非常感兴趣，这可能也是她选择进入天槎空间站的原因。"
+    },
+    {
+      "id": "blk_fhc6q2jj",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 21,
+            "end": 22
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者回忆起前几天在冰原遇到娜波摩的场景 角色：漂泊者，陆·赫斯，爱弥斯，娜波摩"
+    },
+    {
+      "id": "9f6e84d6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "宇宙……无穷无尽的星辰外。究竞隐藏着什么呢？"
+    },
+    {
+      "id": "0eed335f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "娜波摩",
+      "text": "我，很想知道。"
+    },
+    {
+      "id": "blk_sh630ubt",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "回忆结束"
+    },
+    {
+      "id": "58b22c51",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "那段录像——不，不用和我解释，你自己的事，越少人知道越好。"
+    },
+    {
+      "id": "blk_6bxy6s33",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "“那段录像”是指天槎空间站记录到的漂泊者自天空海坠落的景象"
+    },
+    {
+      "id": "bd783077",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我只是想，也许这并不是巧合。如果她的目的在更久之前就和你有关，你在之后的路上也可以多留意这点。"
+    },
+    {
+      "id": "ef81436c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "（天空海，或许是我自遥远之地来到索拉里斯的起点。）"
+    },
+    {
+      "id": "0d1c22b1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "（未楹在它爆发覆盖星球前就对此感兴趣，是因为她也想通过这介质，去向更遥远之地吗……？）"
+    },
+    {
+      "id": "5d7602e6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我会的。以她的个性，下次碰见只是早晚的事。"
+    },
+    {
+      "id": "e95ce592",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "出现的越多，暴露的就越多。既然她喜欢“玩游戏”，也就代表着她至少会遵守游戏的规则。"
+    },
+    {
+      "id": "4a3eb787",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "否则，以她的性情，只会被无聊杀死。"
+    },
+    {
+      "id": "71d1e150",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "呵，没错，而且……就像我说过的，有时候追求、兴趣和美学本身就会说明一些东西。"
+    },
+    {
+      "id": "4810f8e3",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "残星会在索拉里斯的据点不止一处，对他们感兴趣或有仇怨的也绝不止我一人。迄今为止这位会长如同水中月，是因为其人“不存在”。"
+    },
+    {
+      "id": "eff1540c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但现在，只是“对天外之物感兴趣”这点，就能让我们慢慢找出哪些地方的布局有她本人的手笔了。"
+    },
+    {
+      "id": "6b629b6d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "还有稷廷，既然这位会长曾对稷廷感兴趣，或许你之后可以去梦州一趟找找痕迹。"
+    },
+    {
+      "id": "69f7b21e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "梦州有稷廷的存在？"
+    },
+    {
+      "id": "284ed7a6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "一些听闻罢了。据说在那里有一座城市，是由稷廷介入制造的。在那里或许能得到一些线索。"
+    },
+    {
+      "id": "8367a6df",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "至于新联邦……如果你未来准备干涉残星会的行动，迟早也会去吧。"
+    },
+    {
+      "id": "807a6bbf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但不是现在，那里的情况太过复杂，对共鸣者的态度也有些不同。哪怕有黑海岸作为后盾，现在的你贸然进入，恐怕也会遭遇极大的阻力。"
+    },
+    {
+      "id": "66165bb8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我会考量着来的。在娜波摩之前，你还在拉海洛找到过其他和这位会长有关的痕迹吗？"
+    },
+    {
+      "id": "0456be06",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "……有。有一件事，虽然只是我的猜测。"
+    },
+    {
+      "id": "23c9ffc4",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "爱弥斯失踪这件事，从你之前和我说的内容来看，她是为了阻止十多年前鸣式异动，超频共鸣后死亡的。"
+    },
+    {
+      "id": "f527f525",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "那件事之后，学院检测出浮光林深处的封印曾一度出现裂隙，那痕迹……看起来是人为的。"
+    },
+    {
+      "id": "5fdc0cf8",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你是说……"
+    },
+    {
+      "id": "a93ff9b2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "我想，或许就是这位会长对封印的破坏……直接导致了爱弥斯最初的死亡。"
+    },
+    {
+      "id": "623f5704",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者（握紧拳头，眼神发狠）",
+      "text": "……"
+    },
+    {
+      "id": "e2f4aea9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（看了眼漂泊者）",
+      "text": "空间站这边，洛瑟菈的人之后会处理。我们走吧，漂泊者。"
+    },
+    {
+      "id": "e374afaf",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……去哪？"
+    },
+    {
+      "id": "a1e321e0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（搭肩）",
+      "text": "和我出去散散心，别一个人继续想下去了。"
+    },
+    {
+      "id": "017a34d5",
+      "type": "scene_cast",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 10,
+            "end": 11
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "场景：在风雪中前进 角色：漂泊者，陆·赫斯"
+    },
+    {
+      "id": "668373ec",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "在想什么？"
+    },
+    {
+      "id": "b83c4fe7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "很多事。"
+    },
+    {
+      "id": "a01d2013",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "想聊吗？"
+    },
+    {
+      "id": "2a622928",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……聊几句吧。"
+    },
+    {
+      "id": "df2f55e6",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我在想，过去我做的很多事，到底是不是正确的。"
+    },
+    {
+      "id": "dbb4215f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我至今仍旧不知道，过去自己为什么会选择消去记忆，但这一决定直接导致了我对很多事都失去了掌控，也抛下了很多人。"
+    },
+    {
+      "id": "266c42df",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你也好，爱弥斯也好，还有黑海岸的她们，以及更多我不知道、不记得的人。"
+    },
+    {
+      "id": "4d89b9a5",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "我把身边的人拉入“拯救”的计划中，自己却缺席了。"
+    },
+    {
+      "id": "094e0480",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "如果救不回爱弥斯，她就等于成为了没有墓碑的死者，或许将永远在那里漂流……"
+    },
+    {
+      "id": "8e798b5d",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "就算没有这种事，你的命运和我们其中大多数人也是错开的。"
+    },
+    {
+      "id": "4ee2a200",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你已经知道自己寿命漫长，哪怕不出意外，我们多半都会先你一步离开。"
+    },
+    {
+      "id": "b0e993ba",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "死亡和离别，是谁也避不开的课题。只是于你而言，这是一道格外漫长的提问。"
+    },
+    {
+      "id": "349a727c",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……是啊。"
+    },
+    {
+      "id": "b1ba3e93",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "所以——既然你都知道，那其他人自然也已经用行动回答了这道诘问。"
+    },
+    {
+      "id": "288d1db7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "现在的你和过去并无区别，有着同样坚韧的本质，也同样为人带来希望。否则我们不会在阔别多年后，仍旧愿意来到你身边。"
+    },
+    {
+      "id": "629be298",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "那不只是因为你是所谓救世主，更因为你一直是你自己。"
+    },
+    {
+      "id": "6f573129",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "而且……我们也不单单为了你，更是为了索拉里斯，为了你和我们共同守望的理想。"
+    },
+    {
+      "id": "edb06321",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这是我们自己选的路，你不必为之负疚。"
+    },
+    {
+      "id": "f727dfa9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "人只有接纳失去，才能迈向未来——这还是你过去教我的。"
+    },
+    {
+      "id": "blk_7k0b0plr",
+      "type": "analysis",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆··赫斯向漂泊者讲起过去的事"
+    },
+    {
+      "id": "blk_3opi4rg2",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [
+          {
+            "term": "角",
+            "start": 5,
+            "end": 6
+          }
+        ]
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "回忆开始 角色：旧日的漂泊者，旧日的陆·赫斯"
+    },
+    {
+      "id": "eea6a427",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯（懊恼捶树）",
+      "text": "结果……我没能找到杀死父亲的凶手，也没能保护住莱伊……没能保护住我的家人。"
+    },
+    {
+      "id": "a60125ef",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者",
+      "text": "但他还活着，你也还活着。希望尚未磨灭，你也已经尽力了。"
+    },
+    {
+      "id": "0dbaa525",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的陆·赫斯",
+      "text": "……下次醒来，也不知道……是什么时候了。"
+    },
+    {
+      "id": "cd3d0c39",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者",
+      "text": "那就做个约定吧，陆。"
+    },
+    {
+      "id": "f7b063c2",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "旧日的漂泊者",
+      "text": "等冬日再次到来时，我们会再见的。你会睁开眼，我会站在你面前，就像今天一样。"
+    },
+    {
+      "id": "blk_jmc6scso",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "回忆结束"
+    },
+    {
+      "id": "450511a1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯（拿出糖果）",
+      "text": "别再那副表情了，漂泊者。来颗糖吗？"
+    },
+    {
+      "id": "548110fa",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者（没有接过糖果）",
+      "text": "你一直随身带着这些糖……吃起来有效吗？"
+    },
+    {
+      "id": "ac87f36f",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "你指什么？"
+    },
+    {
+      "id": "d62cf3d7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "“舒缓心情，变得开心”，你说的。"
+    },
+    {
+      "id": "123426f0",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "这个嘛……其实用处不大，只是变成了我的一种习惯。"
+    },
+    {
+      "id": "d476f184",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "小时候我吃糖，是因为身为孩童有很多事无法解决，只能用甜味麻痹自己，让自己有些可期盼的。"
+    },
+    {
+      "id": "91733ace",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "后来我继承了诺维尔再生医药，发现还是有很多事我难以处理，我只好再吃一颗，面对合作伙伴带来的糟心官司。"
+    },
+    {
+      "id": "7e69473e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "乃至于最后离开医药集团，独自启程寻迹残星会，我咀嚼口中的糖，看到帮我的人死在面前，仍旧无能为力。"
+    },
+    {
+      "id": "e9e6ef62",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "所以我觉得，无论一个人强大到何种地步，终究是无法把一切事都做得圆满。人生在世，很多事就是无可奈何。"
+    },
+    {
+      "id": "ae05a918",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "……"
+    },
+    {
+      "id": "6028fbba",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "但糖仍旧是要吃的，这是为了提醒自己，在那些无可奈何的失去前，相逢依旧是好事。"
+    },
+    {
+      "id": "4d5464f1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "如果被悲伤和愤怒烧尽了情感，就会执着于结果和成功，忘记曾经得到的喜悦。"
+    },
+    {
+      "id": "e42102b7",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "品尝甘甜，是为了不麻木。"
+    },
+    {
+      "id": "41c850fd",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "你的糖，也给我一颗吧。"
+    },
+    {
+      "id": "blk_i1xcng6u",
+      "type": "narration",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "漂泊者接过陆·赫斯递来的糖果吃下"
+    },
+    {
+      "id": "1193e3cd",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "味道如何？"
+    },
+    {
+      "id": "c964dc0e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "陆，救回爱弥斯的几率……是不是很小？"
+    },
+    {
+      "id": "dfd34cc9",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "的确，像是奇迹发生的概率那么小——但你总能创造奇迹。"
+    },
+    {
+      "id": "55a88a9e",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "漂泊者",
+      "text": "谢谢你的糖。"
+    },
+    {
+      "id": "826b55d1",
+      "type": "line",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "speaker": "陆·赫斯",
+      "text": "不客气。"
+    },
+    {
+      "id": "blk_9iymgia0",
+      "type": "summary",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "text": "陆·赫斯谈起你，谈起糖果，谈起自己的过去。他说人无论多么强大，终究是有无可奈何之事，但如果被悲伤和愤怒烧尽，就会连相逢时刻的喜悦都遗忘。你和他在雪中同行，再次下定决心，也理解了那颗糖果中蕴藏的好意和劝慰。\n这一次，你接下了他递来的糖果。"
+    }
+  ]
+}

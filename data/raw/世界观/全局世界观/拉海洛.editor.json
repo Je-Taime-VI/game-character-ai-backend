@@ -1,0 +1,77 @@
+{
+  "version": 5,
+  "path": "世界观/全局世界观/拉海洛.editor.json",
+  "title": "拉海洛",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/全局世界观/拉海洛.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_a6bf992b",
+      "type": "text_title",
+      "text": "拉海洛",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_4deb074a",
+      "type": "text_body",
+      "text": "位于「罗伊冰原」下方，温暖湿润的地下绿洲。因古时地极变动，此处成为索拉里斯的新极点，气候变化影响下，原本居住于地面的罗伊人迁居于此。该区域长期处于地理隔绝状态，遗留了部分已灭绝的史前物种，逐步演化出具备高度独立性的特有生态系统。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_05e91f38",
+      "type": "text_body",
+      "text": "位于索拉里斯极点的极地文明。古老时代地极与磁极的变化使得拉海洛地区成为了索拉里斯的新极点，随着时代变迁，厚重冰层之下的地下空洞渐渐成为了人类的栖居之地。在这个温暖湿润的地下绿洲，有一座共鸣者学园都市伫立其中，其也被称为“索拉里斯的科研殿堂”与“研究者的理想国”。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

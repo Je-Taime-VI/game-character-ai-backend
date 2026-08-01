@@ -1,23 +1,158 @@
 {
-  "version": 3,
+  "version": 5,
   "path": "世界观/地区信息/罗伊冰原/海维夏.editor.json",
   "title": "海维夏",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/海维夏.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
   "blocks": [
     {
-      "id": "c1359cdc",
-      "type": "narration",
-      "text": "深空联合为监测与维护「炉芯」状态，在坠剑湖地表部署的监测仪器。",
-      "annotation_refs": [],
-      "annotation_omissions": [],
-      "italic": false
+      "id": "blk_365b531d",
+      "type": "text_title",
+      "text": "海维夏",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
     },
     {
-      "id": "f3631d21",
-      "type": "narration",
+      "id": "blk_7eab7ebe",
+      "type": "text_body",
+      "text": "深空联合为监测与维护「炉芯」状态，在坠剑湖地表部署的监测仪器。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f91958f3",
+      "type": "text_body",
       "text": "该设备核心搭载有「隧者」校准模块的副本，可建立与炉芯的定向数据链路，通过实时传输校准参数，在系统运行异常时协助恢复其工作稳定性，保障炉芯的持续运转。",
-      "annotation_refs": [],
-      "annotation_omissions": [],
-      "italic": false
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b2308552",
+      "type": "text_body",
+      "text": "深空联合为实时监测并维持炉芯的能量状态，于坠剑湖地表修建了首座探测阵列——海维夏。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3a745670",
+      "type": "text_body",
+      "text": "为提升监测精度，研究院在海维夏的核心中植入了隧者空间校算模块的副本。该模块原用于修正隧者在宇宙航行中的轨迹，并预测深空中的潜在灾害。得益于此，海维夏具备了预判炉芯运转状态的算力。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_640b91aa",
+      "type": "text_body",
+      "text": "其主要职能，是在炉芯能流出现异常或临界波动时，执行紧急校准，并向炉芯反向传输数据，以维持系统的稳定运行。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_052d4759",
+      "type": "note",
+      "text": "海维夏会在未知目标靠近时变为巨炮进行防守性攻击，进入核心范围变为人形机兵（女性特征）进入战斗。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "注释",
+        "source_row": 7,
+        "xlsx_section_index": 0,
+        "source_id": "row7#note"
+      }
     }
   ]
 }

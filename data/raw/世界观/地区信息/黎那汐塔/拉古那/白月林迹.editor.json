@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/白月林迹.editor.json",
+  "title": "白月林迹",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/白月林迹.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_7387e6f1",
+      "type": "text_title",
+      "text": "白月林迹",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_7d8e448b",
+      "type": "text_body",
+      "text": "嶙峋险峻的山脉似乎永远被长夜笼罩，呈现出深海一般的神秘幽暗。这片区域是拉古那最为古老的家族——翡萨烈家族的旧时领地，鲜有外人敢踏足。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,18 +1,33 @@
 {
   "role_name": "守岸人",
-  "extra_role_paths": [],
-  "extra_world_paths": [],
-  "region_overrides": [],
-  "allowed_story_paths": [
-    "主线/34-第三章-驶向尚未点亮之星-间章-日光落处/简介.txt"
+  "extra_role_paths": [
+    "角色/爱弥斯/基本信息.editor.json",
+    "角色/爱弥斯/基本信息.txt",
+    "角色/陆·赫斯/基本信息.txt"
   ],
-  "notes": "样例：仅可访问第三章间章《日光落处》的简介。",
+  "extra_world_paths": [
+    "世界观/地区信息"
+  ],
+  "region_overrides": [],
+  "allowed_story_paths": [],
+  "notes": "样例：仅可访问第三章间章《日光落处》。",
   "role_info": null,
   "allowed_role_paths": [
-    "角色/守岸人"
+    "角色/守岸人",
+    "角色/爱弥斯/基本信息.editor.json",
+    "角色/爱弥斯/基本信息.txt",
+    "角色/陆·赫斯/基本信息.txt"
   ],
   "allowed_world_paths": [
+    "世界观/全局世界观",
+    "世界观/地区信息"
+  ],
+  "allowed_region_layers": [],
+  "forced_role_paths": [
+    "角色/守岸人"
+  ],
+  "forced_world_paths": [
     "世界观/全局世界观"
   ],
-  "allowed_region_layers": []
+  "forced_region_layers": []
 }

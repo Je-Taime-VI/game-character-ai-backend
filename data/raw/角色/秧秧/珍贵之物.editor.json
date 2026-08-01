@@ -1,0 +1,270 @@
+{
+  "version": 5,
+  "path": "角色/秧秧/珍贵之物.editor.json",
+  "title": "珍贵之物",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "角色/秧秧/珍贵之物.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_87500c9c",
+      "type": "text_title",
+      "text": "风纹发带",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_cf488c8b",
+      "type": "text_body",
+      "text": "做工精致的发带，总是被秧秧戴在头上，连同那顶蓝色的帽子一起，成为了她的某种标志物。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_d829f2ec",
+      "type": "text_body",
+      "text": "离家远行前，母亲将这条发带作为礼物送给秧秧。对秧秧而言，它代表了母亲对自己的临别祝福，也象征着一段旅途的开始，她会一直记得自己第一次佩戴时，所下定的那份决心。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_9186a825",
+      "type": "text_title",
+      "text": "留声装置",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本标题",
+        "source_row": 6,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_a1437207",
+      "type": "text_body",
+      "text": "流息无时不在，却又转瞬即逝，习惯了聆听这种讲述，秧秧偶尔也会有将“风声”存储下来的想法。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_ac82b5f9",
+      "type": "text_body",
+      "text": "由白芷改良的这款留声装置，搭载了最新的能量转化技术，能够将秧秧感知到的流息，存储为可视可感的信息频谱。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_a2f3a69c",
+      "type": "text_body",
+      "text": "某场雪落山间的轻响，某个不被人知晓的故事，某刻叫人落泪的瞬间……秧秧用这种方式，记录下自己曾感知到的真实。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 1,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_e26be08d",
+      "type": "text_title",
+      "text": "万物弥声",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本标题",
+        "source_row": 11,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_a786c374",
+      "type": "text_body",
+      "text": "秧秧自童年起制作至今的风铃，拨片是打磨成鸟雀形状的晶石玉料。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_97db2ad7",
+      "type": "text_body",
+      "text": "一开始只有寥寥几片，但随秧秧去过的地方越来越多，自己收集或是伙伴所赠，如今已有数十片之多，长度和复杂度也是最初的好几倍。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    },
+    {
+      "id": "blk_4e36fb42",
+      "type": "text_body",
+      "text": "有限的基石不断延续，构成了可能性无限的演绎。随新的拨片不断加入，秧秧也不断调整着原有的位置和编排，最后风铃所奏究竟会是怎样一曲，秧秧不得而知，但砥砺初心、方得始终，家学所说的“一生一器”不外乎如此。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 2,
+        "keywords": [
+          "珍贵之物"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黑海岸/虹光.editor.json",
+  "title": "虹光",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黑海岸/虹光.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_9ced946e",
+      "type": "text_title",
+      "text": "虹光",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_af0c4a45",
+      "type": "text_title",
+      "text": "在穗波市索诺拉中涌动的淡虹色幻光，是当地特有的一种海蚀现象。穗波市中到处遗留着虹光的侵蚀痕迹。当周期性的悲鸣爆发，虹光将凝聚成实体切割途经的空间，捕捉并吞噬索诺拉中的事物。共鸣者长期暴露在虹光影响下共鸣力极易失控，甚至可能陷入超频状态。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本标题",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

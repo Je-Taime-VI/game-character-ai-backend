@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/七丘/守护兽声骸.editor.json",
+  "title": "守护兽声骸",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/七丘/守护兽声骸.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_57ea9c24",
+      "type": "text_title",
+      "text": "守护兽声骸",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_20bd3285",
+      "type": "text_body",
+      "text": "荣耀狮像——亚狮诺索。英雄们交战厮杀时的怒吼和大笑与狮鹫的雕像结合形成的强大声骸，自诞生起便守望着七丘的主城。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

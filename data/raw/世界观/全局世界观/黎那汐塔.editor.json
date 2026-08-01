@@ -1,0 +1,137 @@
+{
+  "version": 5,
+  "path": "世界观/全局世界观/黎那汐塔.editor.json",
+  "title": "黎那汐塔",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/全局世界观/黎那汐塔.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_dc8a2f48",
+      "type": "text_title",
+      "text": "黎那汐塔",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_0133f6fa",
+      "type": "text_body",
+      "text": "海上孤屿、声骸之国，有着独特的自然地貌和人文风土。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_5daf447e",
+      "type": "text_body",
+      "text": "由群岛上的数个高度独立的城邦组成的国家，并不存在传统意义上的政治中心。在传说中，黎那汐塔人的先祖为了从悲鸣中幸存，从另一片土地渡海迁徙而来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_95a30836",
+      "type": "text_body",
+      "text": "作为一个从悲鸣中重获新生的岛国，黎那汐塔曾一度因灾害和空间阻碍而与世界的其他区域隔绝。直到近代，黎那汐塔才开拓了通向其他国家或地区的航路，随着满载黎那汐塔所特产的香料和矿石的船队前往世界各地，奇珍与财富亦随着贸易不断向黎那汐塔汇集。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c4dcf36b",
+      "type": "text_body",
+      "text": "黎那汐塔拥有被称为「公共声骸」的特殊声骸技术，该技术使得声骸能够在「起源信标」的生效区域内长久存在，黎那汐塔人凭借此技术，将声骸广泛运用在了生活中的方方面面。黎那汐塔「声骸之国」的别称也正是由此而来。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ed6bd415",
+      "type": "text_body",
+      "text": "黎那汐塔人非常重视相同血脉带来的认同感，并形成了以血脉作为彼此纽带的家族文化。在黎那汐塔人的传统观念中，家族的福祉远重于个人命运。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

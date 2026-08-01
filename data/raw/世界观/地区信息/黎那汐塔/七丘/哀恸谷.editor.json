@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/七丘/哀恸谷.editor.json",
+  "title": "哀恸谷",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/七丘/哀恸谷.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_3def3386",
+      "type": "text_title",
+      "text": "哀恸谷",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_21eae3d8",
+      "type": "text_body",
+      "text": "被黑潮侵蚀过的海岸，拉古那人曾经到此传教时遗留在这里的神庙与神像皆已破败，无人供奉，散落在谷底。如今，这片隐含着奇异景观的区域已成为残象的栖所。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

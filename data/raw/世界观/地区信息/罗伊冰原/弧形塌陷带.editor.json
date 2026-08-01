@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/弧形塌陷带.editor.json",
+  "title": "弧形塌陷带",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/弧形塌陷带.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_7fea0aa3",
+      "type": "text_title",
+      "text": "弧形塌陷带",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3f3e3fa9",
+      "type": "text_body",
+      "text": "多年前因地下虚质磁暴喷发而坍落的弧形地域。随着地块下陷，埋藏于地基中的线缆网路与机械脊柱结构裸露而出，如同大地褪去表皮后显露的筋骨残骸。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

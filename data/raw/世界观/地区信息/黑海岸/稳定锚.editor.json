@@ -1,0 +1,77 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黑海岸/稳定锚.editor.json",
+  "title": "稳定锚",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黑海岸/稳定锚.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_c4326d4b",
+      "type": "text_title",
+      "text": "稳定锚",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_348a35f7",
+      "type": "text_body",
+      "text": "被安置在黑海岸地上群岛和地下空间中，用于校准、固化稳定黑海岸本岛巨大黑石频率的稳定装置，可以将泰缇斯系统的虚拟层和现实完全隔离，同时承担着黑海岸对世界各地的通信任务和对天空海的全天观测任务。这也是黑海岸无需设立中枢信标的原因。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9531efc3",
+      "type": "text_body",
+      "text": "稳定锚和泰缇斯系统不同，前者乃是黑海岸自研发设计，其灵感来自于旧时代反应堆工程学中使用的反应堆控制棒，被视为黑海岸极简工程学设计的典范。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -6,7 +6,14 @@
   ],
   "extra_world_paths": [
     "世界观/地区信息/新联邦/*",
+    "世界观/地区信息/新联邦/地区探索报告",
     "世界观/地区信息/新联邦/地区探索报告/**",
+    "世界观/地区信息/新联邦/日髓.editor.json",
+    "世界观/地区信息/新联邦/日髓.txt",
+    "世界观/地区信息/新联邦/猎犬.editor.json",
+    "世界观/地区信息/新联邦/猎犬.txt",
+    "世界观/地区信息/新联邦/诺维尔再生医药.editor.json",
+    "世界观/地区信息/新联邦/诺维尔再生医药.txt",
     "世界观/地区信息/瑝珑/今州.txt",
     "世界观/地区信息/瑝珑/令尹.txt",
     "世界观/地区信息/瑝珑/令尹近卫.txt",
@@ -40,7 +47,164 @@
   "region_overrides": [],
   "allowed_story_paths": [
     "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星/**",
+    "主线/34-第三章-驶向尚未点亮之星-间章-日光落处.editor.json",
+    "主线/34-第三章-驶向尚未点亮之星-间章-日光落处.txt",
     "主线/34-第三章-驶向尚未点亮之星-间章-日光落处/**"
+  ],
+  "allowed_story_premises": [
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "chapter_summary",
+      "block_index": 0
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 59
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 124
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 163
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 284
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 328
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 357
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 403
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 466
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 524
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 540
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 592
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1174
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1185
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1233
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1395
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1424
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1486
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 1504
+    }
+  ],
+  "allowed_story_segments": [
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 284,
+      "aggregate_start": 232,
+      "aggregate_end": 284
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 328,
+      "aggregate_start": 285,
+      "aggregate_end": 328
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 357,
+      "aggregate_start": 329,
+      "aggregate_end": 357
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 403,
+      "aggregate_start": 358,
+      "aggregate_end": 403
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 466,
+      "aggregate_start": 404,
+      "aggregate_end": 466
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 524,
+      "aggregate_start": 467,
+      "aggregate_end": 524
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 540,
+      "aggregate_start": 525,
+      "aggregate_end": 540
+    },
+    {
+      "path": "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt",
+      "premise_type": "paragraph_summary",
+      "block_index": 592,
+      "aggregate_start": 541,
+      "aggregate_end": 592
+    }
   ],
   "notes": "",
   "role_info": {
@@ -81,7 +245,14 @@
   "allowed_world_paths": [
     "世界观/全局世界观",
     "世界观/地区信息/新联邦/*",
+    "世界观/地区信息/新联邦/地区探索报告",
     "世界观/地区信息/新联邦/地区探索报告/**",
+    "世界观/地区信息/新联邦/日髓.editor.json",
+    "世界观/地区信息/新联邦/日髓.txt",
+    "世界观/地区信息/新联邦/猎犬.editor.json",
+    "世界观/地区信息/新联邦/猎犬.txt",
+    "世界观/地区信息/新联邦/诺维尔再生医药.editor.json",
+    "世界观/地区信息/新联邦/诺维尔再生医药.txt",
     "世界观/地区信息/瑝珑/今州.txt",
     "世界观/地区信息/瑝珑/令尹.txt",
     "世界观/地区信息/瑝珑/令尹近卫.txt",

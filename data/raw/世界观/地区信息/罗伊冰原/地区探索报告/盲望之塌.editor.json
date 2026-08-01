@@ -1,0 +1,377 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/盲望之塌.editor.json",
+  "title": "盲望之塌",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/盲望之塌.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_72290537",
+      "type": "text_title",
+      "text": "冰原空间站探索计划总览（节选）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_91155165",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1969b9f1",
+      "type": "text_body",
+      "text": "已知，在一次悲鸣中，索拉里斯的地轴与磁极产生了偏移。当拉海洛成为新的极点时，第一次灭绝随之发生，大量近地卫星与空间站也坠落在冰原之上。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_bb7b25d5",
+      "type": "text_body",
+      "text": "部分坠落的空间站短暂地成为罗伊人最初的庇护所，帮助部分罗伊先民在剧烈的气候变化中幸存。而这些空间站与卫星中残留的数据，成为了他们对计算与规律的启蒙。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_9d4e5ebd",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b8be2282",
+      "type": "text_body",
+      "text": "在这些年的探索中，大部分坠落的空间站和卫星残骸都已被定位并发掘。部分空间站受虚质磁暴影响，数据完全无法恢复，但仍有相当数量的空间站留存着珍贵的数据，成为照亮未来者的火炬。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a7dffac3",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8bb52b39",
+      "type": "text_body",
+      "text": "发现新的空间站遗迹。根据发现者的报告，该空间站名为天槎空间站。科考站已向天槎空间站派出前期探索队。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_75053907",
+      "type": "text_title",
+      "text": "天槎空间站工程简介（节选）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本标题",
+        "source_row": 11,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e8b49aa8",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_75a88446",
+      "type": "text_body",
+      "text": "天槎空间站工程由稷廷方主导推进，具备长期开展近地空间有人参与科学实验、空间技术实验与综合开发利用太空资源能力。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_1e8dd93d",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_61e00414",
+      "type": "text_body",
+      "text": "空间站的主要任务是：捕获天空海液滴并研究其性质、航天员长期驻留、研发并掌握空间转移技术、为终将到来的宇宙航行奠定基础、积累经验。在完成三组实验舱、六艘货运飞船等共16次飞行任务后，天槎空间站宣告全面建成，目前已转入应用与发展阶段。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_20c75c6c",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_aeeed111",
+      "type": "text_body",
+      "text": "目前，天空海液滴研究计划的第一阶段已完成，转移装置的性能趋于稳定，可在近地环境中投入使用。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_566d17d3",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a02c2f9e",
+      "type": "text_body",
+      "text": "第二阶段任务已启动实施。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_89af5866",
+      "type": "text_body",
+      "text": "愿与各位同乘智识之舟，共游星海。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

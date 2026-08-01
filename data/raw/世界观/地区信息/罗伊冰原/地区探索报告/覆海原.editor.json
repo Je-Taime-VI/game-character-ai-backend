@@ -1,0 +1,417 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/覆海原.editor.json",
+  "title": "覆海原",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/覆海原.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_b9bcfcb9",
+      "type": "text_title",
+      "text": "与昭日者的谈话记录（节选）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_b57a9c14",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_82f97029",
+      "type": "text_body",
+      "text": "曾有一位旅者曾拜访罗伊人的部族。旅者展示出的异象，证实了其与“巴德尔”的深厚联系。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_528e1641",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c3b11c97",
+      "type": "text_body",
+      "text": "旅者以此请求与当时的秘日六席对话。我们几乎从未与外界产生联系，关于是否答应这位旅者的请求，内部也有诸多不同的意见。而“巴德尔”与旅者的联系是如此深刻而不容忽视，我们不应将受其眷顾的存在拒绝于部族之外。最终，秘日六席决定向旅者发出会面的邀请。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f5b22a74",
+      "type": "text_body",
+      "text": "他们具体的谈话内容，当时的秘日六席并未誊录，只有关键的信息被保留下来：“巴德尔”本是为护送▇▇而生的存在。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1926814e",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_6d961918",
+      "type": "text_body",
+      "text": "在“巴德尔”最后一次运输▇▇时，其与▇▇遭遇。在到达目标地点▇▇▇前，“巴德尔”已因与██的战斗身负重伤，此后仍与▇▇持续战斗，直至来到这片我们生息的土地。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_aa397377",
+      "type": "text_body",
+      "text": "即使这位旅者与“巴德尔”的联系确凿无疑，这些消息仍然在上层中造成了冲击。冲击过后，我们也不得不承认：这些信息与罗伊神话的段落相互印证，应相信其为真相——这即是“巴德尔”的起源。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d1b1ffba",
+      "type": "text_body",
+      "text": "在商议后，当时的秘日六席决定暂时封存这些消息。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_f9aa34df",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a8b31276",
+      "type": "text_body",
+      "text": "如今，深空联合已开始运转，研究院正在逐渐触及“巴德尔”的本质。当时的旅者将“巴德尔”的来处告知于我等，或许正是需要我们在此刻将这些信息分享给各位。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_1f15d8e2",
+      "type": "text_body",
+      "text": "愿深空联合的计划能够顺利……愿照耀冰原的巨人再次起身。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_27c51a05",
+      "type": "text_title",
+      "text": "与昭日者的谈话总结",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本标题",
+        "source_row": 16,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_67ddfe09",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_6238a4ee",
+      "type": "text_body",
+      "text": "与昭日者会谈后，研究院提出的猜想被确认。而其中与▇▇相关的信息，则引起了来自瑝珑的研究者们的注意。一批研究者据此展开了与▇▇再生相关的研究，但遗憾的是，▇▇▇体系至今也处在我们无法触碰与理解的维度。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_343dd4d5",
+      "type": "text_body",
+      "text": "在不久后，这项研究便被搁置了。目前我们的第一目标，仍然是研究出稳定的外源性共鸣方式，以确保隧者能够在▇▇到来时启动。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本正文",
+        "source_row": 19,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_9f33cd2f",
+      "type": "text_body",
+      "text": "……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_dca4fc3e",
+      "type": "text_body",
+      "text": "此外，谈话中提到的旅者，其下落不明。关于其身份的推断，也在一段时间后搁置。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_1be3bd46",
+      "type": "text_body",
+      "text": "深空联合建立后，我们面临的挑战不止是学术上的，也有各方组织的渗透乃至于破坏。文明的阴影不止有鸣式一种，面对当前的危机，我们不得不允许一些小小的谜题继续存在。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

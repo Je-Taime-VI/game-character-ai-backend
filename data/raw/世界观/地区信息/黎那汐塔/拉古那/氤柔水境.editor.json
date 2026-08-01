@@ -1,0 +1,138 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/氤柔水境.editor.json",
+  "title": "氤柔水境",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/氤柔水境.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_d33b922a",
+      "type": "text_title",
+      "text": "氤柔水境",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_eda2cdba",
+      "type": "note",
+      "text": "此处”歌声“来自于罗蕾莱",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "注释",
+        "source_row": 2,
+        "xlsx_section_index": 0,
+        "source_id": "row2#note"
+      }
+    },
+    {
+      "id": "blk_04c9847f",
+      "type": "text_body",
+      "text": "氤柔水境是唯一一片存在于现实世界的索诺拉。此地常年不散的「云海」实际上由高浓度的回音能量构成。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_39f93ce2",
+      "type": "text_body",
+      "text": "氤氲的水雾中有时会传来一阵摄人心魄的歌声……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_366ea332",
+      "type": "text_body",
+      "text": "氤柔水境中的「云海」据说是第一次黑潮留下的残迹。云海逐渐上涨，淹没了被称为「旧神学院」的隐海修会中枢机构，修会因此迁移至拉古那城的水星天教堂。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_868c3647",
+      "type": "text_body",
+      "text": "在拉古那的传说中，氤柔水境的中心有一片宁静如镜面的水域，它可以净化人们内心的恶念，将它们化为云海的一部分。一些相信此传说的信徒踏上了朝圣之旅，希望能以此得到心灵的平静。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

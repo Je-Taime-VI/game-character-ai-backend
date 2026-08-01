@@ -1,0 +1,837 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/陷足流川.editor.json",
+  "title": "陷足流川",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/陷足流川.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_fd70f924",
+      "type": "text_title",
+      "text": "《罗伊历史考》节选一",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c24ca8a0",
+      "type": "text_body",
+      "text": "山峦倾倒，铁星坠落",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d608acf0",
+      "type": "text_body",
+      "text": "我们在铁星的残骸下",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_439f15db",
+      "type": "text_body",
+      "text": "今日没有果树，今夜没有篝火",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_cd9e0679",
+      "type": "text_body",
+      "text": "太阳与星辰，你不再应答",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ed721699",
+      "type": "text_body",
+      "text": "流云与夜空，你满覆泪水",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c9bcfbac",
+      "type": "text_body",
+      "text": "没有光的寂夜中",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_16a84f11",
+      "type": "text_body",
+      "text": "没有火的雪原中",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a4464c47",
+      "type": "text_body",
+      "text": "只有如太阳般耀眼的巨人",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_fe776607",
+      "type": "text_body",
+      "text": "只有如太阳般耀眼的巨人",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8132a8c3",
+      "type": "text_body",
+      "text": "祂说",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_a1b40bb3",
+      "type": "text_body",
+      "text": "活下去",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_746af492",
+      "type": "text_body",
+      "text": "——节选自罗伊古遥《因为巨人来过》其一",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3ae79769",
+      "type": "text_body",
+      "text": "根据罗伊神话与相关史料记载，在悲鸣降临拉海洛地区前，罗伊族生活在地表的峡湾森林中。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_155b59e8",
+      "type": "text_body",
+      "text": "而在悲鸣发生后，索拉里斯的▇▇▇▇▇▇发生变化，地区内气温骤降，并引发了▇▇▇▇与▇▇▇的坠落。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_eff0b1fe",
+      "type": "text_body",
+      "text": "彼时的罗伊人只得栖身于▇▇▇▇的残骸中，在荒芜的冰原上探索满覆冰雪的原野。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ab5d7f87",
+      "type": "text_title",
+      "text": "《罗伊历史考》节选二",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 18,
+        "source_type": "文本标题",
+        "source_row": 19,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_8a37e04d",
+      "type": "text_body",
+      "text": "七彩之柱，灭亡的虹光",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本正文",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ecf2a6e8",
+      "type": "text_body",
+      "text": "指甲，手掌，肩膀……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_b840b5c3",
+      "type": "text_body",
+      "text": "母亲如烛火般熄灭",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_f0cc199b",
+      "type": "text_body",
+      "text": "漆黑之地，陷落的平原",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_6b3c2214",
+      "type": "text_body",
+      "text": "断木，碎冰，风雪……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_5b66bf5d",
+      "type": "text_body",
+      "text": "我们如旅鼠般下坠",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a843407f",
+      "type": "text_body",
+      "text": "巨人与▇▇▇▇▇的战争",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_928acf76",
+      "type": "text_body",
+      "text": "平野与旧日纪的终结",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_d7df238d",
+      "type": "text_body",
+      "text": "黑暗下降",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_cdd08f02",
+      "type": "text_body",
+      "text": "那是▇▇▇▇▇的怒吼",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_0d9972c5",
+      "type": "text_body",
+      "text": "太阳上升",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_33270973",
+      "type": "text_body",
+      "text": "那是巨人的心脏",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_85dcc42d",
+      "type": "text_body",
+      "text": "虹光怎会熄灭",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_0d8c3727",
+      "type": "text_body",
+      "text": "黑暗怎会退却",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_197eccc7",
+      "type": "text_body",
+      "text": "我们怎会生还",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_949ab07b",
+      "type": "text_body",
+      "text": "因为巨人来过",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 34,
+        "source_type": "文本正文",
+        "source_row": 35,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2235f231",
+      "type": "text_body",
+      "text": "因为巨人来过",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 35,
+        "source_type": "文本正文",
+        "source_row": 36,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_29b6aeee",
+      "type": "text_body",
+      "text": "因为巨人来过",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 36,
+        "source_type": "文本正文",
+        "source_row": 37,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_534b253f",
+      "type": "text_body",
+      "text": "——罗伊古遥《因为巨人来过》其二",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 37,
+        "source_type": "文本正文",
+        "source_row": 38,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_7f91da8e",
+      "type": "text_body",
+      "text": "在冰原上摸索、努力生存的罗伊人并未由此获得安稳的生活，反而迎来了有史以来的第一次虚质磁暴。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 38,
+        "source_type": "文本正文",
+        "source_row": 39,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ad731047",
+      "type": "text_body",
+      "text": "根据罗伊古籍记载，那一天强烈的光芒冲破冰层直达天际，人们目之所及的一切都被磁暴吞噬，逐渐失去实体，从这个世界消解。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 39,
+        "source_type": "文本正文",
+        "source_row": 40,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_19e8a4c0",
+      "type": "text_body",
+      "text": "也就是在这一场灾难中，冰原经历了规模空前的塌陷，罗伊族祖先坠入了巨大的地下空洞中。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 40,
+        "source_type": "文本正文",
+        "source_row": 41,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_6572d6ca",
+      "type": "text_body",
+      "text": "但在无尽的黑暗中，一颗轰鸣的炉芯却冉冉升起——那是隧者取出自己的炉芯，化作了地下世界的太阳。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 41,
+        "source_type": "文本正文",
+        "source_row": 42,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2f483686",
+      "type": "text_body",
+      "text": "而关于与隧者大战的▇▇▇▇▇，记载中皆语焉不详，也许比起敌人的可怖，隧者的牺牲更值得罗伊人铭记。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 42,
+        "source_type": "文本正文",
+        "source_row": 43,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

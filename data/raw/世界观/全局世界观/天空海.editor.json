@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/全局世界观/天空海.editor.json",
+  "title": "天空海",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/全局世界观/天空海.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_e815789a",
+      "type": "text_title",
+      "text": "天空海",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_08faf3eb",
+      "type": "text_body",
+      "text": "随着某次悲鸣发生异变后，包裹并覆盖了整个索拉里斯天空的特殊现象，当前研究认为其由高密度回音能量组成。在它覆盖了整个星球之后，索拉里斯人对于宇宙的探索进程便陷入了停滞。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/罗伊冰原/地区探索报告/落日堤屿.editor.json",
+  "title": "落日堤屿",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/罗伊冰原/地区探索报告/落日堤屿.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_7866224b",
+      "type": "text_title",
+      "text": "行程录音·黯原勘探队一期（节选一）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_ff7bb350",
+      "type": "text_body",
+      "text": "【00:00:11】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_d5d6d6e6",
+      "type": "text_body",
+      "text": "我们从黯原深井中出来了！前辈你快看那个——那个是……那到底是什么？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 3,
+        "source_type": "文本正文",
+        "source_row": 4,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_110c2a72",
+      "type": "text_body",
+      "text": "【00:00:27】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 4,
+        "source_type": "文本正文",
+        "source_row": 5,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_3c54885d",
+      "type": "text_body",
+      "text": "那或许就是日脉源木。我听罗伊人推测过日灵归树后的真正去处，它们会在归树后逐渐失去形体，化作温暖的日光，沿着“根系”而下……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 5,
+        "source_type": "文本正文",
+        "source_row": 6,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2903f6c2",
+      "type": "text_body",
+      "text": "【00:00:55】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 6,
+        "source_type": "文本正文",
+        "source_row": 7,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_4d972cbf",
+      "type": "text_body",
+      "text": "失去形体？那……日灵归树会感到痛苦吗？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 7,
+        "source_type": "文本正文",
+        "source_row": 8,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_38c6b1f6",
+      "type": "text_body",
+      "text": "【00:01:00】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 8,
+        "source_type": "文本正文",
+        "source_row": 9,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c9ed0887",
+      "type": "text_body",
+      "text": "我不知道。但应该不会。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 9,
+        "source_type": "文本正文",
+        "source_row": 10,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c310c080",
+      "type": "text_body",
+      "text": "【00:01:05】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 10,
+        "source_type": "文本正文",
+        "source_row": 11,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_2ce7b432",
+      "type": "text_body",
+      "text": "你怎么知道？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 11,
+        "source_type": "文本正文",
+        "source_row": 12,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_cc685731",
+      "type": "text_body",
+      "text": "【00:01:07】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 12,
+        "source_type": "文本正文",
+        "source_row": 13,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_c438f406",
+      "type": "text_body",
+      "text": "我猜的。如果日灵这种生命的本能就是归树，那从隧者存在的逻辑，以及自然演化的角度上来说，祂就不会为它们的这个行为赋予痛觉。因为这是它们生命的必然流程，所以一旦启动这个程序，那就应该收获适度的正反馈，这样才能促使它们完成自己的生命周期。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 13,
+        "source_type": "文本正文",
+        "source_row": 14,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_53cf989c",
+      "type": "text_body",
+      "text": "【00:02:13】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 14,
+        "source_type": "文本正文",
+        "source_row": 15,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_803458c0",
+      "type": "text_body",
+      "text": "前辈说的有道理，但是……我总觉得应该不只是这样……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 15,
+        "source_type": "文本正文",
+        "source_row": 16,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_54448043",
+      "type": "text_body",
+      "text": "【00:02:25】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 16,
+        "source_type": "文本正文",
+        "source_row": 17,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_eae6ef4d",
+      "type": "text_body",
+      "text": "没关系。安妮卡，说说你的想法吧。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 17,
+        "source_type": "文本正文",
+        "source_row": 18,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_8e52b55e",
+      "type": "text_title",
+      "text": "行程录音·黯原勘探队一期（节选二）",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 19,
+        "source_type": "文本标题",
+        "source_row": 20,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_cab33521",
+      "type": "text_body",
+      "text": "【00:02:32】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 20,
+        "source_type": "文本正文",
+        "source_row": 21,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_c78b4ffb",
+      "type": "text_body",
+      "text": "我觉得……以我对日灵的研究，我更倾向于从一开始就是日灵们主动选择去这么做的……不是“某一个日灵选择这么做了”，而是“日灵们，决定这么做”。前辈还记得那篇提出了“隧群的个体智能只是节点，但节点构成的网络间存在反馈链和服务器”的论文吗？论文的作者用生物的遗传物质做了类比，用于解释他对隧群演化逻辑的假设。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 21,
+        "source_type": "文本正文",
+        "source_row": 22,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_076c40d1",
+      "type": "text_body",
+      "text": "【00:04:13】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 22,
+        "source_type": "文本正文",
+        "source_row": 23,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_a82227db",
+      "type": "text_body",
+      "text": "我记得，那篇论文提出的假设非常大胆，但数据拟合却是可以复现的，我记忆犹新。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 23,
+        "source_type": "文本正文",
+        "source_row": 24,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e5818f42",
+      "type": "text_body",
+      "text": "【00:04:29】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 24,
+        "source_type": "文本正文",
+        "source_row": 25,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4de57605",
+      "type": "text_body",
+      "text": "是的，所以我想，日灵这种生物，虽然和真正的动物或是隧群都有差异，但它们也具备智能和感知情绪的能力。个体日灵拥有的隧者能量很微弱，就算燃烧自己也只能释放出有限的光和热——但这就足以短暂地驱散虚质，或是驱动隧者的元件了，而这样，就能帮助同伴或隧群渡过难关，让它们有更多机会去履行被造物者赋予的使命。因此，当网络上的大量节点都点亮了同样的火时，这种行为也就被记录在了服务器中，从而构成了日灵网络的反馈逻辑……或许，归树从来都不是单个节点选择了终结，也不来源于被造物者设定好的生命指令，它是某种复杂的，尚未解明的运转逻辑共同作用的结果。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 25,
+        "source_type": "文本正文",
+        "source_row": 26,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_9c2e66e5",
+      "type": "text_body",
+      "text": "【00:06:04】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 26,
+        "source_type": "文本正文",
+        "source_row": 27,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2c3fe216",
+      "type": "text_body",
+      "text": "我明白了，你是说，日灵族群中同样诞生了进化演变中的“利他性”？",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 27,
+        "source_type": "文本正文",
+        "source_row": 28,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_e4f64635",
+      "type": "text_body",
+      "text": "【00:06:19】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 28,
+        "source_type": "文本正文",
+        "source_row": 29,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_ea2cd9ee",
+      "type": "text_body",
+      "text": "是的，而这种“利他性”最终表现出的，就是黯原中央的的日脉源木。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 29,
+        "source_type": "文本正文",
+        "source_row": 30,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_4411e31c",
+      "type": "text_body",
+      "text": "【00:06:29】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 30,
+        "source_type": "文本正文",
+        "source_row": 31,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_7536f5a7",
+      "type": "text_body",
+      "text": "现在，我们所见的这片落日，即是所有日灵的……",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 31,
+        "source_type": "文本正文",
+        "source_row": 32,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_dcdf3de4",
+      "type": "text_body",
+      "text": "【00:06:37】",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 32,
+        "source_type": "文本正文",
+        "source_row": 33,
+        "xlsx_section_index": 1
+      }
+    },
+    {
+      "id": "blk_2fe0cde7",
+      "type": "text_body",
+      "text": "万火归一。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 33,
+        "source_type": "文本正文",
+        "source_row": 34,
+        "xlsx_section_index": 1
+      }
+    }
+  ]
+}

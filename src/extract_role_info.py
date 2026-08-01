@@ -40,12 +40,25 @@ def parse_basic_info(text: str) -> dict:
     return info
 
 
+def editor_document_text(path: Path) -> str:
+    document = json.loads(path.read_text(encoding="utf-8-sig"))
+    blocks = document.get("blocks", []) if isinstance(document.get("blocks"), list) else []
+    texts: list[str] = []
+    for block in blocks:
+        if not isinstance(block, dict):
+            continue
+        text = str(block.get("text", "")).strip()
+        if text:
+            texts.append(text)
+    return "\n".join(texts)
+
+
 def extract_role_info(role_dir: Path) -> dict | None:
-    basic_info_path = role_dir / "基本信息.txt"
+    basic_info_path = role_dir / "基本信息.editor.json"
     if not basic_info_path.exists():
         return None
 
-    parsed = parse_basic_info(basic_info_path.read_text(encoding="utf-8"))
+    parsed = parse_basic_info(editor_document_text(basic_info_path))
     parsed["role_name"] = role_dir.name
     parsed["role_dir"] = role_dir.as_posix()
     parsed["basic_info_path"] = basic_info_path.as_posix()

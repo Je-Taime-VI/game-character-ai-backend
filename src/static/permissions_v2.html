@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>权限管理</title>
+  <link rel="stylesheet" href="/editor-static/permissions_v2.css?v=20260519-editor-entry">
+</head>
+<body>
+  <main class="app-shell">
+    <aside class="sidebar sidebar-left">
+      <section class="card role-card">
+        <h2>角色</h2>
+        <div class="role-controls">
+          <select id="roleSelect"></select>
+          <button id="saveBtn" class="primary">保存权限</button>
+        </div>
+        <p id="statusText" class="muted">等待加载</p>
+      </section>
+
+      <section class="card mapping-card">
+        <div class="mapping-head">
+          <h2>势力地区映射</h2>
+          <p class="muted">影响角色默认地区权限。</p>
+        </div>
+        <div class="mapping-form">
+          <input id="orgInput" placeholder="势力名">
+          <div class="region-autocomplete">
+            <input id="regionInput" placeholder="搜索/选择地区">
+            <div id="regionSuggestions" class="region-suggestions" hidden></div>
+          </div>
+          <button id="saveMappingBtn" class="secondary">保存</button>
+        </div>
+        <div id="mappingList" class="mapping-list"></div>
+      </section>
+    </aside>
+
+    <section class="workspace">
+      <header class="workspace-toolbar">
+        <div>
+          <p class="eyebrow">Permission Tree</p>
+          <h2>权限树</h2>
+          <p class="muted">子层部分勾选显示“−”，全部勾选显示“√”，全未勾选显示空白。</p>
+        </div>
+        <div class="search-box">
+          <input id="searchInput" list="searchSuggestions" placeholder="搜索文件或路径">
+          <datalist id="searchSuggestions"></datalist>
+          <button id="searchBtn" class="secondary">搜索</button>
+        </div>
+      </header>
+
+      <div class="action-row">
+        <button id="expandAllBtn" class="soft">全部展开</button>
+        <button id="collapseAllBtn" class="soft">全部收起</button>
+        <button id="newFolderBtn" class="secondary">新建文件夹</button>
+        <button id="newTxtBtn" class="secondary">新建 TXT</button>
+        <button id="openEditorBtn" class="secondary">编辑器打开</button>
+        <button id="deleteBtn" class="danger">删除</button>
+      </div>
+
+      <section class="tree-panel">
+        <div id="treeRoot" class="tree-root"></div>
+      </section>
+    </section>
+
+    <aside class="sidebar sidebar-right">
+      <section class="card summary-preview-card">
+        <h2>梗概预览</h2>
+        <div id="summaryPreview" class="summary-preview">
+          <p class="muted">在左侧展开剧情后，点击“本章梗概”或“段落梗概”可在这里预览文本。</p>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>地区关系树</h2>
+        <p class="muted">这里只展示地区层级本身，不展示地区说明 TXT 或探索报告。</p>
+        <div id="regionTree" class="region-tree"></div>
+      </section>
+    </aside>
+  </main>
+
+  <script src="/editor-static/permissions_v2.js?v=20260519-editor-entry" defer></script>
+</body>
+</html>

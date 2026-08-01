@@ -7,9 +7,14 @@
     "角色/莫宁/特殊文本/**",
     "角色/陆·赫斯/基本信息.txt"
   ],
-  "extra_world_paths": [],
+  "extra_world_paths": [
+    "世界观/地区信息/罗伊冰原"
+  ],
   "region_overrides": [],
-  "allowed_story_paths": [],
+  "allowed_story_paths": [
+    "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.editor.json",
+    "主线/33-第三章-驶向尚未点亮之星-第三幕-远航星.txt"
+  ],
   "notes": "",
   "role_info": {
     "resonance_ability": "长航的星辉",
@@ -45,7 +50,8 @@
     "角色/陆·赫斯/基本信息.txt"
   ],
   "allowed_world_paths": [
-    "世界观/全局世界观"
+    "世界观/全局世界观",
+    "世界观/地区信息/罗伊冰原"
   ],
   "allowed_region_layers": [
     {

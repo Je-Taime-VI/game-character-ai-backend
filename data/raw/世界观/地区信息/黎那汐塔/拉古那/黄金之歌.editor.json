@@ -1,0 +1,57 @@
+{
+  "version": 5,
+  "path": "世界观/地区信息/黎那汐塔/拉古那/黄金之歌.editor.json",
+  "title": "黄金之歌",
+  "doc_type": "story",
+  "meta": {
+    "source": "xlsx_annotation_table",
+    "source_workbook": "世界观/地区信息/黎那汐塔/拉古那/黄金之歌.xlsx",
+    "export_txt": false,
+    "player_placeholders": {
+      "PlayerName": "玩家用户名",
+      "TA": "玩家选择的性别"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blk_12689737",
+      "type": "text_title",
+      "text": "黄金之歌",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 1,
+        "source_type": "文本标题",
+        "source_row": 2,
+        "xlsx_section_index": 0
+      }
+    },
+    {
+      "id": "blk_02941739",
+      "type": "text_body",
+      "text": "拉古那过去久负盛名的诗社，一共三位成员，分别是法奥、塞雷塔、兰波。他们三人曾创作出许多称颂岁主和修会的诗歌。后来，修会宣传他们亵渎神明，黄金之歌的诗人们被送上朝圣船，从此再无音讯，他们的名字也成了拉古那的禁忌词汇。",
+      "annotations": {
+        "manual_refs": [],
+        "omissions": [],
+        "settings": []
+      },
+      "style": {
+        "italic": false,
+        "speech_mode": ""
+      },
+      "meta": {
+        "source_order": 2,
+        "source_type": "文本正文",
+        "source_row": 3,
+        "xlsx_section_index": 0
+      }
+    }
+  ]
+}

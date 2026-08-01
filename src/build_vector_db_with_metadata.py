@@ -37,26 +37,28 @@ def flatten_documents(documents: list[dict]) -> tuple[list[dict], list[dict]]:
 
     for doc in documents:
         for chunk in doc["chunks"]:
+            if chunk.get("retrieval_text"):
+                flat_entries.append(
+                    {
+                        "id": chunk["chunk_id"],
+                        "text": chunk.get("text") or chunk["retrieval_text"],
+                        "retrieval_text": chunk["retrieval_text"],
+                        "metadata": chunk["metadata"],
+                    }
+                )
             if chunk["line_chunks"]:
                 for line_chunk in chunk["line_chunks"]:
                     line_entries.append(
                         {
                             "id": line_chunk["line_id"],
                             "text": line_chunk["text"],
+                            "retrieval_text": line_chunk.get("retrieval_text") or line_chunk["text"],
                             "metadata": line_chunk["metadata"],
                             "parent_chunk_id": line_chunk["parent_id"],
                             "parent_text": chunk["text"],
                             "parent_metadata": chunk["metadata"],
                         }
                     )
-            else:
-                flat_entries.append(
-                    {
-                        "id": chunk["chunk_id"],
-                        "text": chunk["retrieval_text"],
-                        "metadata": chunk["metadata"],
-                    }
-                )
     return flat_entries, line_entries
 
 
@@ -94,17 +96,18 @@ def build_vector_db(
     metadata_path: Path = DEFAULT_OUTPUT_PATH,
     output_dir: Path = VECTOR_DB_DIR,
     model_name: str = DEFAULT_MODEL_NAME,
+    rebuild_metadata: bool = True,
 ) -> dict[str, Path]:
-    if metadata_path.exists():
-        documents = json.loads(metadata_path.read_text(encoding="utf-8"))
-    else:
+    if rebuild_metadata or not metadata_path.exists():
         documents = build_metadata()
         save_metadata(documents, metadata_path)
+    else:
+        documents = json.loads(metadata_path.read_text(encoding="utf-8"))
 
     flat_entries, line_entries = flatten_documents(documents)
 
-    flat_vectors = encode_texts(model_name, [entry["text"] for entry in flat_entries])
-    line_vectors = encode_texts(model_name, [entry["text"] for entry in line_entries])
+    flat_vectors = encode_texts(model_name, [entry.get("retrieval_text") or entry["text"] for entry in flat_entries])
+    line_vectors = encode_texts(model_name, [entry.get("retrieval_text") or entry["text"] for entry in line_entries])
 
     faiss = _lazy_import_faiss()
     output_dir.mkdir(parents=True, exist_ok=True)
