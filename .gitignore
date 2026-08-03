@@ -24,4 +24,7 @@ review_tmp/
 
 # Personal/academic deliverables and generated artifacts
 outputs/*
-!outputs/论文核心代码-独立注释版.md
+
+# 毕设文档与一次性脚本（移出仓库，本地保留）
+docs/thesis_draft*.md
+scripts/restore_editor_json.js
